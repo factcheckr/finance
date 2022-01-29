@@ -1,7 +1,0 @@
-[soonsal_newsletters]
-title = "순살브리핑 ─ 날짜별"
-url = "https://soonsal.com/newsletters"
-entrySelector = "ul.li_body.holder li.tit"
-titleSelector = "a.list_text_title._fade_link span"
-linkSelector = "a.list_text_title._fade_link"
-waitUntil = "networkidle"
