@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/finance/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-29T11:05:44.437Z</updated>
+    <updated>2022-01-29T11:49:54.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[💀사람을 사고 파는 플랫폼 [1월 28일] (순살브리핑 ─ 날짜별)]]></title>
@@ -248,5 +248,131 @@
         <link href="https://www.booding.co/post/%ED%9B%84%EB%B6%84%EC%96%91%EC%A0%9C%EA%B0%80-%EB%B6%80%EC%8B%A4-%EA%B3%B5%EC%82%AC%EB%A5%BC-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C"/>
         <updated>2022-01-29T00:16:48.956Z</updated>
         <content type="html"><![CDATA[후분양제가 부실 공사를 막을 수 있을까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전세대출 이자가 월세보다 비싸요! (부딩)]]></title>
+        <id>https://www.booding.co/post/%EC%A0%84%EC%84%B8%EB%8C%80%EC%B6%9C-%EC%9D%B4%EC%9E%90%EA%B0%80-%EC%9B%94%EC%84%B8%EB%B3%B4%EB%8B%A4-%EB%B9%84%EC%8B%B8%EC%9A%94</id>
+        <link href="https://www.booding.co/post/%EC%A0%84%EC%84%B8%EB%8C%80%EC%B6%9C-%EC%9D%B4%EC%9E%90%EA%B0%80-%EC%9B%94%EC%84%B8%EB%B3%B4%EB%8B%A4-%EB%B9%84%EC%8B%B8%EC%9A%94"/>
+        <updated>2022-01-29T11:49:53.756Z</updated>
+        <content type="html"><![CDATA[전세대출 이자가 월세보다 비싸요!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금리 오르면 집값 떨어짐? (부딩)]]></title>
+        <id>https://www.booding.co/post/%EA%B8%88%EB%A6%AC-%EC%98%A4%EB%A5%B4%EB%A9%B4-%EC%A7%91%EA%B0%92-%EB%96%A8%EC%96%B4%EC%A7%90</id>
+        <link href="https://www.booding.co/post/%EA%B8%88%EB%A6%AC-%EC%98%A4%EB%A5%B4%EB%A9%B4-%EC%A7%91%EA%B0%92-%EB%96%A8%EC%96%B4%EC%A7%90"/>
+        <updated>2022-01-29T11:49:53.756Z</updated>
+        <content type="html"><![CDATA[금리 오르면 집값 떨어짐?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서른 번째 생일 선물은? (부딩)]]></title>
+        <id>https://www.booding.co/post/%EC%84%9C%EB%A5%B8-%EB%B2%88%EC%A7%B8-%EC%83%9D%EC%9D%BC-%EC%84%A0%EB%AC%BC%EC%9D%80</id>
+        <link href="https://www.booding.co/post/%EC%84%9C%EB%A5%B8-%EB%B2%88%EC%A7%B8-%EC%83%9D%EC%9D%BC-%EC%84%A0%EB%AC%BC%EC%9D%80"/>
+        <updated>2022-01-29T11:49:53.756Z</updated>
+        <content type="html"><![CDATA[서른 번째 생일 선물은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쓸 데 있는 사전 청약 Q&A (부딩)]]></title>
+        <id>https://www.booding.co/post/%EC%93%B8-%EB%8D%B0-%EC%9E%88%EB%8A%94-%EC%82%AC%EC%A0%84-%EC%B2%AD%EC%95%BD-q-a</id>
+        <link href="https://www.booding.co/post/%EC%93%B8-%EB%8D%B0-%EC%9E%88%EB%8A%94-%EC%82%AC%EC%A0%84-%EC%B2%AD%EC%95%BD-q-a"/>
+        <updated>2022-01-29T11:49:53.757Z</updated>
+        <content type="html"><![CDATA[쓸 데 있는 사전 청약 Q&amp;A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포기하면 안 편해 (부딩)]]></title>
+        <id>https://www.booding.co/post/%ED%8F%AC%EA%B8%B0%ED%95%98%EB%A9%B4-%EC%95%88-%ED%8E%B8%ED%95%B4</id>
+        <link href="https://www.booding.co/post/%ED%8F%AC%EA%B8%B0%ED%95%98%EB%A9%B4-%EC%95%88-%ED%8E%B8%ED%95%B4"/>
+        <updated>2022-01-29T11:49:53.760Z</updated>
+        <content type="html"><![CDATA[포기하면 안 편해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새해 이렇게 바뀝니다 (부딩)]]></title>
+        <id>https://www.booding.co/post/%EC%83%88%ED%95%B4-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4</id>
+        <link href="https://www.booding.co/post/%EC%83%88%ED%95%B4-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4"/>
+        <updated>2022-01-29T11:49:53.761Z</updated>
+        <content type="html"><![CDATA[새해 이렇게 바뀝니다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전문가는 반반 (부딩)]]></title>
+        <id>https://www.booding.co/post/%EC%A0%84%EB%AC%B8%EA%B0%80%EB%8A%94-%EB%B0%98%EB%B0%98</id>
+        <link href="https://www.booding.co/post/%EC%A0%84%EB%AC%B8%EA%B0%80%EB%8A%94-%EB%B0%98%EB%B0%98"/>
+        <updated>2022-01-29T11:49:53.761Z</updated>
+        <content type="html"><![CDATA[전문가는 반반]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세부담이 늘어나요 (부딩)]]></title>
+        <id>https://www.booding.co/post/%EC%84%B8%EB%B6%80%EB%8B%B4%EC%9D%B4-%EB%8A%98%EC%96%B4%EB%82%98%EC%9A%94</id>
+        <link href="https://www.booding.co/post/%EC%84%B8%EB%B6%80%EB%8B%B4%EC%9D%B4-%EB%8A%98%EC%96%B4%EB%82%98%EC%9A%94"/>
+        <updated>2022-01-29T11:49:53.763Z</updated>
+        <content type="html"><![CDATA[세부담이 늘어나요]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스마스 영화 속 멋진 집 (부딩)]]></title>
+        <id>https://www.booding.co/post/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%EC%98%81%ED%99%94-%EC%86%8D-%EB%A9%8B%EC%A7%84-%EC%A7%91</id>
+        <link href="https://www.booding.co/post/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%EC%98%81%ED%99%94-%EC%86%8D-%EB%A9%8B%EC%A7%84-%EC%A7%91"/>
+        <updated>2022-01-29T11:49:53.763Z</updated>
+        <content type="html"><![CDATA[크리스마스 영화 속 멋진 집]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년 부동산 결산 (부딩)]]></title>
+        <id>https://www.booding.co/post/2021%EB%85%84-%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B2%B0%EC%82%B0</id>
+        <link href="https://www.booding.co/post/2021%EB%85%84-%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B2%B0%EC%82%B0"/>
+        <updated>2022-01-29T11:49:53.765Z</updated>
+        <content type="html"><![CDATA[2021년 부동산 결산]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 선거철엔 규제완화책이 나올까? (부딩)]]></title>
+        <id>https://www.booding.co/post/%EC%99%9C-%EC%84%A0%EA%B1%B0%EC%B2%A0%EC%97%94-%EA%B7%9C%EC%A0%9C%EC%99%84%ED%99%94%EC%B1%85%EC%9D%B4-%EB%82%98%EC%98%AC%EA%B9%8C</id>
+        <link href="https://www.booding.co/post/%EC%99%9C-%EC%84%A0%EA%B1%B0%EC%B2%A0%EC%97%94-%EA%B7%9C%EC%A0%9C%EC%99%84%ED%99%94%EC%B1%85%EC%9D%B4-%EB%82%98%EC%98%AC%EA%B9%8C"/>
+        <updated>2022-01-29T11:49:53.765Z</updated>
+        <content type="html"><![CDATA[왜 선거철엔 규제완화책이 나올까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수요보다 공급이 많아요 (부딩)]]></title>
+        <id>https://www.booding.co/post/%EC%88%98%EC%9A%94%EB%B3%B4%EB%8B%A4-%EA%B3%B5%EA%B8%89%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%9A%94</id>
+        <link href="https://www.booding.co/post/%EC%88%98%EC%9A%94%EB%B3%B4%EB%8B%A4-%EA%B3%B5%EA%B8%89%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%9A%94"/>
+        <updated>2022-01-29T11:49:53.765Z</updated>
+        <content type="html"><![CDATA[수요보다 공급이 많아요]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1인가구 어떻게 살고 있나요? (부딩)]]></title>
+        <id>https://www.booding.co/post/1%EC%9D%B8%EA%B0%80%EA%B5%AC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%B4%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94</id>
+        <link href="https://www.booding.co/post/1%EC%9D%B8%EA%B0%80%EA%B5%AC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%B4%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94"/>
+        <updated>2022-01-29T11:49:53.766Z</updated>
+        <content type="html"><![CDATA[1인가구 어떻게 살고 있나요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집값 하락 징조는? (부딩)]]></title>
+        <id>https://www.booding.co/post/%EC%A7%91%EA%B0%92-%ED%95%98%EB%9D%BD-%EC%A7%95%EC%A1%B0%EB%8A%94</id>
+        <link href="https://www.booding.co/post/%EC%A7%91%EA%B0%92-%ED%95%98%EB%9D%BD-%EC%A7%95%EC%A1%B0%EB%8A%94"/>
+        <updated>2022-01-29T11:49:53.767Z</updated>
+        <content type="html"><![CDATA[집값 하락 징조는?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브랜드 아파트도 미리 찜 (부딩)]]></title>
+        <id>https://www.booding.co/post/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%95%84%ED%8C%8C%ED%8A%B8%EB%8F%84-%EB%AF%B8%EB%A6%AC-%EC%B0%9C</id>
+        <link href="https://www.booding.co/post/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%95%84%ED%8C%8C%ED%8A%B8%EB%8F%84-%EB%AF%B8%EB%A6%AC-%EC%B0%9C"/>
+        <updated>2022-01-29T11:49:53.768Z</updated>
+        <content type="html"><![CDATA[브랜드 아파트도 미리 찜]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전월세 가격 협상권이 상승합니다 (부딩)]]></title>
+        <id>https://www.booding.co/post/%EC%A0%84%EC%9B%94%EC%84%B8-%EA%B0%80%EA%B2%A9-%ED%98%91%EC%83%81%EA%B6%8C%EC%9D%B4-%EC%83%81%EC%8A%B9%ED%95%A9%EB%8B%88%EB%8B%A4</id>
+        <link href="https://www.booding.co/post/%EC%A0%84%EC%9B%94%EC%84%B8-%EA%B0%80%EA%B2%A9-%ED%98%91%EC%83%81%EA%B6%8C%EC%9D%B4-%EC%83%81%EC%8A%B9%ED%95%A9%EB%8B%88%EB%8B%A4"/>
+        <updated>2022-01-29T11:49:53.770Z</updated>
+        <content type="html"><![CDATA[전월세 가격 협상권이 상승합니다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나랑 무슨 상관? (부딩)]]></title>
+        <id>https://www.booding.co/post/%EB%82%98%EB%9E%91-%EB%AC%B4%EC%8A%A8-%EC%83%81%EA%B4%80-1</id>
+        <link href="https://www.booding.co/post/%EB%82%98%EB%9E%91-%EB%AC%B4%EC%8A%A8-%EC%83%81%EA%B4%80-1"/>
+        <updated>2022-01-29T11:49:53.771Z</updated>
+        <content type="html"><![CDATA[나랑 무슨 상관?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하락, 횡보, 상승? (부딩)]]></title>
+        <id>https://www.booding.co/post/%ED%95%98%EB%9D%BD-%ED%9A%A1%EB%B3%B4-%EC%83%81%EC%8A%B9</id>
+        <link href="https://www.booding.co/post/%ED%95%98%EB%9D%BD-%ED%9A%A1%EB%B3%B4-%EC%83%81%EC%8A%B9"/>
+        <updated>2022-01-29T11:49:53.773Z</updated>
+        <content type="html"><![CDATA[하락, 횡보, 상승?]]></content>
     </entry>
 </feed>
