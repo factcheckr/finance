@@ -25,3 +25,23 @@ linkSelector = "div.image-wrapper.remove-line-height a"
 contentSelector = "p.description.label-middle-description.ellipsis.three"
 imageSelector = "div.image-wrapper.remove-line-height a div.image-box"
 waitUntil = "networkidle"
+
+[themiilk_investing_rising-stocks]
+title = "더밀크 ─ Investing ─ 유망주"
+url = "https://themiilk.com/investing/category/rising-stocks"
+entrySelector = "div.content-wrapper ul.list li.item"
+titleSelector = "h2.title.label-middle-title.bold.ellipsis.two"
+linkSelector = "div.image-wrapper.remove-line-height a"
+contentSelector = "p.description.label-middle-description.ellipsis.three"
+imageSelector = "div.image-wrapper.remove-line-height a div.image-box"
+waitUntil = "networkidle"
+
+[themiilk_investing_stock-basics]
+title = "더밀크 ─ Investing ─ 미국주식 101"
+url = "https://themiilk.com/investing/category/stock-basics"
+entrySelector = "div.content-wrapper ul.list li.item"
+titleSelector = "h2.title.label-middle-title.bold.ellipsis.two"
+linkSelector = "div.image-wrapper.remove-line-height a"
+contentSelector = "p.description.label-middle-description.ellipsis.three"
+imageSelector = "div.image-wrapper.remove-line-height a div.image-box"
+waitUntil = "networkidle"
