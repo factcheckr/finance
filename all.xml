@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/finance/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-01-29T00:16:49.688Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[💀사람을 사고 파는 플랫폼 [1월 28일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9742339&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9742339&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.263Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 29 Jan 2022 00:27:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💀사람을 사고 파는 플랫폼 [1월 28일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9742339&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9742339&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -26,14 +29,14 @@
 												<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🍔맥도날드, 굳이 샀어야 했나? [1월 27일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9722479&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9722479&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.267Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🍔맥도날드, 굳이 샀어야 했나? [1월 27일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9722479&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9722479&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -49,14 +52,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚗️현대판 연금술, 3D 프린팅 [1월 26일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9703083&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9703083&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.279Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[⚗️현대판 연금술, 3D 프린팅 [1월 26일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9703083&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9703083&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -72,14 +75,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎴도박으로 먹고사는 환락도시 [1월 25일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9675528&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9675528&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.279Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎴도박으로 먹고사는 환락도시 [1월 25일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9675528&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9675528&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -95,14 +98,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📞마이크로소프트, 콜센터에 투자하는 이유 [1월 24일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9631124&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9631124&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.279Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[📞마이크로소프트, 콜센터에 투자하는 이유 [1월 24일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9631124&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9631124&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -118,14 +121,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💰아이폰 유저들, 삼성전자를 응원해야 하는 이유? [1월 21일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9553374&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9553374&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.280Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💰아이폰 유저들, 삼성전자를 응원해야 하는 이유? [1월 21일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9553374&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9553374&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -141,14 +144,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💰2022년, 비트코인 어디까지 갈까? [1월 20일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9521113&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9521113&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.282Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💰2022년, 비트코인 어디까지 갈까? [1월 20일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9521113&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9521113&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -164,14 +167,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🛸드론, 날리면 간첩? [1월 19일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9496314&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9496314&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.284Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🛸드론, 날리면 간첩? [1월 19일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9496314&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9496314&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -187,14 +190,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔪스타트업으로 향하는 칼날 [1월 18일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9485167&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9485167&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.285Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🔪스타트업으로 향하는 칼날 [1월 18일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9485167&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9485167&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -210,14 +213,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💰헤지펀드 투자, 개인들도 가능? (feat. ETF) [1월 17일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9473151&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9473151&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.288Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💰헤지펀드 투자, 개인들도 가능? (feat. ETF) [1월 17일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9473151&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9473151&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -233,20 +236,101 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[땅에서 번 돈은 다시 땅으로 (부딩)]]></title>
-        <id>https://www.booding.co/post/%EB%95%85%EC%97%90%EC%84%9C-%EB%B2%88-%EB%8F%88%EC%9D%80-%EB%8B%A4%EC%8B%9C-%EB%95%85%EC%9C%BC%EB%A1%9C</id>
-        <link href="https://www.booding.co/post/%EB%95%85%EC%97%90%EC%84%9C-%EB%B2%88-%EB%8F%88%EC%9D%80-%EB%8B%A4%EC%8B%9C-%EB%95%85%EC%9C%BC%EB%A1%9C"/>
-        <updated>2022-01-29T00:16:48.953Z</updated>
-        <content type="html"><![CDATA[땅에서 번 돈은 다시 땅으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후분양제가 부실 공사를 막을 수 있을까? (부딩)]]></title>
-        <id>https://www.booding.co/post/%ED%9B%84%EB%B6%84%EC%96%91%EC%A0%9C%EA%B0%80-%EB%B6%80%EC%8B%A4-%EA%B3%B5%EC%82%AC%EB%A5%BC-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C</id>
-        <link href="https://www.booding.co/post/%ED%9B%84%EB%B6%84%EC%96%91%EC%A0%9C%EA%B0%80-%EB%B6%80%EC%8B%A4-%EA%B3%B5%EC%82%AC%EB%A5%BC-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C"/>
-        <updated>2022-01-29T00:16:48.956Z</updated>
-        <content type="html"><![CDATA[후분양제가 부실 공사를 막을 수 있을까?]]></content>
-    </entry>
-</feed>
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[땅에서 번 돈은 다시 땅으로 (부딩)]]></title>
+            <link>https://www.booding.co/post/%EB%95%85%EC%97%90%EC%84%9C-%EB%B2%88-%EB%8F%88%EC%9D%80-%EB%8B%A4%EC%8B%9C-%EB%95%85%EC%9C%BC%EB%A1%9C</link>
+            <guid>https://www.booding.co/post/%EB%95%85%EC%97%90%EC%84%9C-%EB%B2%88-%EB%8F%88%EC%9D%80-%EB%8B%A4%EC%8B%9C-%EB%95%85%EC%9C%BC%EB%A1%9C</guid>
+            <pubDate>Sat, 29 Jan 2022 00:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[땅에서 번 돈은 다시 땅으로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후분양제가 부실 공사를 막을 수 있을까? (부딩)]]></title>
+            <link>https://www.booding.co/post/%ED%9B%84%EB%B6%84%EC%96%91%EC%A0%9C%EA%B0%80-%EB%B6%80%EC%8B%A4-%EA%B3%B5%EC%82%AC%EB%A5%BC-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C</link>
+            <guid>https://www.booding.co/post/%ED%9B%84%EB%B6%84%EC%96%91%EC%A0%9C%EA%B0%80-%EB%B6%80%EC%8B%A4-%EA%B3%B5%EC%82%AC%EB%A5%BC-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C</guid>
+            <pubDate>Sat, 29 Jan 2022 00:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[후분양제가 부실 공사를 막을 수 있을까?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[깜짝 실적 빛난 섹터는?...월가 “1분기 이익 5.6% 증가할 것” (더밀크 ─ Investing ─ 최신기사)]]></title>
+            <link>https://themiilk.com/articles/ad8125e45</link>
+            <guid>https://themiilk.com/articles/ad8125e45</guid>
+            <pubDate>Sat, 29 Jan 2022 00:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[커뮤니케이션 서비스, IT, 산업(Industrials) 섹터 기업들이 4분기 실적발표에서 양호한 성과를 낸 것으로 집계됐다.28일(현지시각) 금융 정보업체 팩트셋(Factset) 데이터에 따르면 현재까지 추정치를 웃도는 깜짝 실적(어닝 서프라이즈)을 가장 많이 기록한 섹터는 커뮤니케이션 서비스였다.현재까지 실적을 발표한 S&amp;P 500 기업은 33%이며 이들 중 77%가 월스트리트 EPS(주당순이익) 추정치보다 나은 실제 EPS를 발표했다. S&amp;P 500 지수에 속하는 기업 3분의 1이 실적을 발표한 가운데, 11개 섹터 중 커뮤니케이션 서비스의 성적이 가장 양호했던 것이다.커뮤니케이션 서비스에 속한 기업으로는 버라이즌(티커: VZ), 알파벳(티커: GOOGL), 메타(티커: FB) 등이 있다. 버라이즌 지난 25일 시장 추정치를 상회하는 양호한 실적을 발표했고, 알파벳과 메타는 다음주 실적 발표가 예정돼 있다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/38bb488a7e/4ff4705cde_1643409718" length="0" type="image/com/production/article/38bb488a7e/4ff4705cde_1643409718"/>
+        </item>
+        <item>
+            <title><![CDATA[컴캐스트, 에픽 유니버스 만든다.. 실적도 호조 (더밀크 ─ Investing ─ 최신기사)]]></title>
+            <link>https://themiilk.com/articles/ab3d6641b</link>
+            <guid>https://themiilk.com/articles/ab3d6641b</guid>
+            <pubDate>Sat, 29 Jan 2022 00:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[미국 케이블TV 1위 사업자인 컴캐스트(티커:CMCSA)가 2021년 4분기 매출과 수익 모두, 미국 증권가의 예상을 뛰어넘었다. 자회사인 미디어 기업 NBC유니버설은 매출 93억 달러(11조 원)로 전년 동기 대비 25.6%가 증가했다. 코로나 팬데믹으로 인한 출입 제한이 풀리면서  유니버설 스튜디오 매출이 36% 이상 상승해 실적이 개선됐다. 테마파크 부문 매출은 전년 대비 190%가 넘는 성장률을 보였다. 이를 종합한 전체 컴캐스트의 지난해 4분기 매출은 303억 달러(36조 5000억 원)에 달했다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/ac1c0ce1c0/d63063a515_1643354991" length="0" type="image/com/production/article/ac1c0ce1c0/d63063a515_1643354991"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕증시, 실적 무관 '단체기합' 중.. 이보다 더 좋은 투자타이밍 있을까? (더밀크 ─ Investing ─ 최신기사)]]></title>
+            <link>https://themiilk.com/articles/a55fa87e9</link>
+            <guid>https://themiilk.com/articles/a55fa87e9</guid>
+            <pubDate>Sat, 29 Jan 2022 00:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[미 연준이 오는 3월 금리 인상을 예고한 가운데 미국 주식시장이 1월 중순 이후 급등락을 거듭하고 있다. 제롬 파월 연준 의장이 '언제, 얼마큼'의 금리를 올리겠다는 신호를 확실하게 하지 않은데 따른 불확실성의 결과다. 전문가들은 추가 하락 가능성을 언급하면서도 대형 기술주 등 좋은 가격대로 진입한 기업들은 매수 기회라고 강조한다. 실적과는 무관히 '단체 기합' 중인 기업들은 투자자들에겐 절호의 찬스가 될 수 있다는 설명이다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/9957a0df03/30fb39d724_1643307567" length="0" type="image/com/production/article/9957a0df03/30fb39d724_1643307567"/>
+        </item>
+        <item>
+            <title><![CDATA[금리 인상 위기?...테슬라가 증명한 3가지 데이터 (더밀크 ─ Investing ─ 최신기사)]]></title>
+            <link>https://themiilk.com/articles/af1cf0e90</link>
+            <guid>https://themiilk.com/articles/af1cf0e90</guid>
+            <pubDate>Sat, 29 Jan 2022 00:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라(티커: TSLA)가 역대 최대 규모의 4분기 실적을 발표했다. 2021년 2분기 이후 세 분기 연속으로 분기 최대 매출액을 경신했다.테슬라는 26일 지난 4분기 177억1900만달러(약 21조2400억원)의 매출을 기록했다고 밝혔다. 작년 같은 기간 대비 65% 증가한 수치다.조정 EBITDA(법인세·이자·감가상각비 차감 전 영업이익)는 40억9000만달러(약 4조9000억원)로 작년 4분기보다 121% 늘었다. 당기순이익은 23억2100만달러(약 2조8000억원)로 760% 급증했다.4분기 차량 인도량(Total deliveries)은 30만8650대로 전년 대비 71% 증가했고, 연간 차량 인도량(93만6172만대)도 2020년 대비 87% 증가, 역대 최대를 기록했다.조정 주당순이익(EPS)은 2.52달러로 월스트리트 추정치 2.36달러를 웃돌았다. 매출액 역시 시장 추정치(165억7000만달러)를 뛰어넘는 양호한 실적이었다. 호실적 기대감에 이날 테슬라 주가는 2.07% 상승했다. 실적이 발표된 후 시간 외 거래에서도 1.4%가량 상승 중이다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/aebbadb367/09fd6503d9_1643244432" length="0" type="image/com/production/article/aebbadb367/09fd6503d9_1643244432"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트 정점인가? 블리자드 인수 후 방향 촉각 (더밀크 ─ Investing ─ 최신기사)]]></title>
+            <link>https://themiilk.com/articles/a71b959a1</link>
+            <guid>https://themiilk.com/articles/a71b959a1</guid>
+            <pubDate>Sat, 29 Jan 2022 00:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MSFT) 실적은 클라우드 서비스 부분이 이끌었다. 마이크로소프트 2021년 마지막 분기(MS 회계년도 2분기) 매출 517억 달러를 기록, 전년 동기대비 20% 성장했다. 영업업이익 222억 달러, 순이익 188억 달러를 기록했다. 팩트셋은 마이크로소프트가 이번 분기에 507억 달러 매출과 175억 달러 순이익을 달성할 것으로 예상했다. 마이크로소프트는 예측을 뛰어넘는 성과를 냈다. 에이미 후드 마이크로소프트 최고재무책임자(CFO)는 "클라우드 매출이 전년 대비 32% 증가함 221억 달러로 증가했다"고 밝혔다. 클라우드 인프라 서비스인 '애저(Azure)'는 46% 성장했다. 전분기 48% 성장보다는 약간 낮아졌다. 마이크로소프트는 지난 2년간 코로나19 확산에 따른 수혜 기업 중 하나다. 세계 많은 기업과 정부, 학교가 클라우드 서비스로 이전하고 협업 도구를 사용했다.  마이크로소프트는 이 분야 강자로 관련 서비스를 판매했다. 오미크론 변종이 확산하면서 사무실로 복귀가 늦어져 관련 분야 매출이 계속 늘고 있다. 마이크로소프트 주식은 팬데믹 시작 후 성과가 좋았다. 2년 간 약 75% 성장하며 애플 뒤를 이어 시가총액 2000억 달러를 돌파했다. 마이크로소프트가 예상치를 뛰어넘는 실적을 발표했지만 초기 주가는 4% 이상 하락했다. 일부 투자가와 분석가는 마이크로소프트 성장이 정점에 이르렀을 가능성에 예의 주시한다. 에이미 후드 CFO는 다음분기(MS 회계년도 3분기) 매출이 485억 달러에서 493억 달러에 이를 것으로 예측했다. 이는 레피니티브 컨센서스인 482억 3000만 달러를 넘어서는 수치다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/2517509212/891e555d7c_1643161784" length="0" type="image/com/production/article/2517509212/891e555d7c_1643161784"/>
+        </item>
+        <item>
+            <title><![CDATA[연준 폭주·지정학적 위기·변동성 큰 시장까지 ... "2018년 데자뷰" (더밀크 ─ Investing ─ 최신기사)]]></title>
+            <link>https://themiilk.com/articles/a0938b640</link>
+            <guid>https://themiilk.com/articles/a0938b640</guid>
+            <pubDate>Sat, 29 Jan 2022 00:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[뉴욕증시가 변동성이 큰 널뛰기 장세를 이어가고 있다. 전날 최저점 대비 4% 이상 급등하면서 상승마감 한 뉴욕증시는 하루만에 다시 하락 반전으로 마감했다. 25일(현지시각) 뉴욕증시에서 다우존스는 전날보다 66.77포인트(0.19%) 내린 3만4297.73에 마감했다. S&amp;P500지수는 53.68포인트(1.22%) 내린 4356.45에 거래됐고, 나스닥지수는 315.83포인트(2.28%) 하락한 1만3539.29로 장을 마쳤다. 이날 시장 하락세는 연준의 긴축기조에 따른 불안감이 반영됐다. 특히 직격탄을 맞을 것으로 예상되는 기술주 중심의 나스닥 지수는 이날도 변동성이 큰 모습을 보였다. 전날 5% 가까이 하락했다 상승 반전한 나스닥 지수는 장중 한 때 3% 이상 하락했다가 낙폭을 줄여 2%대로 하락 마감했다.  또 러시아와 우크라이나 '전쟁' 우려도 시장 하락의 원인이 됐다. 미국은 러시아의 우크라이나 침공과 관련, 강력한 경고의 메시지를 보내면서 시장의 우려를 키웠다. 시장 전문가들은 최근 롤러코스터 장세가 지난 2018년과 흡사하다고 입을 모은다. 데이비드 리 테일러투자자문그룹 최고투자책임자(CIO)는 지난 24일(현지시각) 더밀크 TV의 ‘미국형님’ 긴급 방송에 출연해 극강의 변동성을 보인 이날 뉴욕증시 상황에 대해 "연준의 긴축기조와 지정학적 위기로 인해 폭락장이 연출됐던 지난 2018년 상황과 너무 흡사하다"고 분석했다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/2c86b1d657/b260337ec0_1643215053" length="0" type="image/com/production/article/2c86b1d657/b260337ec0_1643215053"/>
+        </item>
+        <item>
+            <title><![CDATA[‘넷플릭스·모더나’ 왜 가장 많이 빠졌나...저가 매수 기회는 어디? (더밀크 ─ Investing ─ 최신기사)]]></title>
+            <link>https://themiilk.com/articles/aaf454053</link>
+            <guid>https://themiilk.com/articles/aaf454053</guid>
+            <pubDate>Sat, 29 Jan 2022 00:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[1월은 미국 주식 시장 투자들에게 힘겨운 시기로 기억될 전망이다. 특히 기술주 중심의 나스닥 지수는 3대 지수 중 가장 많이(13.98%, 현지시각 25일 종가 기준) 하락하며 투자자들을 절망에 빠뜨렸다.그중에서도 코로나19 관련 수혜주로 꼽혔던 기업들의 주가 하락폭이 컸다. 매출 및 시장 확대라는 꿈을 먹고 고평가됐다가 금리 인상이라는 벽에 부딪혀 현실로 돌아온 기업들이다. 미국 투자전문 매체 배런스에 따르면 올해 가장 많이 주가가 하락한 회사는 넷플릭스(NFLX), 모더나(티커: MRNA), 엣시(티커: ETSY) 등이었다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/cebfc120bc/ed9dea264a_1643213680" length="0" type="image/com/production/article/cebfc120bc/ed9dea264a_1643213680"/>
+        </item>
+        <item>
+            <title><![CDATA[DNA 프린터 개발: 디엔에이 스크립트 (더밀크 ─ Investing ─ 최신기사)]]></title>
+            <link>https://themiilk.com/articles/aaef5792d</link>
+            <guid>https://themiilk.com/articles/aaef5792d</guid>
+            <pubDate>Sat, 29 Jan 2022 00:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[디엔에이 스크립트(DNA Script)는 저비용으로 단기간에 ‘유전자 쓰기’가 가능한 DNA 합성 프린터를 출시했다. 이 회사 탁상용 DNA 프린터인 SYNTAX 시스템은 실험실에서 빠르고 신속하게 작업흐름을 제어한다. 디엔에이 스크립트 제품은 유전자 공학 분야 전반에 혁신을 일으키고 있다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/9fe9a6e30e/4eee4cbb66_1643088124" length="0" type="image/com/production/article/9fe9a6e30e/4eee4cbb66_1643088124"/>
+        </item>
+        <item>
+            <title><![CDATA[L로 시작했다 V로 끝났다... 드라마 쓴 뉴욕증시 10문10답 (더밀크 ─ Investing ─ 최신기사)]]></title>
+            <link>https://themiilk.com/articles/ad485d8ab</link>
+            <guid>https://themiilk.com/articles/ad485d8ab</guid>
+            <pubDate>Sat, 29 Jan 2022 00:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[뉴욕증시가 극강의 변동성을 보였다.  이날 3대 지수는 연방준비제도(Fed, 이하 연준)의 매파적인 긴축 우려와 우크라이나를 둘러싼 지정학적 긴장으로 인해 장 중반 나스닥이4.5%가 빠지는 '블랙 먼데이급' 폭락 장을 연출했으나 장 마감 1시간을 앞두고 급상승, 극적으로 플러스 마감했다.  연준의 기준금리 인상이 본격화하면서 투자자들의 심리가 위축된데다, 러시아와 우크라이나를 둘러싼 전쟁 위험, 그리고 주요 빅테크 기업 실적발표 등이 매도세에 기름을 부었다. 그러나 장 중간 과도한 매수세 우려로 주가가 다시 반등하면서 상승마감을 이끌어냈다. 롤러코스터를 탄 현 미국 주식시장에 대한 분석과 향후 전망을 10문 10답으로 정리했다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/bd5c7a6337/53a7054b86_1643075875" length="0" type="image/com/production/article/bd5c7a6337/53a7054b86_1643075875"/>
+        </item>
+        <item>
+            <title><![CDATA[폭락장에 갈아탈만한 고부가 8대 기업 (더밀크 ─ Investing ─ 최신기사)]]></title>
+            <link>https://themiilk.com/articles/a5257f21c</link>
+            <guid>https://themiilk.com/articles/a5257f21c</guid>
+            <pubDate>Sat, 29 Jan 2022 00:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[최근 뉴욕 주식 시장은 폭락을 거듭하고 있다. 뉴욕증시는 이번 주 4거래일 모두 하락장으로 한 주를 마감했다. 21일(현지시각) 나스닥 지수는 385.10 포인트(2.72%) 급락한 1만3768.92로 거래를 마쳤다. 이는 지난 2020년 3월 이후 가장 큰 낙폭이다.월스트리트 애널리스트들은 미국 경제가 이제 정점에서 내려와 경기 후반의 '둔화 사이클'에 진입했다는 의견을 내놓기도 했다. 이 사이클에 들어서면 기업들의 실적이 둔화되고 소비 역시 둔화세를 보인다. 전반적으로 경제 성장 속도가 느려지면서 주가도 하락세를 보이는 시기다.때문에 미처 포트폴리오 조정을 하지 못한 개미투자자들은 어려움을 겪을 수 있는 시장이다.뱅크오브아메리카 리서치에 따르면, 인플레이션과 금리 인상에 대비해 펀드매니저들은 지난 연말부터 포트폴리오를 조정해 왔다. 기술주 구성을 줄이고 은행, 에너지, 원자재 등의 종목으로 재구성했다는 것.'미국형님' 데이비드 리 테일러투자자문그룹 최고투자책임자(CIO)도 작년 말께 포트폴리오 섹터로테이션을 마친 상태라고 밝혔다. 이제 경제 둔화 사이클에 들어서고 인플레이션이 쉽게 잡히지 않는다면 부가가치가 높은 사업에 주목할 때라고 조언했다. 리 CIO는 부가가치가 높은 사업을 운영하는 기업으로 블랙록(BLK), 제너럴밀스(GIS), 마이크로소프트(MSFT), 노스롭 그루먼(NOC), 라데온테크놀로지(RTX),  TJX코포레이션(TJX Corporation), 유나이티드헬스그룹(UNH), 서모피셔 사이언티픽(TMO) 등을 꼽았다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/image.themiilk.com/production/article/ebdf8cdfd4/616cbf4179_1642905795" length="0" type="image/com/production/article/ebdf8cdfd4/616cbf4179_1642905795"/>
+        </item>
+    </channel>
+</rss>
