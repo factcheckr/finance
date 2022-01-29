@@ -45,3 +45,13 @@ linkSelector = "div.image-wrapper.remove-line-height a"
 contentSelector = "p.description.label-middle-description.ellipsis.three"
 imageSelector = "div.image-wrapper.remove-line-height a div.image-box"
 waitUntil = "networkidle"
+
+[themiilk_conferences]
+title = "더밀크 ─ Conference"
+url = "https://themiilk.com/conferences"
+entrySelector = "div.content-wrapper ul.list li.item"
+titleSelector = "h2.title.label-middle-title.bold.ellipsis.two"
+linkSelector = "div.image-wrapper.remove-line-height a"
+contentSelector = "p.description.label-middle-description.ellipsis.three"
+imageSelector = "div.image-wrapper.remove-line-height a div.image-box"
+waitUntil = "networkidle"
