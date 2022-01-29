@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/finance/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-29T00:07:33.896Z</updated>
+    <updated>2022-01-29T00:16:49.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[💀사람을 사고 파는 플랫폼 [1월 28일] (순살브리핑 ─ 날짜별)]]></title>
@@ -234,5 +234,19 @@
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 						<!--						-->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[땅에서 번 돈은 다시 땅으로 (부딩)]]></title>
+        <id>https://www.booding.co/post/%EB%95%85%EC%97%90%EC%84%9C-%EB%B2%88-%EB%8F%88%EC%9D%80-%EB%8B%A4%EC%8B%9C-%EB%95%85%EC%9C%BC%EB%A1%9C</id>
+        <link href="https://www.booding.co/post/%EB%95%85%EC%97%90%EC%84%9C-%EB%B2%88-%EB%8F%88%EC%9D%80-%EB%8B%A4%EC%8B%9C-%EB%95%85%EC%9C%BC%EB%A1%9C"/>
+        <updated>2022-01-29T00:16:48.953Z</updated>
+        <content type="html"><![CDATA[땅에서 번 돈은 다시 땅으로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후분양제가 부실 공사를 막을 수 있을까? (부딩)]]></title>
+        <id>https://www.booding.co/post/%ED%9B%84%EB%B6%84%EC%96%91%EC%A0%9C%EA%B0%80-%EB%B6%80%EC%8B%A4-%EA%B3%B5%EC%82%AC%EB%A5%BC-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C</id>
+        <link href="https://www.booding.co/post/%ED%9B%84%EB%B6%84%EC%96%91%EC%A0%9C%EA%B0%80-%EB%B6%80%EC%8B%A4-%EA%B3%B5%EC%82%AC%EB%A5%BC-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C"/>
+        <updated>2022-01-29T00:16:48.956Z</updated>
+        <content type="html"><![CDATA[후분양제가 부실 공사를 막을 수 있을까?]]></content>
     </entry>
 </feed>
