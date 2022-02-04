@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/finance/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-02-04T14:04:06.975Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[💰구글이 쪼개진다고? [2월 4일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9973152&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9973152&amp;t=board"/>
-        <updated>2022-02-03T23:04:57.992Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 04 Feb 2022 14:28:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💰구글이 쪼개진다고? [2월 4일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9973152&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9973152&amp;t=board</guid>
+            <pubDate>Thu, 03 Feb 2022 23:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -26,14 +29,14 @@
 												<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💣"실적" 나오는 메타버스, 군대? [2월 3일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9945478&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9945478&amp;t=board"/>
-        <updated>2022-02-03T00:22:29.196Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💣"실적" 나오는 메타버스, 군대? [2월 3일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9945478&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9945478&amp;t=board</guid>
+            <pubDate>Thu, 03 Feb 2022 00:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -50,14 +53,14 @@
 												<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💀사람을 사고 파는 플랫폼 [1월 28일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9742339&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9742339&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.263Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💀사람을 사고 파는 플랫폼 [1월 28일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9742339&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9742339&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -73,14 +76,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🍔맥도날드, 굳이 샀어야 했나? [1월 27일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9722479&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9722479&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.267Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🍔맥도날드, 굳이 샀어야 했나? [1월 27일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9722479&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9722479&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -96,14 +99,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚗️현대판 연금술, 3D 프린팅 [1월 26일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9703083&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9703083&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.279Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[⚗️현대판 연금술, 3D 프린팅 [1월 26일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9703083&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9703083&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -119,14 +122,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎴도박으로 먹고사는 환락도시 [1월 25일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9675528&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9675528&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.279Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎴도박으로 먹고사는 환락도시 [1월 25일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9675528&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9675528&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -142,14 +145,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📞마이크로소프트, 콜센터에 투자하는 이유 [1월 24일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9631124&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9631124&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.279Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[📞마이크로소프트, 콜센터에 투자하는 이유 [1월 24일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9631124&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9631124&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -165,14 +168,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💰아이폰 유저들, 삼성전자를 응원해야 하는 이유? [1월 21일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9553374&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9553374&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.280Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💰아이폰 유저들, 삼성전자를 응원해야 하는 이유? [1월 21일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9553374&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9553374&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -188,14 +191,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💰2022년, 비트코인 어디까지 갈까? [1월 20일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9521113&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9521113&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.282Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💰2022년, 비트코인 어디까지 갈까? [1월 20일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9521113&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9521113&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -211,14 +214,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🛸드론, 날리면 간첩? [1월 19일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9496314&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9496314&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.284Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🛸드론, 날리면 간첩? [1월 19일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9496314&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9496314&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -234,14 +237,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔪스타트업으로 향하는 칼날 [1월 18일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9485167&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9485167&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.285Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🔪스타트업으로 향하는 칼날 [1월 18일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9485167&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9485167&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -257,14 +260,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💰헤지펀드 투자, 개인들도 가능? (feat. ETF) [1월 17일] (순살브리핑 ─ 날짜별)]]></title>
-        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9473151&amp;t=board</id>
-        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9473151&amp;t=board"/>
-        <updated>2022-01-29T00:07:33.288Z</updated>
-        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💰헤지펀드 투자, 개인들도 가능? (feat. ETF) [1월 17일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9473151&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9473151&amp;t=board</guid>
+            <pubDate>Sat, 29 Jan 2022 00:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -280,146 +283,256 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[땅에서 번 돈은 다시 땅으로 (부딩)]]></title>
-        <id>https://www.booding.co/post/%EB%95%85%EC%97%90%EC%84%9C-%EB%B2%88-%EB%8F%88%EC%9D%80-%EB%8B%A4%EC%8B%9C-%EB%95%85%EC%9C%BC%EB%A1%9C</id>
-        <link href="https://www.booding.co/post/%EB%95%85%EC%97%90%EC%84%9C-%EB%B2%88-%EB%8F%88%EC%9D%80-%EB%8B%A4%EC%8B%9C-%EB%95%85%EC%9C%BC%EB%A1%9C"/>
-        <updated>2022-01-29T00:16:48.953Z</updated>
-        <content type="html"><![CDATA[땅에서 번 돈은 다시 땅으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후분양제가 부실 공사를 막을 수 있을까? (부딩)]]></title>
-        <id>https://www.booding.co/post/%ED%9B%84%EB%B6%84%EC%96%91%EC%A0%9C%EA%B0%80-%EB%B6%80%EC%8B%A4-%EA%B3%B5%EC%82%AC%EB%A5%BC-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C</id>
-        <link href="https://www.booding.co/post/%ED%9B%84%EB%B6%84%EC%96%91%EC%A0%9C%EA%B0%80-%EB%B6%80%EC%8B%A4-%EA%B3%B5%EC%82%AC%EB%A5%BC-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C"/>
-        <updated>2022-01-29T00:16:48.956Z</updated>
-        <content type="html"><![CDATA[후분양제가 부실 공사를 막을 수 있을까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세대출 이자가 월세보다 비싸요! (부딩)]]></title>
-        <id>https://www.booding.co/post/%EC%A0%84%EC%84%B8%EB%8C%80%EC%B6%9C-%EC%9D%B4%EC%9E%90%EA%B0%80-%EC%9B%94%EC%84%B8%EB%B3%B4%EB%8B%A4-%EB%B9%84%EC%8B%B8%EC%9A%94</id>
-        <link href="https://www.booding.co/post/%EC%A0%84%EC%84%B8%EB%8C%80%EC%B6%9C-%EC%9D%B4%EC%9E%90%EA%B0%80-%EC%9B%94%EC%84%B8%EB%B3%B4%EB%8B%A4-%EB%B9%84%EC%8B%B8%EC%9A%94"/>
-        <updated>2022-01-29T11:49:53.756Z</updated>
-        <content type="html"><![CDATA[전세대출 이자가 월세보다 비싸요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금리 오르면 집값 떨어짐? (부딩)]]></title>
-        <id>https://www.booding.co/post/%EA%B8%88%EB%A6%AC-%EC%98%A4%EB%A5%B4%EB%A9%B4-%EC%A7%91%EA%B0%92-%EB%96%A8%EC%96%B4%EC%A7%90</id>
-        <link href="https://www.booding.co/post/%EA%B8%88%EB%A6%AC-%EC%98%A4%EB%A5%B4%EB%A9%B4-%EC%A7%91%EA%B0%92-%EB%96%A8%EC%96%B4%EC%A7%90"/>
-        <updated>2022-01-29T11:49:53.756Z</updated>
-        <content type="html"><![CDATA[금리 오르면 집값 떨어짐?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서른 번째 생일 선물은? (부딩)]]></title>
-        <id>https://www.booding.co/post/%EC%84%9C%EB%A5%B8-%EB%B2%88%EC%A7%B8-%EC%83%9D%EC%9D%BC-%EC%84%A0%EB%AC%BC%EC%9D%80</id>
-        <link href="https://www.booding.co/post/%EC%84%9C%EB%A5%B8-%EB%B2%88%EC%A7%B8-%EC%83%9D%EC%9D%BC-%EC%84%A0%EB%AC%BC%EC%9D%80"/>
-        <updated>2022-01-29T11:49:53.756Z</updated>
-        <content type="html"><![CDATA[서른 번째 생일 선물은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓸 데 있는 사전 청약 Q&A (부딩)]]></title>
-        <id>https://www.booding.co/post/%EC%93%B8-%EB%8D%B0-%EC%9E%88%EB%8A%94-%EC%82%AC%EC%A0%84-%EC%B2%AD%EC%95%BD-q-a</id>
-        <link href="https://www.booding.co/post/%EC%93%B8-%EB%8D%B0-%EC%9E%88%EB%8A%94-%EC%82%AC%EC%A0%84-%EC%B2%AD%EC%95%BD-q-a"/>
-        <updated>2022-01-29T11:49:53.757Z</updated>
-        <content type="html"><![CDATA[쓸 데 있는 사전 청약 Q&amp;A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포기하면 안 편해 (부딩)]]></title>
-        <id>https://www.booding.co/post/%ED%8F%AC%EA%B8%B0%ED%95%98%EB%A9%B4-%EC%95%88-%ED%8E%B8%ED%95%B4</id>
-        <link href="https://www.booding.co/post/%ED%8F%AC%EA%B8%B0%ED%95%98%EB%A9%B4-%EC%95%88-%ED%8E%B8%ED%95%B4"/>
-        <updated>2022-01-29T11:49:53.760Z</updated>
-        <content type="html"><![CDATA[포기하면 안 편해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 이렇게 바뀝니다 (부딩)]]></title>
-        <id>https://www.booding.co/post/%EC%83%88%ED%95%B4-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4</id>
-        <link href="https://www.booding.co/post/%EC%83%88%ED%95%B4-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4"/>
-        <updated>2022-01-29T11:49:53.761Z</updated>
-        <content type="html"><![CDATA[새해 이렇게 바뀝니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전문가는 반반 (부딩)]]></title>
-        <id>https://www.booding.co/post/%EC%A0%84%EB%AC%B8%EA%B0%80%EB%8A%94-%EB%B0%98%EB%B0%98</id>
-        <link href="https://www.booding.co/post/%EC%A0%84%EB%AC%B8%EA%B0%80%EB%8A%94-%EB%B0%98%EB%B0%98"/>
-        <updated>2022-01-29T11:49:53.761Z</updated>
-        <content type="html"><![CDATA[전문가는 반반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세부담이 늘어나요 (부딩)]]></title>
-        <id>https://www.booding.co/post/%EC%84%B8%EB%B6%80%EB%8B%B4%EC%9D%B4-%EB%8A%98%EC%96%B4%EB%82%98%EC%9A%94</id>
-        <link href="https://www.booding.co/post/%EC%84%B8%EB%B6%80%EB%8B%B4%EC%9D%B4-%EB%8A%98%EC%96%B4%EB%82%98%EC%9A%94"/>
-        <updated>2022-01-29T11:49:53.763Z</updated>
-        <content type="html"><![CDATA[세부담이 늘어나요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 영화 속 멋진 집 (부딩)]]></title>
-        <id>https://www.booding.co/post/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%EC%98%81%ED%99%94-%EC%86%8D-%EB%A9%8B%EC%A7%84-%EC%A7%91</id>
-        <link href="https://www.booding.co/post/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%EC%98%81%ED%99%94-%EC%86%8D-%EB%A9%8B%EC%A7%84-%EC%A7%91"/>
-        <updated>2022-01-29T11:49:53.763Z</updated>
-        <content type="html"><![CDATA[크리스마스 영화 속 멋진 집]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 부동산 결산 (부딩)]]></title>
-        <id>https://www.booding.co/post/2021%EB%85%84-%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B2%B0%EC%82%B0</id>
-        <link href="https://www.booding.co/post/2021%EB%85%84-%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B2%B0%EC%82%B0"/>
-        <updated>2022-01-29T11:49:53.765Z</updated>
-        <content type="html"><![CDATA[2021년 부동산 결산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 선거철엔 규제완화책이 나올까? (부딩)]]></title>
-        <id>https://www.booding.co/post/%EC%99%9C-%EC%84%A0%EA%B1%B0%EC%B2%A0%EC%97%94-%EA%B7%9C%EC%A0%9C%EC%99%84%ED%99%94%EC%B1%85%EC%9D%B4-%EB%82%98%EC%98%AC%EA%B9%8C</id>
-        <link href="https://www.booding.co/post/%EC%99%9C-%EC%84%A0%EA%B1%B0%EC%B2%A0%EC%97%94-%EA%B7%9C%EC%A0%9C%EC%99%84%ED%99%94%EC%B1%85%EC%9D%B4-%EB%82%98%EC%98%AC%EA%B9%8C"/>
-        <updated>2022-01-29T11:49:53.765Z</updated>
-        <content type="html"><![CDATA[왜 선거철엔 규제완화책이 나올까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수요보다 공급이 많아요 (부딩)]]></title>
-        <id>https://www.booding.co/post/%EC%88%98%EC%9A%94%EB%B3%B4%EB%8B%A4-%EA%B3%B5%EA%B8%89%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%9A%94</id>
-        <link href="https://www.booding.co/post/%EC%88%98%EC%9A%94%EB%B3%B4%EB%8B%A4-%EA%B3%B5%EA%B8%89%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%9A%94"/>
-        <updated>2022-01-29T11:49:53.765Z</updated>
-        <content type="html"><![CDATA[수요보다 공급이 많아요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1인가구 어떻게 살고 있나요? (부딩)]]></title>
-        <id>https://www.booding.co/post/1%EC%9D%B8%EA%B0%80%EA%B5%AC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%B4%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94</id>
-        <link href="https://www.booding.co/post/1%EC%9D%B8%EA%B0%80%EA%B5%AC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%B4%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94"/>
-        <updated>2022-01-29T11:49:53.766Z</updated>
-        <content type="html"><![CDATA[1인가구 어떻게 살고 있나요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집값 하락 징조는? (부딩)]]></title>
-        <id>https://www.booding.co/post/%EC%A7%91%EA%B0%92-%ED%95%98%EB%9D%BD-%EC%A7%95%EC%A1%B0%EB%8A%94</id>
-        <link href="https://www.booding.co/post/%EC%A7%91%EA%B0%92-%ED%95%98%EB%9D%BD-%EC%A7%95%EC%A1%B0%EB%8A%94"/>
-        <updated>2022-01-29T11:49:53.767Z</updated>
-        <content type="html"><![CDATA[집값 하락 징조는?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브랜드 아파트도 미리 찜 (부딩)]]></title>
-        <id>https://www.booding.co/post/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%95%84%ED%8C%8C%ED%8A%B8%EB%8F%84-%EB%AF%B8%EB%A6%AC-%EC%B0%9C</id>
-        <link href="https://www.booding.co/post/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%95%84%ED%8C%8C%ED%8A%B8%EB%8F%84-%EB%AF%B8%EB%A6%AC-%EC%B0%9C"/>
-        <updated>2022-01-29T11:49:53.768Z</updated>
-        <content type="html"><![CDATA[브랜드 아파트도 미리 찜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전월세 가격 협상권이 상승합니다 (부딩)]]></title>
-        <id>https://www.booding.co/post/%EC%A0%84%EC%9B%94%EC%84%B8-%EA%B0%80%EA%B2%A9-%ED%98%91%EC%83%81%EA%B6%8C%EC%9D%B4-%EC%83%81%EC%8A%B9%ED%95%A9%EB%8B%88%EB%8B%A4</id>
-        <link href="https://www.booding.co/post/%EC%A0%84%EC%9B%94%EC%84%B8-%EA%B0%80%EA%B2%A9-%ED%98%91%EC%83%81%EA%B6%8C%EC%9D%B4-%EC%83%81%EC%8A%B9%ED%95%A9%EB%8B%88%EB%8B%A4"/>
-        <updated>2022-01-29T11:49:53.770Z</updated>
-        <content type="html"><![CDATA[전월세 가격 협상권이 상승합니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나랑 무슨 상관? (부딩)]]></title>
-        <id>https://www.booding.co/post/%EB%82%98%EB%9E%91-%EB%AC%B4%EC%8A%A8-%EC%83%81%EA%B4%80-1</id>
-        <link href="https://www.booding.co/post/%EB%82%98%EB%9E%91-%EB%AC%B4%EC%8A%A8-%EC%83%81%EA%B4%80-1"/>
-        <updated>2022-01-29T11:49:53.771Z</updated>
-        <content type="html"><![CDATA[나랑 무슨 상관?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하락, 횡보, 상승? (부딩)]]></title>
-        <id>https://www.booding.co/post/%ED%95%98%EB%9D%BD-%ED%9A%A1%EB%B3%B4-%EC%83%81%EC%8A%B9</id>
-        <link href="https://www.booding.co/post/%ED%95%98%EB%9D%BD-%ED%9A%A1%EB%B3%B4-%EC%83%81%EC%8A%B9"/>
-        <updated>2022-01-29T11:49:53.773Z</updated>
-        <content type="html"><![CDATA[하락, 횡보, 상승?]]></content>
-    </entry>
-</feed>
+						<!--						-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[땅에서 번 돈은 다시 땅으로 (부딩)]]></title>
+            <link>https://www.booding.co/post/%EB%95%85%EC%97%90%EC%84%9C-%EB%B2%88-%EB%8F%88%EC%9D%80-%EB%8B%A4%EC%8B%9C-%EB%95%85%EC%9C%BC%EB%A1%9C</link>
+            <guid>https://www.booding.co/post/%EB%95%85%EC%97%90%EC%84%9C-%EB%B2%88-%EB%8F%88%EC%9D%80-%EB%8B%A4%EC%8B%9C-%EB%95%85%EC%9C%BC%EB%A1%9C</guid>
+            <pubDate>Sat, 29 Jan 2022 00:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[땅에서 번 돈은 다시 땅으로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후분양제가 부실 공사를 막을 수 있을까? (부딩)]]></title>
+            <link>https://www.booding.co/post/%ED%9B%84%EB%B6%84%EC%96%91%EC%A0%9C%EA%B0%80-%EB%B6%80%EC%8B%A4-%EA%B3%B5%EC%82%AC%EB%A5%BC-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C</link>
+            <guid>https://www.booding.co/post/%ED%9B%84%EB%B6%84%EC%96%91%EC%A0%9C%EA%B0%80-%EB%B6%80%EC%8B%A4-%EA%B3%B5%EC%82%AC%EB%A5%BC-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C</guid>
+            <pubDate>Sat, 29 Jan 2022 00:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[후분양제가 부실 공사를 막을 수 있을까?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전세대출 이자가 월세보다 비싸요! (부딩)]]></title>
+            <link>https://www.booding.co/post/%EC%A0%84%EC%84%B8%EB%8C%80%EC%B6%9C-%EC%9D%B4%EC%9E%90%EA%B0%80-%EC%9B%94%EC%84%B8%EB%B3%B4%EB%8B%A4-%EB%B9%84%EC%8B%B8%EC%9A%94</link>
+            <guid>https://www.booding.co/post/%EC%A0%84%EC%84%B8%EB%8C%80%EC%B6%9C-%EC%9D%B4%EC%9E%90%EA%B0%80-%EC%9B%94%EC%84%B8%EB%B3%B4%EB%8B%A4-%EB%B9%84%EC%8B%B8%EC%9A%94</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[전세대출 이자가 월세보다 비싸요!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[금리 오르면 집값 떨어짐? (부딩)]]></title>
+            <link>https://www.booding.co/post/%EA%B8%88%EB%A6%AC-%EC%98%A4%EB%A5%B4%EB%A9%B4-%EC%A7%91%EA%B0%92-%EB%96%A8%EC%96%B4%EC%A7%90</link>
+            <guid>https://www.booding.co/post/%EA%B8%88%EB%A6%AC-%EC%98%A4%EB%A5%B4%EB%A9%B4-%EC%A7%91%EA%B0%92-%EB%96%A8%EC%96%B4%EC%A7%90</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[금리 오르면 집값 떨어짐?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서른 번째 생일 선물은? (부딩)]]></title>
+            <link>https://www.booding.co/post/%EC%84%9C%EB%A5%B8-%EB%B2%88%EC%A7%B8-%EC%83%9D%EC%9D%BC-%EC%84%A0%EB%AC%BC%EC%9D%80</link>
+            <guid>https://www.booding.co/post/%EC%84%9C%EB%A5%B8-%EB%B2%88%EC%A7%B8-%EC%83%9D%EC%9D%BC-%EC%84%A0%EB%AC%BC%EC%9D%80</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[서른 번째 생일 선물은?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쓸 데 있는 사전 청약 Q&A (부딩)]]></title>
+            <link>https://www.booding.co/post/%EC%93%B8-%EB%8D%B0-%EC%9E%88%EB%8A%94-%EC%82%AC%EC%A0%84-%EC%B2%AD%EC%95%BD-q-a</link>
+            <guid>https://www.booding.co/post/%EC%93%B8-%EB%8D%B0-%EC%9E%88%EB%8A%94-%EC%82%AC%EC%A0%84-%EC%B2%AD%EC%95%BD-q-a</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[쓸 데 있는 사전 청약 Q&amp;A]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[포기하면 안 편해 (부딩)]]></title>
+            <link>https://www.booding.co/post/%ED%8F%AC%EA%B8%B0%ED%95%98%EB%A9%B4-%EC%95%88-%ED%8E%B8%ED%95%B4</link>
+            <guid>https://www.booding.co/post/%ED%8F%AC%EA%B8%B0%ED%95%98%EB%A9%B4-%EC%95%88-%ED%8E%B8%ED%95%B4</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[포기하면 안 편해]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새해 이렇게 바뀝니다 (부딩)]]></title>
+            <link>https://www.booding.co/post/%EC%83%88%ED%95%B4-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4</link>
+            <guid>https://www.booding.co/post/%EC%83%88%ED%95%B4-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[새해 이렇게 바뀝니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전문가는 반반 (부딩)]]></title>
+            <link>https://www.booding.co/post/%EC%A0%84%EB%AC%B8%EA%B0%80%EB%8A%94-%EB%B0%98%EB%B0%98</link>
+            <guid>https://www.booding.co/post/%EC%A0%84%EB%AC%B8%EA%B0%80%EB%8A%94-%EB%B0%98%EB%B0%98</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[전문가는 반반]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세부담이 늘어나요 (부딩)]]></title>
+            <link>https://www.booding.co/post/%EC%84%B8%EB%B6%80%EB%8B%B4%EC%9D%B4-%EB%8A%98%EC%96%B4%EB%82%98%EC%9A%94</link>
+            <guid>https://www.booding.co/post/%EC%84%B8%EB%B6%80%EB%8B%B4%EC%9D%B4-%EB%8A%98%EC%96%B4%EB%82%98%EC%9A%94</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[세부담이 늘어나요]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 영화 속 멋진 집 (부딩)]]></title>
+            <link>https://www.booding.co/post/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%EC%98%81%ED%99%94-%EC%86%8D-%EB%A9%8B%EC%A7%84-%EC%A7%91</link>
+            <guid>https://www.booding.co/post/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%EC%98%81%ED%99%94-%EC%86%8D-%EB%A9%8B%EC%A7%84-%EC%A7%91</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스 영화 속 멋진 집]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021년 부동산 결산 (부딩)]]></title>
+            <link>https://www.booding.co/post/2021%EB%85%84-%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B2%B0%EC%82%B0</link>
+            <guid>https://www.booding.co/post/2021%EB%85%84-%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B2%B0%EC%82%B0</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 부동산 결산]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[왜 선거철엔 규제완화책이 나올까? (부딩)]]></title>
+            <link>https://www.booding.co/post/%EC%99%9C-%EC%84%A0%EA%B1%B0%EC%B2%A0%EC%97%94-%EA%B7%9C%EC%A0%9C%EC%99%84%ED%99%94%EC%B1%85%EC%9D%B4-%EB%82%98%EC%98%AC%EA%B9%8C</link>
+            <guid>https://www.booding.co/post/%EC%99%9C-%EC%84%A0%EA%B1%B0%EC%B2%A0%EC%97%94-%EA%B7%9C%EC%A0%9C%EC%99%84%ED%99%94%EC%B1%85%EC%9D%B4-%EB%82%98%EC%98%AC%EA%B9%8C</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[왜 선거철엔 규제완화책이 나올까?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[수요보다 공급이 많아요 (부딩)]]></title>
+            <link>https://www.booding.co/post/%EC%88%98%EC%9A%94%EB%B3%B4%EB%8B%A4-%EA%B3%B5%EA%B8%89%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%9A%94</link>
+            <guid>https://www.booding.co/post/%EC%88%98%EC%9A%94%EB%B3%B4%EB%8B%A4-%EA%B3%B5%EA%B8%89%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%9A%94</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[수요보다 공급이 많아요]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1인가구 어떻게 살고 있나요? (부딩)]]></title>
+            <link>https://www.booding.co/post/1%EC%9D%B8%EA%B0%80%EA%B5%AC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%B4%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94</link>
+            <guid>https://www.booding.co/post/1%EC%9D%B8%EA%B0%80%EA%B5%AC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%B4%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[1인가구 어떻게 살고 있나요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[집값 하락 징조는? (부딩)]]></title>
+            <link>https://www.booding.co/post/%EC%A7%91%EA%B0%92-%ED%95%98%EB%9D%BD-%EC%A7%95%EC%A1%B0%EB%8A%94</link>
+            <guid>https://www.booding.co/post/%EC%A7%91%EA%B0%92-%ED%95%98%EB%9D%BD-%EC%A7%95%EC%A1%B0%EB%8A%94</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[집값 하락 징조는?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브랜드 아파트도 미리 찜 (부딩)]]></title>
+            <link>https://www.booding.co/post/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%95%84%ED%8C%8C%ED%8A%B8%EB%8F%84-%EB%AF%B8%EB%A6%AC-%EC%B0%9C</link>
+            <guid>https://www.booding.co/post/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%95%84%ED%8C%8C%ED%8A%B8%EB%8F%84-%EB%AF%B8%EB%A6%AC-%EC%B0%9C</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드 아파트도 미리 찜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전월세 가격 협상권이 상승합니다 (부딩)]]></title>
+            <link>https://www.booding.co/post/%EC%A0%84%EC%9B%94%EC%84%B8-%EA%B0%80%EA%B2%A9-%ED%98%91%EC%83%81%EA%B6%8C%EC%9D%B4-%EC%83%81%EC%8A%B9%ED%95%A9%EB%8B%88%EB%8B%A4</link>
+            <guid>https://www.booding.co/post/%EC%A0%84%EC%9B%94%EC%84%B8-%EA%B0%80%EA%B2%A9-%ED%98%91%EC%83%81%EA%B6%8C%EC%9D%B4-%EC%83%81%EC%8A%B9%ED%95%A9%EB%8B%88%EB%8B%A4</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[전월세 가격 협상권이 상승합니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나랑 무슨 상관? (부딩)]]></title>
+            <link>https://www.booding.co/post/%EB%82%98%EB%9E%91-%EB%AC%B4%EC%8A%A8-%EC%83%81%EA%B4%80-1</link>
+            <guid>https://www.booding.co/post/%EB%82%98%EB%9E%91-%EB%AC%B4%EC%8A%A8-%EC%83%81%EA%B4%80-1</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[나랑 무슨 상관?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하락, 횡보, 상승? (부딩)]]></title>
+            <link>https://www.booding.co/post/%ED%95%98%EB%9D%BD-%ED%9A%A1%EB%B3%B4-%EC%83%81%EC%8A%B9</link>
+            <guid>https://www.booding.co/post/%ED%95%98%EB%9D%BD-%ED%9A%A1%EB%B3%B4-%EC%83%81%EC%8A%B9</guid>
+            <pubDate>Sat, 29 Jan 2022 11:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[하락, 횡보, 상승?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 5일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31489/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31489/</guid>
+            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 5일)
+1. 부동산 매매 시장에 이어 신규 분양 시장에서도 한파가 이어지고 있음. 최근 3개월(작년 11월~올해 1월) 동안 계약자를 찾지 못해 자격조건 없이 청약..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220203_4937407_1643965754.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 4일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31469/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31469/</guid>
+            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 4일)  
+1. 한국핀테크산업협회 등록 핀테크 기업 수는 2016년 109개에서 5년 만에 288개로 급증함. 상위 핀테크 기업 8곳의 가입자는 약 8500만명으로 작년 말..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220203_4936087_1643878315.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 3일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31464/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31464/</guid>
+            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 3일)
+  
+1.문재인정부가 부동산 시장 안정을 위해 추진 중인 주택 공급 대책이 당초 목표의 절반 수준에 불과한 것으로 중간 집계.2일 국토교통부에 따르면 지..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220202_5082402_1643791899.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 29일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/01/31462/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31462/</guid>
+            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 29일)  
+1. 정부 싱크탱크인 한국조세재정연구원 수장이 한국의 부채 증가 속도가 매우 빠르다는 점을 경고하고 나섰음. 선진국과 비교한 수치를 직접 거론하..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220127_5079469_1643355013.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월28일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/01/31445/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31445/</guid>
+            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월28일)
+1. 제롬 파월 연방준비제도 의장이 26일(현지시간) FOMC 정례회의 후 본격적인 '긴축의 시대'를 예고하자 뉴욕증시에 이어 아시아 주요국 증시가 일제히 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220127_5078823_1643272772.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 27일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/01/31441/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31441/</guid>
+            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 27일)
+1. 27일 중대재해처벌법 시행을 앞두고 산업재해에 취약한 중소기업과 건설사들이 비상에 걸림. 준비가 미흡한 기업들 중 상당수는 법률 시행 이후 '처..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220126_4930134_1643188500.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 26일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/01/31440/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31440/</guid>
+            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 26일)
+1.대내외 악재로 국내 증시 패닉장세가 펼쳐지며 유가증권시장(코스피)이 2700선 가까이 주저앉았음. 코스닥은 10개월여만에 900선이 붕괴. 미국 긴축 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220125_5076954_1643099744.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 25일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/01/31437/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31437/</guid>
+            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 25일)  
+1. 삼성전자가 유럽의 '특허 사냥꾼'으로부터 또 공격을 당함. 미국 텍사스 동부법원에 따르면 아일랜드 수도 더블린에 본사를 둔 특허전문업체(NPE) ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220124_5076594_1643013215.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(메-세-지 1월24일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/01/31435/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31435/</guid>
+            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월24일)
+1. 미국 연방준비제도(Fed·연준)가 본격적인 긴축에 돌입할 예정인 가운데 주요 기술기업들의 실적이 예상에 못 미치자 뉴욕증시가 폭락하고 있음. 뱅크..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220123_5075248_1642916265.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 22일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/01/31434/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31434/</guid>
+            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 22일) 
+1. 정부의 다주택자 규제 강화로 '세금 폭탄'을 맞은 자산가들의 관심이 해외 부동산으로 빠르게 옮겨가고 있음. 기재부는 작년 3분기 국내에서 해외에..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220121_5074206_1642753841.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 21일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/01/31415/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31415/</guid>
+            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 21일)
+1. 주요 대형 기술주 주가가 큰 폭으로 하락하며 나스닥 지수가 이틀 연속 급락함. 19일(현지시간) 나스닥 지수는 1.15% 떨어진 1만4340.26에 장을 마감..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220120_4923995_1642669696.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월 20일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/01/31410/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31410/</guid>
+            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월 20일)
+1. 배터리 회사 LG에너지솔루션 공모에 114조원 유입. 개인투자자 440만명이 몰림. 경쟁률 69.34대 1. 지난해 카카오페이와 SKIET를 훌쩍 뛰어넘고 청약..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220119_5072872_1642597211.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+    </channel>
+</rss>
