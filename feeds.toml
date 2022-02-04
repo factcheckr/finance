@@ -15,3 +15,13 @@ linkSelector = "a._2oveR._2llBS._1e-gz._3T8tF.has-custom-focus"
 contentSelector = "div._81XUh"
 imageSelector = "div[class^='gallery-item-content']"
 waitForSelector = "div.gallery-item-container"
+
+[mk_premium_msg]
+title = "매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식"
+url = "https://www.mk.co.kr/premium/series/20007/"
+entrySelector = "div.content_left div.list_area2 dl.article_list"
+titleSelector = "dt.tit a"
+linkSelector = "dt.tit a"
+contentSelector = "span.subtxt"
+imageSelector = "img.img_bd"
+waitUntil = "networkidle"
