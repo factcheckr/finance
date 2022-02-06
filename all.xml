@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 21:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 22:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,6 +424,15 @@
             <content:encoded><![CDATA[하락, 횡보, 상승?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 7일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31491/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31491/</guid>
+            <pubDate>Sun, 06 Feb 2022 22:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 7일)
+1. 삼성이 삼성생명·화재·카드·증권 등 금융 계열사 서비스를 한번에 이용할 수 있는 통합 애플리케이션(앱)을 다음달 선보임. 비은행권 금융사 중 통..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220206_5084938_1644139208.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 5일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31489/</link>
             <guid>https://www.mk.co.kr/premium/life/view/2022/02/31489/</guid>
@@ -522,15 +531,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 21일)
 1. 주요 대형 기술주 주가가 큰 폭으로 하락하며 나스닥 지수가 이틀 연속 급락함. 19일(현지시간) 나스닥 지수는 1.15% 떨어진 1만4340.26에 장을 마감..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220120_4923995_1642669696.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월 20일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/01/31410/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31410/</guid>
-            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월 20일)
-1. 배터리 회사 LG에너지솔루션 공모에 114조원 유입. 개인투자자 440만명이 몰림. 경쟁률 69.34대 1. 지난해 카카오페이와 SKIET를 훌쩍 뛰어넘고 청약..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220119_5072872_1642597211.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
