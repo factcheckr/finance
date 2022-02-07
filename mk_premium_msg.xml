@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 21:06:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 22:08:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 8일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31493/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31493/</guid>
+            <pubDate>Mon, 07 Feb 2022 22:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 8일)
+1. 국가 '외화 비상금'인 외환보유액이 줄어드는 가운데 대선을 앞둔 정치권이 선심성 추가경정예산을 밀어붙이면서 국가신인도에 경고음이 울리고 있음. ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220207_5085655_1644222554.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 7일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31491/</link>
@@ -106,15 +115,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 22일) 
 1. 정부의 다주택자 규제 강화로 '세금 폭탄'을 맞은 자산가들의 관심이 해외 부동산으로 빠르게 옮겨가고 있음. 기재부는 작년 3분기 국내에서 해외에..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220121_5074206_1642753841.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 21일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/01/31415/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31415/</guid>
-            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 21일)
-1. 주요 대형 기술주 주가가 큰 폭으로 하락하며 나스닥 지수가 이틀 연속 급락함. 19일(현지시간) 나스닥 지수는 1.15% 떨어진 1만4340.26에 장을 마감..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220120_4923995_1642669696.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
