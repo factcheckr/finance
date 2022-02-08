@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.booding.co/blog</id>
     <title>부딩</title>
-    <updated>2022-02-07T22:08:29.733Z</updated>
+    <updated>2022-02-08T00:23:09.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.wixstatic.com/ficons/6cb3fa_08c872b4a1da40ecba4605bf0db6ee62%7Emv2.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코뿔소와 마주했을 때 대처법]]></title>
+        <id>https://www.booding.co/post/%EC%BD%94%EB%BF%94%EC%86%8C%EC%99%80-%EB%A7%88%EC%A3%BC%ED%96%88%EC%9D%84-%EB%95%8C-%EB%8C%80%EC%B2%98%EB%B2%95</id>
+        <link href="https://www.booding.co/post/%EC%BD%94%EB%BF%94%EC%86%8C%EC%99%80-%EB%A7%88%EC%A3%BC%ED%96%88%EC%9D%84-%EB%95%8C-%EB%8C%80%EC%B2%98%EB%B2%95"/>
+        <updated>2022-02-08T00:22:49.593Z</updated>
+        <content type="html"><![CDATA[코뿔소와 마주했을 때 대처법]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[땅에서 번 돈은 다시 땅으로]]></title>
         <id>https://www.booding.co/post/%EB%95%85%EC%97%90%EC%84%9C-%EB%B2%88-%EB%8F%88%EC%9D%80-%EB%8B%A4%EC%8B%9C-%EB%95%85%EC%9C%BC%EB%A1%9C</id>
@@ -137,12 +144,5 @@
         <link href="https://www.booding.co/post/%EB%82%98%EB%9E%91-%EB%AC%B4%EC%8A%A8-%EC%83%81%EA%B4%80-1"/>
         <updated>2022-02-07T14:12:27.147Z</updated>
         <content type="html"><![CDATA[나랑 무슨 상관?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하락, 횡보, 상승?]]></title>
-        <id>https://www.booding.co/post/%ED%95%98%EB%9D%BD-%ED%9A%A1%EB%B3%B4-%EC%83%81%EC%8A%B9</id>
-        <link href="https://www.booding.co/post/%ED%95%98%EB%9D%BD-%ED%9A%A1%EB%B3%B4-%EC%83%81%EC%8A%B9"/>
-        <updated>2022-02-07T14:12:27.155Z</updated>
-        <content type="html"><![CDATA[하락, 횡보, 상승?]]></content>
     </entry>
 </feed>
