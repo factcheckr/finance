@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 21:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 22:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -425,6 +425,15 @@
             <content:encoded><![CDATA[나랑 무슨 상관?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(메-세-지 2월11일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31501/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31501/</guid>
+            <pubDate>Thu, 10 Feb 2022 22:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(메-세-지 2월11일)
+1. 한국기자협회가 주최하고 MBN JTBC 채널A TV조선 종합편성채널 4개사와 연합뉴스TV YTN 보도전문채널 2개사가 공동주관하는 제20대 대통령선거 후보자 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220210_4943150_1644483773.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 10일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31497/</link>
             <guid>https://www.mk.co.kr/premium/life/view/2022/02/31497/</guid>
@@ -523,15 +532,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 26일)
 1.대내외 악재로 국내 증시 패닉장세가 펼쳐지며 유가증권시장(코스피)이 2700선 가까이 주저앉았음. 코스닥은 10개월여만에 900선이 붕괴. 미국 긴축 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220125_5076954_1643099744.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 25일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/01/31437/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31437/</guid>
-            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 25일)  
-1. 삼성전자가 유럽의 '특허 사냥꾼'으로부터 또 공격을 당함. 미국 텍사스 동부법원에 따르면 아일랜드 수도 더블린에 본사를 둔 특허전문업체(NPE) ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220124_5076594_1643013215.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
