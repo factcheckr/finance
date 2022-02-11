@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 08:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 09:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 12일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31517/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31517/</guid>
+            <pubDate>Fri, 11 Feb 2022 09:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 12일) 
+1. 3월 대선을 앞두고 여야 후보들이 재건축 규제 완화 공약을 내놓으면서 서울과 경기에 집중돼 있는 노후 아파트 단지를 중심으로 투자 기대감이 높..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220210_5088072_1644568293.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(메-세-지 2월11일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31501/</link>
@@ -106,15 +115,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 27일)
 1. 27일 중대재해처벌법 시행을 앞두고 산업재해에 취약한 중소기업과 건설사들이 비상에 걸림. 준비가 미흡한 기업들 중 상당수는 법률 시행 이후 '처..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220126_4930134_1643188500.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 26일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/01/31440/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31440/</guid>
-            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 26일)
-1.대내외 악재로 국내 증시 패닉장세가 펼쳐지며 유가증권시장(코스피)이 2700선 가까이 주저앉았음. 코스닥은 10개월여만에 900선이 붕괴. 미국 긴축 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220125_5076954_1643099744.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
