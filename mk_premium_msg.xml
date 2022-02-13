@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 21:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 22:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 14일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31518/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31518/</guid>
+            <pubDate>Sun, 13 Feb 2022 22:07:12 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 14일)
+
+1. 안철수 국민의당 대선후보가 윤석열 국민의힘 대선후보에게 여론조사를 통한 야권단일화를 제안함. 안 후보는 "더 좋은 정권교체를 위해, 즉 정권..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220213_5090357_1644741019.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 12일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31517/</link>
@@ -106,15 +116,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월28일)
 1. 제롬 파월 연방준비제도 의장이 26일(현지시간) FOMC 정례회의 후 본격적인 '긴축의 시대'를 예고하자 뉴욕증시에 이어 아시아 주요국 증시가 일제히 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220127_5078823_1643272772.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 27일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/01/31441/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31441/</guid>
-            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 27일)
-1. 27일 중대재해처벌법 시행을 앞두고 산업재해에 취약한 중소기업과 건설사들이 비상에 걸림. 준비가 미흡한 기업들 중 상당수는 법률 시행 이후 '처..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220126_4930134_1643188500.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
