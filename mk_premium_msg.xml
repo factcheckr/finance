@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 20:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 22:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 16일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31523/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31523/</guid>
+            <pubDate>Tue, 15 Feb 2022 22:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 16일)
+1. 탈원전 정책을 강조해온 문재인 정부 5년간 원전 의존도가 되레 커진 것으로 나타남. 한국전력 전력통계월보에 따르면 지난해 원전 발전량은 15만801..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220215_5091706_1644913930.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 15일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31519/</link>
@@ -106,15 +115,6 @@
   
 1.문재인정부가 부동산 시장 안정을 위해 추진 중인 주택 공급 대책이 당초 목표의 절반 수준에 불과한 것으로 중간 집계.2일 국토교통부에 따르면 지..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220202_5082402_1643791899.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 29일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/01/31462/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/01/31462/</guid>
-            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 29일)  
-1. 정부 싱크탱크인 한국조세재정연구원 수장이 한국의 부채 증가 속도가 매우 빠르다는 점을 경고하고 나섰음. 선진국과 비교한 수치를 직접 거론하..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/01/20220127_5079469_1643355013.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
