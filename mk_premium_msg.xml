@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 08:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 12:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(메-세-지, 2월19일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31551/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31551/</guid>
+            <pubDate>Fri, 18 Feb 2022 12:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(메-세-지, 2월19일)
+1. 우크라이나 사태로 국제적으로 지정학적 위험이 높아지면서 국내외에서 자금이 안전자산으로 대이동하고 있음. 주식·가상화폐는 힘을 잃고 금 채권 달..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220218_5094954_1645174958.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 18일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31529/</link>
@@ -105,15 +114,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 7일)
 1. 삼성이 삼성생명·화재·카드·증권 등 금융 계열사 서비스를 한번에 이용할 수 있는 통합 애플리케이션(앱)을 다음달 선보임. 비은행권 금융사 중 통..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220206_5084938_1644139208.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 5일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31489/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31489/</guid>
-            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 5일)
-1. 부동산 매매 시장에 이어 신규 분양 시장에서도 한파가 이어지고 있음. 최근 3개월(작년 11월~올해 1월) 동안 계약자를 찾지 못해 자격조건 없이 청약..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220203_4937407_1643965754.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
