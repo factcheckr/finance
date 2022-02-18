@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 21:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 01:57:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 18일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31529/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31529/</guid>
+            <pubDate>Fri, 18 Feb 2022 01:57:52 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 18일)
+1. 국제 에너지 가격 급등에 무역수지까지 두달 연속 적자를 기록하며 재정·무역수지가 모두 적자인 '쌍둥이 적자'가 심해질 수 있다는 분석이 제기. 기..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220217_5093621_1645087367.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 17일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31524/</link>
@@ -105,15 +114,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 5일)
 1. 부동산 매매 시장에 이어 신규 분양 시장에서도 한파가 이어지고 있음. 최근 3개월(작년 11월~올해 1월) 동안 계약자를 찾지 못해 자격조건 없이 청약..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220203_4937407_1643965754.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 4일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31469/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31469/</guid>
-            <pubDate>Fri, 04 Feb 2022 14:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 4일)  
-1. 한국핀테크산업협회 등록 핀테크 기업 수는 2016년 109개에서 5년 만에 288개로 급증함. 상위 핀테크 기업 8곳의 가입자는 약 8500만명으로 작년 말..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220203_4936087_1643878315.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
