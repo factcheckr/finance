@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 21:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 22:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -447,6 +447,18 @@
             <content:encoded><![CDATA[집값 하락 징조는?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월21일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31553/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31553/</guid>
+            <pubDate>Sun, 20 Feb 2022 22:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[매-세-지, 2월21일
+
+매경이 전하는 세상의 지식 (매-세-지, 2월21일)
+
+1. 국내 기업과 정부 출연연구기관 등이 외부에 매각한 특허가 국내 기업을 공격하는 사례가 잇따르고 있음. 매일경제가 미국 특..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220220_5095590_1645337279.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[매경이 전하는 세상의 지식(메-세-지, 2월19일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31551/</link>
             <guid>https://www.mk.co.kr/premium/life/view/2022/02/31551/</guid>
@@ -544,15 +556,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 8일)
 1. 국가 '외화 비상금'인 외환보유액이 줄어드는 가운데 대선을 앞둔 정치권이 선심성 추가경정예산을 밀어붙이면서 국가신인도에 경고음이 울리고 있음. ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220207_5085655_1644222554.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 7일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31491/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31491/</guid>
-            <pubDate>Sun, 06 Feb 2022 22:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 7일)
-1. 삼성이 삼성생명·화재·카드·증권 등 금융 계열사 서비스를 한번에 이용할 수 있는 통합 애플리케이션(앱)을 다음달 선보임. 비은행권 금융사 중 통..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220206_5084938_1644139208.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
