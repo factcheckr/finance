@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 20:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 22:07:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -471,6 +471,15 @@
             <content:encoded><![CDATA[집값 하락 징조는?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 22일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31554/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31554/</guid>
+            <pubDate>Mon, 21 Feb 2022 22:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 22일)
+1. 대선 이후 사법 권력의 지각변동이 올 전망. 올해 5월 취임하는 새 대통령은 역대 어느 대통령보다도 강력한 사법부 인사권을 행사함. 5년 임기 중 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220221_5096595_1645433162.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월21일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31553/</link>
             <guid>https://www.mk.co.kr/premium/life/view/2022/02/31553/</guid>
@@ -571,15 +580,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 9일)
 1. 문재인 정부 출범 후 역대급 집값 상승의 여파로 서울 시민들의 거주지 이동 구조도 변화한 것으로 나타남. 원래 살던 지역 내에서 이주하는 비율 보..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220208_5086060_1644309200.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 8일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31493/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31493/</guid>
-            <pubDate>Mon, 07 Feb 2022 22:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 8일)
-1. 국가 '외화 비상금'인 외환보유액이 줄어드는 가운데 대선을 앞둔 정치권이 선심성 추가경정예산을 밀어붙이면서 국가신인도에 경고음이 울리고 있음. ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220207_5085655_1644222554.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
