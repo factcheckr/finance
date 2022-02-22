@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 21:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 22:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 23일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31557/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31557/</guid>
+            <pubDate>Tue, 22 Feb 2022 22:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 23일)  
+1. 푸틴 러시아 대통령이 22일 우크라이나 동부 분쟁지역 돈바스에 위치한 친러시아 반군 거점인 도네츠크인민공화국과 루간스크인민공화국의 분리 독..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220222_5096929_1645519453.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 22일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31554/</link>
@@ -108,15 +117,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 10일)
 1. 국민연금공단이 국내 기업들을 겨냥한 주주대표소송 주체를 기금운용본부에서 노동계·시민단체 입김이 센 수탁자책임전문위원회(수책위)로 넘기려는..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220209_5087784_1644396248.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 9일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31496/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31496/</guid>
-            <pubDate>Tue, 08 Feb 2022 22:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 9일)
-1. 문재인 정부 출범 후 역대급 집값 상승의 여파로 서울 시민들의 거주지 이동 구조도 변화한 것으로 나타남. 원래 살던 지역 내에서 이주하는 비율 보..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220208_5086060_1644309200.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
