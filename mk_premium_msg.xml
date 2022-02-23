@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 21:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 22:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 24일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31558/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31558/</guid>
+            <pubDate>Wed, 23 Feb 2022 22:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 24일)  
+1. 과중한 업무나 급격한 업무환경 변화로 인한 근로자의 과로사는 중대재해처벌법상 중대산업재해에 해당된다는 검찰의 유권해석이 나옴. 이 같은 내..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220223_5098830_1645605961.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 23일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31557/</link>
@@ -108,15 +117,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(메-세-지 2월11일)
 1. 한국기자협회가 주최하고 MBN JTBC 채널A TV조선 종합편성채널 4개사와 연합뉴스TV YTN 보도전문채널 2개사가 공동주관하는 제20대 대통령선거 후보자 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220210_4943150_1644483773.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 10일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31497/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31497/</guid>
-            <pubDate>Wed, 09 Feb 2022 23:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 10일)
-1. 국민연금공단이 국내 기업들을 겨냥한 주주대표소송 주체를 기금운용본부에서 노동계·시민단체 입김이 센 수탁자책임전문위원회(수책위)로 넘기려는..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220209_5087784_1644396248.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
