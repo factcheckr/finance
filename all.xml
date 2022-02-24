@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 21:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 22:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -425,6 +425,15 @@
             <content:encoded><![CDATA[1인가구 어떻게 살고 있나요?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 25일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31562/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31562/</guid>
+            <pubDate>Thu, 24 Feb 2022 22:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 25일)  
+  1. 블라디미르 푸틴 러시아 대통령이 24일(현지시간) 우크라이나 수도 키예프를 미사일로 공습하고 지상군을 투입하면서 전면 침공했음. 조 바이든 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220224_5099100_1645693775.png.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 24일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31558/</link>
             <guid>https://www.mk.co.kr/premium/life/view/2022/02/31558/</guid>
@@ -525,15 +534,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 12일) 
 1. 3월 대선을 앞두고 여야 후보들이 재건축 규제 완화 공약을 내놓으면서 서울과 경기에 집중돼 있는 노후 아파트 단지를 중심으로 투자 기대감이 높..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220210_5088072_1644568293.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(메-세-지 2월11일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31501/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31501/</guid>
-            <pubDate>Thu, 10 Feb 2022 22:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(메-세-지 2월11일)
-1. 한국기자협회가 주최하고 MBN JTBC 채널A TV조선 종합편성채널 4개사와 연합뉴스TV YTN 보도전문채널 2개사가 공동주관하는 제20대 대통령선거 후보자 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220210_4943150_1644483773.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
