@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 08:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 10:07:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -449,6 +449,15 @@
             <content:encoded><![CDATA[수요보다 공급이 많아요]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매세지, 2월 26일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/02/31576/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31576/</guid>
+            <pubDate>Fri, 25 Feb 2022 10:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매세지, 2월 26일)
+1. 러시아가 우크라이나를 전격 침공하면서 양국과 교역관계가 있는 국내 기업들에 비상이 걸림. 에너지와 각종 원자재를 양국에서 수입하는 기업들은 물론..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220225_5100824_1645778722.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 25일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31562/</link>
             <guid>https://www.mk.co.kr/premium/life/view/2022/02/31562/</guid>
@@ -549,15 +558,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 14일)
   1. 안철수 국민의당 대선후보가 윤석열 국민의힘 대선후보에게 여론조사를 통한 야권단일화를 제안함. 안 후보는 "더 좋은 정권교체를 위해, 즉 정권..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220213_5090357_1644741019.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 12일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31517/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31517/</guid>
-            <pubDate>Fri, 11 Feb 2022 09:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 12일) 
-1. 3월 대선을 앞두고 여야 후보들이 재건축 규제 완화 공약을 내놓으면서 서울과 경기에 집중돼 있는 노후 아파트 단지를 중심으로 투자 기대감이 높..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220210_5088072_1644568293.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
