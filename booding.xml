@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.booding.co/blog</id>
     <title>부딩</title>
-    <updated>2022-02-28T22:10:03.967Z</updated>
+    <updated>2022-02-28T23:09:26.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.wixstatic.com/ficons/6cb3fa_08c872b4a1da40ecba4605bf0db6ee62%7Emv2.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반값으로 허하라!]]></title>
+        <id>https://www.booding.co/post/%EB%B0%98%EA%B0%92%EC%9C%BC%EB%A1%9C-%ED%97%88%ED%95%98%EB%9D%BC</id>
+        <link href="https://www.booding.co/post/%EB%B0%98%EA%B0%92%EC%9C%BC%EB%A1%9C-%ED%97%88%ED%95%98%EB%9D%BC"/>
+        <updated>2022-02-28T23:09:15.662Z</updated>
+        <content type="html"><![CDATA[반값으로 허하라!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[45년 만기 주담대 시행합니다!]]></title>
         <id>https://www.booding.co/post/45%EB%85%84-%EB%A7%8C%EA%B8%B0-%EC%A3%BC%EB%8B%B4%EB%8C%80-%EC%8B%9C%ED%96%89%ED%95%A9%EB%8B%88%EB%8B%A4</id>
@@ -137,12 +144,5 @@
         <link href="https://www.booding.co/post/%EC%99%9C-%EC%84%A0%EA%B1%B0%EC%B2%A0%EC%97%94-%EA%B7%9C%EC%A0%9C%EC%99%84%ED%99%94%EC%B1%85%EC%9D%B4-%EB%82%98%EC%98%AC%EA%B9%8C"/>
         <updated>2022-02-07T14:12:27.124Z</updated>
         <content type="html"><![CDATA[왜 선거철엔 규제완화책이 나올까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수요보다 공급이 많아요]]></title>
-        <id>https://www.booding.co/post/%EC%88%98%EC%9A%94%EB%B3%B4%EB%8B%A4-%EA%B3%B5%EA%B8%89%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%9A%94</id>
-        <link href="https://www.booding.co/post/%EC%88%98%EC%9A%94%EB%B3%B4%EB%8B%A4-%EA%B3%B5%EA%B8%89%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%9A%94"/>
-        <updated>2022-02-07T14:12:27.125Z</updated>
-        <content type="html"><![CDATA[수요보다 공급이 많아요]]></content>
     </entry>
 </feed>

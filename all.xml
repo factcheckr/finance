@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 22:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 23:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -331,6 +331,13 @@
 						<!--						-->]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[반값으로 허하라! (부딩)]]></title>
+            <link>https://www.booding.co/post/%EB%B0%98%EA%B0%92%EC%9C%BC%EB%A1%9C-%ED%97%88%ED%95%98%EB%9D%BC</link>
+            <guid>https://www.booding.co/post/%EB%B0%98%EA%B0%92%EC%9C%BC%EB%A1%9C-%ED%97%88%ED%95%98%EB%9D%BC</guid>
+            <pubDate>Mon, 28 Feb 2022 23:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[반값으로 허하라!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[45년 만기 주담대 시행합니다! (부딩)]]></title>
             <link>https://www.booding.co/post/45%EB%85%84-%EB%A7%8C%EA%B8%B0-%EC%A3%BC%EB%8B%B4%EB%8C%80-%EC%8B%9C%ED%96%89%ED%95%A9%EB%8B%88%EB%8B%A4</link>
             <guid>https://www.booding.co/post/45%EB%85%84-%EB%A7%8C%EA%B8%B0-%EC%A3%BC%EB%8B%B4%EB%8C%80-%EC%8B%9C%ED%96%89%ED%95%A9%EB%8B%88%EB%8B%A4</guid>
@@ -462,13 +469,6 @@
             <guid>https://www.booding.co/post/%EC%99%9C-%EC%84%A0%EA%B1%B0%EC%B2%A0%EC%97%94-%EA%B7%9C%EC%A0%9C%EC%99%84%ED%99%94%EC%B1%85%EC%9D%B4-%EB%82%98%EC%98%AC%EA%B9%8C</guid>
             <pubDate>Mon, 07 Feb 2022 14:12:27 GMT</pubDate>
             <content:encoded><![CDATA[왜 선거철엔 규제완화책이 나올까?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[수요보다 공급이 많아요 (부딩)]]></title>
-            <link>https://www.booding.co/post/%EC%88%98%EC%9A%94%EB%B3%B4%EB%8B%A4-%EA%B3%B5%EA%B8%89%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%9A%94</link>
-            <guid>https://www.booding.co/post/%EC%88%98%EC%9A%94%EB%B3%B4%EB%8B%A4-%EA%B3%B5%EA%B8%89%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%9A%94</guid>
-            <pubDate>Mon, 07 Feb 2022 14:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[수요보다 공급이 많아요]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 1일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
