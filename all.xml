@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 21:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 22:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -471,6 +471,15 @@
             <content:encoded><![CDATA[수요보다 공급이 많아요]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 1일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31582/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31582/</guid>
+            <pubDate>Mon, 28 Feb 2022 22:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 1일)
+1. 푸틴 러시아 대통령이 핵무기 운용부대 경계태세 강화를 지시하자 미국 국방부가 28일 "오판하지 말라"고 강력히 경고함. 러시아군은 우크라이나 국경..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220228_5102419_1646038320.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 28일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/02/31579/</link>
             <guid>https://www.mk.co.kr/premium/life/view/2022/02/31579/</guid>
@@ -571,15 +580,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 16일)
 1. 탈원전 정책을 강조해온 문재인 정부 5년간 원전 의존도가 되레 커진 것으로 나타남. 한국전력 전력통계월보에 따르면 지난해 원전 발전량은 15만801..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220215_5091706_1644913930.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 15일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31519/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31519/</guid>
-            <pubDate>Mon, 14 Feb 2022 22:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 15일)  
-1. 긴축 정책 가속화와 러시아·우크라이나발 지정학적 리스크에 국내 증시가 살얼음판을 걷고 있음. 14일 유가증권시장(코스피)은 1.57% 하락한 2704..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220214_5091324_1644827946.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
