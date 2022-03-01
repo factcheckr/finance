@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 21:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 22:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -330,6 +330,16 @@
 						<!--						-->]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월2일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31583/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31583/</guid>
+            <pubDate>Tue, 01 Mar 2022 22:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월2일)
+
+1. 러시아를 겨낭한 미국과 서방의 제재가 본격화하면서 러시아 금융시스템이 붕괴 위기에 직면. 28일(현지시간) 월스트리트저널에 따르면 러시아가 디..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220301_5102922_1646118502.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 1일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31582/</link>
             <guid>https://www.mk.co.kr/premium/life/view/2022/03/31582/</guid>
@@ -430,15 +440,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 17일)
 1. 앞으로 삼성 스마트폰 등 구글 안드로이드 운영체제(OS) 이용자도 개인 정보가 자신도 모르는 사이에 제3자(광고회사)에게 넘어가는 행위를 원천 차..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220216_5092964_1645000751.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 16일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31523/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31523/</guid>
-            <pubDate>Tue, 15 Feb 2022 22:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 16일)
-1. 탈원전 정책을 강조해온 문재인 정부 5년간 원전 의존도가 되레 커진 것으로 나타남. 한국전력 전력통계월보에 따르면 지난해 원전 발전량은 15만801..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220215_5091706_1644913930.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
         <item>
             <title><![CDATA[반값으로 허하라! (부딩)]]></title>
