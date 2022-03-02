@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 21:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 22:07:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 3일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31585/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31585/</guid>
+            <pubDate>Wed, 02 Mar 2022 22:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 3일)
+1. 우크라이나 사태에 따른 지정학적 위기가 부각되면서 국제유가는 심리적 저항선으로 여겨졌던 배럴당 100달러를 넘어서. 1일(현지시간) 뉴욕상업거래..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220302_5103599_1646211475.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월2일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31583/</link>
@@ -109,15 +118,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 18일)
 1. 국제 에너지 가격 급등에 무역수지까지 두달 연속 적자를 기록하며 재정·무역수지가 모두 적자인 '쌍둥이 적자'가 심해질 수 있다는 분석이 제기. 기..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220217_5093621_1645087367.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 17일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31524/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31524/</guid>
-            <pubDate>Wed, 16 Feb 2022 22:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 17일)
-1. 앞으로 삼성 스마트폰 등 구글 안드로이드 운영체제(OS) 이용자도 개인 정보가 자신도 모르는 사이에 제3자(광고회사)에게 넘어가는 행위를 원천 차..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220216_5092964_1645000751.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
