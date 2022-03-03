@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.booding.co/blog</id>
     <title>부딩</title>
-    <updated>2022-03-03T22:11:37.725Z</updated>
+    <updated>2022-03-03T23:07:29.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.wixstatic.com/ficons/6cb3fa_08c872b4a1da40ecba4605bf0db6ee62%7Emv2.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이삿짐 풀자마자 이렇게!]]></title>
+        <id>https://www.booding.co/post/%EC%9D%B4%EC%82%BF%EC%A7%90-%ED%92%80%EC%9E%90%EB%A7%88%EC%9E%90-%EC%9D%B4%EB%A0%87%EA%B2%8C</id>
+        <link href="https://www.booding.co/post/%EC%9D%B4%EC%82%BF%EC%A7%90-%ED%92%80%EC%9E%90%EB%A7%88%EC%9E%90-%EC%9D%B4%EB%A0%87%EA%B2%8C"/>
+        <updated>2022-03-03T23:07:28.689Z</updated>
+        <content type="html"><![CDATA[이삿짐 풀자마자 이렇게!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반값으로 허하라!]]></title>
         <id>https://www.booding.co/post/%EB%B0%98%EA%B0%92%EC%9C%BC%EB%A1%9C-%ED%97%88%ED%95%98%EB%9D%BC</id>
         <link href="https://www.booding.co/post/%EB%B0%98%EA%B0%92%EC%9C%BC%EB%A1%9C-%ED%97%88%ED%95%98%EB%9D%BC"/>
         <updated>2022-02-28T23:09:15.662Z</updated>
         <content type="html"><![CDATA[반값으로 허하라!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[45년 만기 주담대 시행합니다!]]></title>
-        <id>https://www.booding.co/post/45%EB%85%84-%EB%A7%8C%EA%B8%B0-%EC%A3%BC%EB%8B%B4%EB%8C%80-%EC%8B%9C%ED%96%89%ED%95%A9%EB%8B%88%EB%8B%A4</id>
-        <link href="https://www.booding.co/post/45%EB%85%84-%EB%A7%8C%EA%B8%B0-%EC%A3%BC%EB%8B%B4%EB%8C%80-%EC%8B%9C%ED%96%89%ED%95%A9%EB%8B%88%EB%8B%A4"/>
-        <updated>2022-02-24T23:10:21.061Z</updated>
-        <content type="html"><![CDATA[45년 만기 주담대 시행합니다!]]></content>
     </entry>
 </feed>

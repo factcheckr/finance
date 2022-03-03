@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 22:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 23:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🐹26년만의 재도전, 디즈니 마을 [3월 4일] (순살브리핑 ─ 날짜별)]]></title>
+            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10576666&amp;t=board</link>
+            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10576666&amp;t=board</guid>
+            <pubDate>Thu, 03 Mar 2022 23:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
+							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
+						</a>
+												<span class="tit_ico">
+						<i aria-hidden="true" class="icon-flag vertical-middle hidden-lg hidden-md" style="display: none !important;"></i>
+						<i aria-hidden="true" class="btl bt-lock" style="display: none"></i>
+					</span>
+												<a class="list_text_title _fade_link" href="/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10576666&amp;t=board">
+						<span>
+							🐹26년만의 재도전, 디즈니 마을 [3월 4일]						</span>
+						</a>
+
+												
+																			<span class="icons"><em class="badge">N</em></span>
+												<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+						<!--						-->]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[🕵️‍♂️꼼수 9단 (?), 숨은 인플레이션 찾기 [3월 3일] (순살브리핑 ─ 날짜별)]]></title>
             <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10563641&amp;t=board</link>
@@ -374,18 +398,18 @@
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220218_5094954_1645174958.jpg.thumb" length="0" type="image/thumb"/>
         </item>
         <item>
+            <title><![CDATA[이삿짐 풀자마자 이렇게! (부딩)]]></title>
+            <link>https://www.booding.co/post/%EC%9D%B4%EC%82%BF%EC%A7%90-%ED%92%80%EC%9E%90%EB%A7%88%EC%9E%90-%EC%9D%B4%EB%A0%87%EA%B2%8C</link>
+            <guid>https://www.booding.co/post/%EC%9D%B4%EC%82%BF%EC%A7%90-%ED%92%80%EC%9E%90%EB%A7%88%EC%9E%90-%EC%9D%B4%EB%A0%87%EA%B2%8C</guid>
+            <pubDate>Thu, 03 Mar 2022 23:07:28 GMT</pubDate>
+            <content:encoded><![CDATA[이삿짐 풀자마자 이렇게!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[반값으로 허하라! (부딩)]]></title>
             <link>https://www.booding.co/post/%EB%B0%98%EA%B0%92%EC%9C%BC%EB%A1%9C-%ED%97%88%ED%95%98%EB%9D%BC</link>
             <guid>https://www.booding.co/post/%EB%B0%98%EA%B0%92%EC%9C%BC%EB%A1%9C-%ED%97%88%ED%95%98%EB%9D%BC</guid>
             <pubDate>Mon, 28 Feb 2022 23:09:15 GMT</pubDate>
             <content:encoded><![CDATA[반값으로 허하라!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[45년 만기 주담대 시행합니다! (부딩)]]></title>
-            <link>https://www.booding.co/post/45%EB%85%84-%EB%A7%8C%EA%B8%B0-%EC%A3%BC%EB%8B%B4%EB%8C%80-%EC%8B%9C%ED%96%89%ED%95%A9%EB%8B%88%EB%8B%A4</link>
-            <guid>https://www.booding.co/post/45%EB%85%84-%EB%A7%8C%EA%B8%B0-%EC%A3%BC%EB%8B%B4%EB%8C%80-%EC%8B%9C%ED%96%89%ED%95%A9%EB%8B%88%EB%8B%A4</guid>
-            <pubDate>Thu, 24 Feb 2022 23:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[45년 만기 주담대 시행합니다!]]></content:encoded>
         </item>
     </channel>
 </rss>
