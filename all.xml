@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 21:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 22:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,6 +262,15 @@
 						<!--						-->]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 4일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31588/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31588/</guid>
+            <pubDate>Thu, 03 Mar 2022 22:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 4일)
+1. 윤석열 국민의힘 대선후보가 안철수 국민의당 대표와 3일 새벽 극적인 야권 단일화를 성사시켜. 안 대표가 지난달 13일 처음 야권 단일화를 제안하고,..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220303_5104480_1646298185.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 3일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31585/</link>
             <guid>https://www.mk.co.kr/premium/life/view/2022/03/31585/</guid>
@@ -363,15 +372,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(메-세-지, 2월19일)
 1. 우크라이나 사태로 국제적으로 지정학적 위험이 높아지면서 국내외에서 자금이 안전자산으로 대이동하고 있음. 주식·가상화폐는 힘을 잃고 금 채권 달..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220218_5094954_1645174958.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 18일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31529/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31529/</guid>
-            <pubDate>Fri, 18 Feb 2022 01:57:52 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 18일)
-1. 국제 에너지 가격 급등에 무역수지까지 두달 연속 적자를 기록하며 재정·무역수지가 모두 적자인 '쌍둥이 적자'가 심해질 수 있다는 분석이 제기. 기..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220217_5093621_1645087367.jpg.thumb" length="0" type="image/thumb"/>
         </item>
         <item>
             <title><![CDATA[반값으로 허하라! (부딩)]]></title>
