@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 21:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 22:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월8일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31611/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31611/</guid>
+            <pubDate>Mon, 07 Mar 2022 22:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월8일)
+1. 국제유가가 6일(현지시간) 미국의 러시아산 석유·가스 제재 가능성과 맞물려 13년 만에 최고가인 배럴당 130달러선까지 일제히 치솟음. 유가 급등으로 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220307_5107669_1646642405.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 7일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31610/</link>
@@ -106,15 +115,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 23일)  
 1. 푸틴 러시아 대통령이 22일 우크라이나 동부 분쟁지역 돈바스에 위치한 친러시아 반군 거점인 도네츠크인민공화국과 루간스크인민공화국의 분리 독..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220222_5096929_1645519453.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 22일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31554/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31554/</guid>
-            <pubDate>Mon, 21 Feb 2022 22:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 22일)
-1. 대선 이후 사법 권력의 지각변동이 올 전망. 올해 5월 취임하는 새 대통령은 역대 어느 대통령보다도 강력한 사법부 인사권을 행사함. 5년 임기 중 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220221_5096595_1645433162.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
