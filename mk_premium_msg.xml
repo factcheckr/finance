@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 23:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 00:30:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 7일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31610/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31610/</guid>
+            <pubDate>Mon, 07 Mar 2022 00:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 7일)
+  1. 코로나19 확진자·격리자 투표에 대한 중앙선관위의 미흡한 준비로 5일 전국 투표소는 대혼란을 겪으면서 부정투표 의혹까지 제기됨. 선거관리 부실..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220306_5107061_1646557688.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 5일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31606/</link>
@@ -106,18 +115,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 22일)
 1. 대선 이후 사법 권력의 지각변동이 올 전망. 올해 5월 취임하는 새 대통령은 역대 어느 대통령보다도 강력한 사법부 인사권을 행사함. 5년 임기 중 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220221_5096595_1645433162.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월21일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31553/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31553/</guid>
-            <pubDate>Sun, 20 Feb 2022 22:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[매-세-지, 2월21일
-
-매경이 전하는 세상의 지식 (매-세-지, 2월21일)
-
-1. 국내 기업과 정부 출연연구기관 등이 외부에 매각한 특허가 국내 기업을 공격하는 사례가 잇따르고 있음. 매일경제가 미국 특..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220220_5095590_1645337279.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
