@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 00:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 02:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 10일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31616/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31616/</guid>
+            <pubDate>Thu, 10 Mar 2022 02:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 10일)  
+  1. 윤석열 국민의힘 대선후보가 대한민국 제 20대 대통령 선거에서 경쟁자인 여당 더불어민주당 이재명 후보를 1%P 미만의 차이로 앞서며 대통령에 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220310_5109920_1646872100.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 9일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31615/</link>
@@ -106,15 +115,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 25일)  
   1. 블라디미르 푸틴 러시아 대통령이 24일(현지시간) 우크라이나 수도 키예프를 미사일로 공습하고 지상군을 투입하면서 전면 침공했음. 조 바이든 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220224_5099100_1645693775.png.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 24일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31558/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31558/</guid>
-            <pubDate>Wed, 23 Feb 2022 22:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 24일)  
-1. 과중한 업무나 급격한 업무환경 변화로 인한 근로자의 과로사는 중대재해처벌법상 중대산업재해에 해당된다는 검찰의 유권해석이 나옴. 이 같은 내..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220223_5098830_1645605961.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
