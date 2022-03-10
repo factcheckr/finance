@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 21:06:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 22:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 11일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31620/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31620/</guid>
+            <pubDate>Thu, 10 Mar 2022 22:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 11일)  
+  1. 제20대 대선에서 약 25만표 차로 극적인 승리를 거둔 윤석열 대통령 당선인의 첫 일성은 '오직 국민'. 당선이 확정된 10일 오전 윤 당선인은 국..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220310_5110138_1646902146.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 10일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31616/</link>
@@ -106,15 +115,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매세지, 2월 26일)
 1. 러시아가 우크라이나를 전격 침공하면서 양국과 교역관계가 있는 국내 기업들에 비상이 걸림. 에너지와 각종 원자재를 양국에서 수입하는 기업들은 물론..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220225_5100824_1645778722.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 25일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31562/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31562/</guid>
-            <pubDate>Thu, 24 Feb 2022 22:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 25일)  
-  1. 블라디미르 푸틴 러시아 대통령이 24일(현지시간) 우크라이나 수도 키예프를 미사일로 공습하고 지상군을 투입하면서 전면 침공했음. 조 바이든 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220224_5099100_1645693775.png.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
