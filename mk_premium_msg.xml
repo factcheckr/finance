@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 08:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 09:08:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 12일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31634/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31634/</guid>
+            <pubDate>Fri, 11 Mar 2022 09:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 12일)
+  1. 윤석열 대통령 당선인의 대통력직인수위원회가 기획·조정, 외교안보, 정무사법행정, 경제1, 경제2, 과학기술교육, 사회복지문화 등 7개 분야로 확..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220311_5110974_1646988179.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 11일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31620/</link>
@@ -106,15 +115,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 28일)
 1.  미국을 비롯한 서방 국가들이 26일(현지시간) 러시아 우크라이나 침공에 대한 제재 조치로 러시아 은행들을 국제은행간통신협회(SWIFT·스위프트) ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220227_5101551_1645950606.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매세지, 2월 26일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/02/31576/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/02/31576/</guid>
-            <pubDate>Fri, 25 Feb 2022 10:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매세지, 2월 26일)
-1. 러시아가 우크라이나를 전격 침공하면서 양국과 교역관계가 있는 국내 기업들에 비상이 걸림. 에너지와 각종 원자재를 양국에서 수입하는 기업들은 물론..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220225_5100824_1645778722.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
