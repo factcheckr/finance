@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 21:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 22:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월 15일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31640/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31640/</guid>
+            <pubDate>Mon, 14 Mar 2022 22:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월 15일)
+1. 정권 교체를 앞두고 친 문재인정부 인사들의 공공기관·공기업 알박기 정황이 포착. 한국가스안전공사는 지난 10일 임찬기 전 청와대 민정수석실 선임..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220314_5113112_1647248963.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월14일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31637/</link>
@@ -106,15 +115,6 @@
 
 1. 러시아를 겨낭한 미국과 서방의 제재가 본격화하면서 러시아 금융시스템이 붕괴 위기에 직면. 28일(현지시간) 월스트리트저널에 따르면 러시아가 디..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220301_5102922_1646118502.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 1일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31582/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31582/</guid>
-            <pubDate>Mon, 28 Feb 2022 22:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 1일)
-1. 푸틴 러시아 대통령이 핵무기 운용부대 경계태세 강화를 지시하자 미국 국방부가 28일 "오판하지 말라"고 강력히 경고함. 러시아군은 우크라이나 국경..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/02/20220228_5102419_1646038320.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
