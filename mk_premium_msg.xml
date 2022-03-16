@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 21:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 22:07:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월17일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31645/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31645/</guid>
+            <pubDate>Wed, 16 Mar 2022 22:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월17일)
+1. 문재인 대통령과 윤석열 대통령 당선인이 16일 갖기로 했던 청와대 오찬 회동이 예정 시간을 불과 4시간 앞두고 무산. 정권교체기 신구(新舊) 권력이 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220316_5114944_1647420638.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월 16일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31644/</link>
@@ -105,15 +114,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 4일)
 1. 윤석열 국민의힘 대선후보가 안철수 국민의당 대표와 3일 새벽 극적인 야권 단일화를 성사시켜. 안 대표가 지난달 13일 처음 야권 단일화를 제안하고,..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220303_5104480_1646298185.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 3일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31585/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31585/</guid>
-            <pubDate>Wed, 02 Mar 2022 22:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 3일)
-1. 우크라이나 사태에 따른 지정학적 위기가 부각되면서 국제유가는 심리적 저항선으로 여겨졌던 배럴당 100달러를 넘어서. 1일(현지시간) 뉴욕상업거래..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220302_5103599_1646211475.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
