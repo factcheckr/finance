@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 21:06:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 22:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 18일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31648/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31648/</guid>
+            <pubDate>Thu, 17 Mar 2022 22:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 18일)
+1. 미국 중앙은행인 연방준비제도(Fed·연준)가 16일(현지시간) 제로금리 시대에 마침표를 찍음. 연준은 이날 연방공개시장위원회(FOMC) 정례회의 후 발..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220317_5116348_1647508561.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월17일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31645/</link>
@@ -105,15 +114,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 5일)
 1. 러시아군이 우크라이나에 위치한 원자력 발전소 단지에 포격을 가해 자포리자 원전 인근 건물에 화재가 발생. 러시아군은 이 지역에 원전이 있다는 점..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220303_5104820_1646383288.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 4일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31588/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31588/</guid>
-            <pubDate>Thu, 03 Mar 2022 22:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 4일)
-1. 윤석열 국민의힘 대선후보가 안철수 국민의당 대표와 3일 새벽 극적인 야권 단일화를 성사시켜. 안 대표가 지난달 13일 처음 야권 단일화를 제안하고,..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220303_5104480_1646298185.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
