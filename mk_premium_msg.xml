@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 21:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 22:07:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 21일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31670/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31670/</guid>
+            <pubDate>Sun, 20 Mar 2022 22:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 21일)
+
+1. 윤석열 대통령 당선인이 대통령 집무실 '용산 시대'를 선언함. 윤 당선인은 20일 "선거 과정에서 제왕적 권력의 상징인 청와대를 국민께 돌려드리..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220320_5118589_1647767102.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 19일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31667/</link>
@@ -105,15 +115,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월8일)
 1. 국제유가가 6일(현지시간) 미국의 러시아산 석유·가스 제재 가능성과 맞물려 13년 만에 최고가인 배럴당 130달러선까지 일제히 치솟음. 유가 급등으로 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220307_5107669_1646642405.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 7일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31610/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31610/</guid>
-            <pubDate>Mon, 07 Mar 2022 00:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 7일)
-  1. 코로나19 확진자·격리자 투표에 대한 중앙선관위의 미흡한 준비로 5일 전국 투표소는 대혼란을 겪으면서 부정투표 의혹까지 제기됨. 선거관리 부실..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220306_5107061_1646557688.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
