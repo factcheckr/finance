@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://soonsal.com/newsletters</id>
     <title>순살브리핑 ─ 날짜별</title>
-    <updated>2022-03-21T22:07:59.474Z</updated>
+    <updated>2022-03-21T23:07:33.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20200601/b469841e49645.png</icon>
+    <entry>
+        <title type="html"><![CDATA[💉삼성과 SK의 미래먹거리 [3월 22일]]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10988803&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10988803&amp;t=board"/>
+        <updated>2022-03-21T23:06:58.071Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
+						</a>
+												<span class="tit_ico">
+						<i aria-hidden="true" class="icon-flag vertical-middle hidden-lg hidden-md" style="display: none !important;"></i>
+						<i aria-hidden="true" class="btl bt-lock" style="display: none"></i>
+					</span>
+												<a class="list_text_title _fade_link" href="/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10988803&amp;t=board">
+						<span>
+							💉삼성과 SK의 미래먹거리 [3월 22일]						</span>
+						</a>
+
+												
+																			<span class="icons"><em class="badge">N</em></span>
+												<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+						<!--						-->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💰원자재 가격이 오르면 제일 행복한 사람 [3월 21일]]]></title>
         <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10952263&amp;t=board</id>
