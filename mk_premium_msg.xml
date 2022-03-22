@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 21:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 23:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 23일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31675/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31675/</guid>
+            <pubDate>Tue, 22 Mar 2022 23:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 23일)
+  1. 대통령 집무실 용산 이전을 둘러싼 신·구 권력갈등이 장기전에 돌입함. 문재인 대통령은 22일 "국정에는 작은 공백도 있을 수 없다. 특히 국가안..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220322_5119862_1647940014.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 22일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31671/</link>
@@ -106,15 +115,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 10일)  
   1. 윤석열 국민의힘 대선후보가 대한민국 제 20대 대통령 선거에서 경쟁자인 여당 더불어민주당 이재명 후보를 1%P 미만의 차이로 앞서며 대통령에 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220310_5109920_1646872100.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 9일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31615/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31615/</guid>
-            <pubDate>Tue, 08 Mar 2022 23:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 9일)
-  1. 5년간 대한민국을 이끌 제20대 대통령을 뽑는 투표가 9일 오전 6시부터 전국 1만4464개 투표에서 진행. 코로나19 확진·격리자를 위해 오후7시30분..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220308_5108240_1646730733.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
