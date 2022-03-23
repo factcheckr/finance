@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 21:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 22:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 24일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31676/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31676/</guid>
+            <pubDate>Wed, 23 Mar 2022 22:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 24일)
+1. 매경미디어그룹이 21일 서울 중구 신라호텔에서 열린 창간 56주년 기념 제31차 국민보고대회서 한미 'C테크'(기후변화 대응기술) 동맹 체결을 제언함..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220323_5121715_1648025825.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 23일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31675/</link>
@@ -106,15 +115,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 11일)  
   1. 제20대 대선에서 약 25만표 차로 극적인 승리를 거둔 윤석열 대통령 당선인의 첫 일성은 '오직 국민'. 당선이 확정된 10일 오전 윤 당선인은 국..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220310_5110138_1646902146.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 10일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31616/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31616/</guid>
-            <pubDate>Thu, 10 Mar 2022 02:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 10일)  
-  1. 윤석열 국민의힘 대선후보가 대한민국 제 20대 대통령 선거에서 경쟁자인 여당 더불어민주당 이재명 후보를 1%P 미만의 차이로 앞서며 대통령에 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220310_5109920_1646872100.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
