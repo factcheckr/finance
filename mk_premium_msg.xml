@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 21:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 22:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월 25일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31680/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31680/</guid>
+            <pubDate>Thu, 24 Mar 2022 22:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월 25일)
+1. 한국 대기업들이 지난 2년간 큰 폭의 실적 개선을 이뤄내면서 직원들에 대한 처우를 크게 개선한 반면 고용 규모 측면에서는 정체에 빠진 것으로 나타..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220324_5121984_1648111820.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 24일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31676/</link>
@@ -106,15 +115,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 12일)
   1. 윤석열 대통령 당선인의 대통력직인수위원회가 기획·조정, 외교안보, 정무사법행정, 경제1, 경제2, 과학기술교육, 사회복지문화 등 7개 분야로 확..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220311_5110974_1646988179.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 11일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31620/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31620/</guid>
-            <pubDate>Thu, 10 Mar 2022 22:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 11일)  
-  1. 제20대 대선에서 약 25만표 차로 극적인 승리를 거둔 윤석열 대통령 당선인의 첫 일성은 '오직 국민'. 당선이 확정된 10일 오전 윤 당선인은 국..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220310_5110138_1646902146.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
