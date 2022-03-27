@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 21:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 22:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월28일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31696/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31696/</guid>
+            <pubDate>Sun, 27 Mar 2022 22:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월28일)
+
+1. 문재인 대통령과 윤석열 대통령 당선인이 28일 청와대 상춘재에서 만찬 회동. 지난 10일 차기 대통령 당선인이 확정된지 19일만으로 역대 가장 늦은..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220327_5124408_1648361882.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 26일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31694/</link>
@@ -106,15 +116,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월 15일)
 1. 정권 교체를 앞두고 친 문재인정부 인사들의 공공기관·공기업 알박기 정황이 포착. 한국가스안전공사는 지난 10일 임찬기 전 청와대 민정수석실 선임..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220314_5113112_1647248963.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월14일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31637/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31637/</guid>
-            <pubDate>Mon, 14 Mar 2022 00:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월14일)
-  1. 윤석열 대통령 당선인이 안철수 국민의당 대표를 대통령인수위원장으로, 권영세 국민의힘 의원을 부위원장으로 임명하는 인사를 13일 발표. 기획위..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220314_5112628_1647216517.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
