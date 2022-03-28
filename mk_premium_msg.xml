@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 21:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 22:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월29일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31697/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31697/</guid>
+            <pubDate>Mon, 28 Mar 2022 22:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월29일)
+  1. 정부조직 개편 작업에 착수한 대통령직인수위원회가 일단 초기 정부조직개편은 최소화하겠다는 방침을 세운 것으로 확인됨. 2024년까지 여소야대 국..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220328_5125252_1648457200.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월28일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31696/</link>
@@ -107,15 +116,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월 16일)
 1. 15일 매일경제 취재를 종합하면 대통령직인수위원회 경제1·2분과가 당초 전망(삼청동 금융연수원)과 달리 윤석열 대통령 당선인 집무실이 있는 통의..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220315_5113969_1647334103.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월 15일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31640/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31640/</guid>
-            <pubDate>Mon, 14 Mar 2022 22:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월 15일)
-1. 정권 교체를 앞두고 친 문재인정부 인사들의 공공기관·공기업 알박기 정황이 포착. 한국가스안전공사는 지난 10일 임찬기 전 청와대 민정수석실 선임..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220314_5113112_1647248963.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
