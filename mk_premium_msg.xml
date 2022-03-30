@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 21:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 23:07:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 31일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/03/31702/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31702/</guid>
+            <pubDate>Wed, 30 Mar 2022 23:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 31일)
+1. 대통령직인수위가 안정적 전월세 물량을 확보하기 위해 서민 주거 형태인 소형면적의 빌라·다세대주택을 보유 주택 합산에서 배제하는 방안을 검토 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220330_5127694_1648630455.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(메-세-지, 3월 30일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/03/31701/</link>
@@ -107,15 +116,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 18일)
 1. 미국 중앙은행인 연방준비제도(Fed·연준)가 16일(현지시간) 제로금리 시대에 마침표를 찍음. 연준은 이날 연방공개시장위원회(FOMC) 정례회의 후 발..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220317_5116348_1647508561.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월17일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31645/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31645/</guid>
-            <pubDate>Wed, 16 Mar 2022 22:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월17일)
-1. 문재인 대통령과 윤석열 대통령 당선인이 16일 갖기로 했던 청와대 오찬 회동이 예정 시간을 불과 4시간 앞두고 무산. 정권교체기 신구(新舊) 권력이 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220316_5114944_1647420638.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
