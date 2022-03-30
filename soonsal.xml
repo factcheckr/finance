@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://soonsal.com/newsletters</id>
     <title>순살브리핑 ─ 날짜별</title>
-    <updated>2022-03-29T23:07:51.098Z</updated>
+    <updated>2022-03-30T00:32:04.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20200601/b469841e49645.png</icon>
+    <entry>
+        <title type="html"><![CDATA[💰내 계좌, 부캐가 굴려준다면? [3월 30일]]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11064901&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11064901&amp;t=board"/>
+        <updated>2022-03-30T00:31:40.791Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
+						</a>
+												<span class="tit_ico">
+						<i aria-hidden="true" class="icon-flag vertical-middle hidden-lg hidden-md" style="display: none !important;"></i>
+						<i aria-hidden="true" class="btl bt-lock" style="display: none"></i>
+					</span>
+												<a class="list_text_title _fade_link" href="/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11064901&amp;t=board">
+						<span>
+							💰내 계좌, 부캐가 굴려준다면? [3월 30일]						</span>
+						</a>
+
+												
+																			<span class="icons"><em class="badge">N</em></span>
+												<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+						<!--						-->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🐭디즈니의 다음 먹거리, 도박? [3월 29일]]]></title>
         <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11057497&amp;t=board</id>
