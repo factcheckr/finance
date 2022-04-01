@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 08:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 10:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 2일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31724/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31724/</guid>
+            <pubDate>Fri, 01 Apr 2022 10:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 2일)
+1. 정부가 마다가스카르 암바토비(니켈·코발트), 파나마 코브레파나마(구리) 등 해외 주요 광산을 매각하지 않고 보유하는 방향으로 가닥을 잡고 관련 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220331_5128518_1648804062.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 1일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31708/</link>
@@ -107,15 +116,6 @@
   
 1. 윤석열 대통령 당선인이 대통령 집무실 '용산 시대'를 선언함. 윤 당선인은 20일 "선거 과정에서 제왕적 권력의 상징인 청와대를 국민께 돌려드..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220320_5118589_1647767102.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 19일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31667/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31667/</guid>
-            <pubDate>Fri, 18 Mar 2022 10:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 19일)  
-1.윤석열 대통령 당선인이 18일 인수위 전체회의에서 "영세 자영업자, 소상공인에 대한 신속한 손실보상"을 언급한 가운데 전문가들은 직접 현금지급..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220317_5116850_1647594536.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
