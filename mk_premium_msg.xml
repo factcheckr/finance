@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 21:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 22:07:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 4일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31726/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31726/</guid>
+            <pubDate>Sun, 03 Apr 2022 22:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 4일)  
+
+1. 윤석열 대통령 당선인이 한덕수 전 국무총리를 새 정부 첫 국무총리 후보로 지명함. 1970년부터 경제 관료로 살아왔고, 특히 김대중·노무현정부..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220403_5130925_1648976170.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 2일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31724/</link>
@@ -106,16 +116,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 22일)
   1.윤석열 대통령 당선인이 경제단체장들과 만난 자리에서 기업을 중심으로 하는 '자유시장경제'에 대한 신념을 재천명. 21일 윤 당선인은 6개 경제단..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220321_5119235_1647853472.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 21일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31670/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31670/</guid>
-            <pubDate>Sun, 20 Mar 2022 22:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 21일)
-  
-1. 윤석열 대통령 당선인이 대통령 집무실 '용산 시대'를 선언함. 윤 당선인은 20일 "선거 과정에서 제왕적 권력의 상징인 청와대를 국민께 돌려드..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220320_5118589_1647767102.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
