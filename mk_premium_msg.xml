@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 21:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 22:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 8일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31740/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31740/</guid>
+            <pubDate>Thu, 07 Apr 2022 22:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 8일)
+1. 글로벌 공급망 대란과 우크라이나 전쟁 여파로 국제 곡물가격이 치솟는 가운데 한국의 곡물자급률(국내 소비량 대비 생산 비중)이 역대 최저 수준으로..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220407_5134703_1649321843.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 7일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31733/</link>
@@ -108,15 +117,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 26일)
   1. 북한이 25일 신형 대륙간탄도미사일(ICBM)인 '화성-17형'을 전날 발사했다고 발표하면서 미국에 대한 장기전을 선언. 이날 조선중앙통신은 김정은 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220325_5123428_1648198636.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월 25일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31680/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31680/</guid>
-            <pubDate>Thu, 24 Mar 2022 22:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월 25일)
-1. 한국 대기업들이 지난 2년간 큰 폭의 실적 개선을 이뤄내면서 직원들에 대한 처우를 크게 개선한 반면 고용 규모 측면에서는 정체에 빠진 것으로 나타..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220324_5121984_1648111820.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
