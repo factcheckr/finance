@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 21:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 22:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월11일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31765/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31765/</guid>
+            <pubDate>Sun, 10 Apr 2022 22:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월11일)
+
+1. 윤석열 대통령 당선인이 10일 추경호 경제부총리 겸 기획재정부 장관 등 8개 부처 장관 후보자를 밢. 산업통상자원부 장관에는 인수위 경제2분과 간..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220410_5137385_1649569648.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 9일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31763/</link>
@@ -107,16 +117,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월29일)
   1. 정부조직 개편 작업에 착수한 대통령직인수위원회가 일단 초기 정부조직개편은 최소화하겠다는 방침을 세운 것으로 확인됨. 2024년까지 여소야대 국..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220328_5125252_1648457200.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월28일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31696/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31696/</guid>
-            <pubDate>Sun, 27 Mar 2022 22:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월28일)
-
-1. 문재인 대통령과 윤석열 대통령 당선인이 28일 청와대 상춘재에서 만찬 회동. 지난 10일 차기 대통령 당선인이 확정된지 19일만으로 역대 가장 늦은..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220327_5124408_1648361882.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
