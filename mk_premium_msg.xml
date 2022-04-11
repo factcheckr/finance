@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 21:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 22:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 12일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31772/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31772/</guid>
+            <pubDate>Mon, 11 Apr 2022 22:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 12일)
+1.매일경제가 올해 31회를 맞은 국민보고대회 역대 제언을 통해 차기 정부가 꼭 챙겨야 할 국정과제를 선정함. 현재 27.5%로 OECD 38개국 중 11위로 높은..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220411_5138230_1649667479.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월11일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31765/</link>
@@ -108,15 +117,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(메-세-지, 3월 30일)
 1. 대통령직인수위원회는 문재인 정부가 '과도한 민간 특혜'라며 폐지한 주택임대사업자 등록제도를 부활시켜 활성화할 것이라고 밝힘. 전세값 불안이 지..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220329_5126099_1648543137.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월29일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31697/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31697/</guid>
-            <pubDate>Mon, 28 Mar 2022 22:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월29일)
-  1. 정부조직 개편 작업에 착수한 대통령직인수위원회가 일단 초기 정부조직개편은 최소화하겠다는 방침을 세운 것으로 확인됨. 2024년까지 여소야대 국..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220328_5125252_1648457200.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
