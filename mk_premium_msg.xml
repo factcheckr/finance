@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 21:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 22:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 13일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31778/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31778/</guid>
+            <pubDate>Tue, 12 Apr 2022 22:07:28 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 13일) 
+  
+1.쿠팡이 최근 1년(작년 3월 ~ 올해 2월) 사이에 국내 기업 중 가장 많은 인력을 신규 채용한 것으로 집계됨. 온라인기반 기업은 매출에 비해 고용..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220412_5138700_1649753687.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 12일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31772/</link>
@@ -108,15 +118,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 31일)
 1. 대통령직인수위가 안정적 전월세 물량을 확보하기 위해 서민 주거 형태인 소형면적의 빌라·다세대주택을 보유 주택 합산에서 배제하는 방안을 검토 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220330_5127694_1648630455.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(메-세-지, 3월 30일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31701/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31701/</guid>
-            <pubDate>Tue, 29 Mar 2022 22:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(메-세-지, 3월 30일)
-1. 대통령직인수위원회는 문재인 정부가 '과도한 민간 특혜'라며 폐지한 주택임대사업자 등록제도를 부활시켜 활성화할 것이라고 밝힘. 전세값 불안이 지..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220329_5126099_1648543137.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
