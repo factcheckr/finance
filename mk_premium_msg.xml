@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 21:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 22:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 14일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31780/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31780/</guid>
+            <pubDate>Wed, 13 Apr 2022 22:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 14일)
+  1. 윤석열 대통령 당선인이 13일 법무장관 후보자로 한동훈 사법연수원 부원장을 지명. 한 후보자 발탁은 파격으로 꼽혀. 한 후보자는 SK 분식회계 사..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220413_5140388_1649839041.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 13일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31778/</link>
@@ -109,15 +118,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 1일) 
   1. 대통령직인수위원회가 다주택자에 대한 양도소득세 중과를 1년동안 한시적으로 유예하기로 결정했음. 과세 기준일인 6월 1일 전 다주택자들이 주택..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220331_5128082_1648718204.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 31일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/03/31702/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/03/31702/</guid>
-            <pubDate>Wed, 30 Mar 2022 23:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 31일)
-1. 대통령직인수위가 안정적 전월세 물량을 확보하기 위해 서민 주거 형태인 소형면적의 빌라·다세대주택을 보유 주택 합산에서 배제하는 방안을 검토 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220330_5127694_1648630455.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
