@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 21:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 23:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 15일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31785/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31785/</guid>
+            <pubDate>Thu, 14 Apr 2022 23:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 15일)
+  1. 한국은행 금융통화위원회가 총재의 부재 속에서도 폭등하는 물가를 잡기 위해 기준금리 인상을 단행했음. 14일 한은 금통위는 통화정책방향 결정회..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220414_5140801_1649925738.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 14일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31780/</link>
@@ -109,15 +118,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 2일)
 1. 정부가 마다가스카르 암바토비(니켈·코발트), 파나마 코브레파나마(구리) 등 해외 주요 광산을 매각하지 않고 보유하는 방향으로 가닥을 잡고 관련 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220331_5128518_1648804062.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 1일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31708/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31708/</guid>
-            <pubDate>Thu, 31 Mar 2022 22:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 1일) 
-  1. 대통령직인수위원회가 다주택자에 대한 양도소득세 중과를 1년동안 한시적으로 유예하기로 결정했음. 과세 기준일인 6월 1일 전 다주택자들이 주택..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/03/20220331_5128082_1648718204.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
