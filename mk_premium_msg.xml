@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 21:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 22:07:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 18일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31806/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31806/</guid>
+            <pubDate>Sun, 17 Apr 2022 22:07:48 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 18일)
+1. 코로나19로 1주일간의 재택근무 중 배달음식에서 나온 플라스틱 폐기물만 총 98개, 한국환경산업기술원의 '환경성적표지 평가계수'에 따라 계산한 탄..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220417_5143516_1650197539.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 16일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31801/</link>
@@ -108,16 +117,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 5일)
 1. 윤석열 대통령 당선인의 집무실 이전을 기폭제로 '용산 개발'이 새 정부 출범 이후 국가급 프로젝트로 추진되야 한다는 주장에 무게가 실리고 있다. 서..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220404_5132074_1649062255.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 4일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31726/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31726/</guid>
-            <pubDate>Sun, 03 Apr 2022 22:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 4일)  
-
-  1. 윤석열 대통령 당선인이 한덕수 전 국무총리를 새 정부 첫 국무총리 후보로 지명함. 1970년부터 경제 관료로 살아왔고, 특히 김대중·노무현정..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220403_5130925_1648976170.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
