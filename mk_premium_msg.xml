@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 20:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 22:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 19일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31808/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31808/</guid>
+            <pubDate>Mon, 18 Apr 2022 22:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 19일)
+  1.윤석열 대통령 당선인이 "경제가 곧 안보고 안보가 곧 경제"라고 언급하며 '경제안보'를 새 정부의 최우선 과제 중 하나로 삼겠다는 뜻을 밝혀. 18..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220418_5144366_1650270857.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 18일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31806/</link>
@@ -108,15 +117,6 @@
 
   1. 코로나19 확진자 급증으로 중국 상하이의 도시봉쇄가 장기화되면서 중국발 물류 대란 우려가 커지고 있음. 상하이시는 원래 계획된 봉쇄 해제일..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220405_5132299_1649147888.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 5일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31727/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31727/</guid>
-            <pubDate>Mon, 04 Apr 2022 22:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 5일)
-1. 윤석열 대통령 당선인의 집무실 이전을 기폭제로 '용산 개발'이 새 정부 출범 이후 국가급 프로젝트로 추진되야 한다는 주장에 무게가 실리고 있다. 서..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220404_5132074_1649062255.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
