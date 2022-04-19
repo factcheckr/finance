@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 21:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 22:07:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 20일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31810/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31810/</guid>
+            <pubDate>Tue, 19 Apr 2022 22:07:18 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 20일)
+1. 중국 상하이 봉쇄 조치가 최소 한 달 이상 지속될 것이란 전망이 나오는 등 '2차 물류대란'에 대한 경고음이 커지고 있음. 19일 산업통상자원부에 따..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220419_5145416_1650358187.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 19일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31808/</link>
@@ -107,16 +116,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 7일)
 1. 대통령직인수위원회(인수위)가 현행 부동산세금 체계를 전면 재검토해 4월 중 완전히 새로운 부동산세금 설계안을 내놓겠다고 밝힘. 인수위 내 부동산..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220406_5134331_1649235876.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 6일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31731/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31731/</guid>
-            <pubDate>Tue, 05 Apr 2022 22:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 6일) 
-
-  1. 코로나19 확진자 급증으로 중국 상하이의 도시봉쇄가 장기화되면서 중국발 물류 대란 우려가 커지고 있음. 상하이시는 원래 계획된 봉쇄 해제일..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220405_5132299_1649147888.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
