@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 21:06:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 22:07:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 21일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31812/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31812/</guid>
+            <pubDate>Wed, 20 Apr 2022 22:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 21일)
+  1. 금융당국이 음원 저작권 조각투자 플랫폼인 '뮤직카우'에서 거래되는 상품(저작권료 참여 청구권)이 자본시장법상 투자계약증권에 해당한다는 결론 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220420_5146513_1650444756.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 20일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31810/</link>
@@ -107,15 +116,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 8일)
 1. 글로벌 공급망 대란과 우크라이나 전쟁 여파로 국제 곡물가격이 치솟는 가운데 한국의 곡물자급률(국내 소비량 대비 생산 비중)이 역대 최저 수준으로..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220407_5134703_1649321843.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 7일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31733/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31733/</guid>
-            <pubDate>Wed, 06 Apr 2022 22:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 7일)
-1. 대통령직인수위원회(인수위)가 현행 부동산세금 체계를 전면 재검토해 4월 중 완전히 새로운 부동산세금 설계안을 내놓겠다고 밝힘. 인수위 내 부동산..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220406_5134331_1649235876.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
