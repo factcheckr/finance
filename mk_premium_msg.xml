@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 08:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 09:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 23일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31833/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31833/</guid>
+            <pubDate>Fri, 22 Apr 2022 09:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 23일)
+  1. 제롬 파월 미국 연방준비제도(Fed·연준) 의장이 5월 3~4일 연방공개시장위원회(FOMC) 회의에서 기준금리를 한번에 0.5%포인트 올리는 '빅스텝'을 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220422_5148009_1650617110.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 22일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31817/</link>
@@ -107,15 +116,6 @@
 
 1. 윤석열 대통령 당선인이 10일 추경호 경제부총리 겸 기획재정부 장관 등 8개 부처 장관 후보자를 밢. 산업통상자원부 장관에는 인수위 경제2분과 간..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220410_5137385_1649569648.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 9일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31763/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31763/</guid>
-            <pubDate>Fri, 08 Apr 2022 09:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 9일)
-  1. 여행·여가플랫폼 '여기어때'가 기업가치 1조원이 넘는 유니콘이 됐음. 여기어때의 기업가치 상승은 길었던 코로나19 팬데믹 국면이 종료되고 여행·..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220408_5135879_1649408522.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
