@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 19:06:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 22:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월25일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31837/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31837/</guid>
+            <pubDate>Sun, 24 Apr 2022 22:07:18 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월25일)
+
+1. 우크라이나 전쟁으로 전 세계적인 식용유 공급난이 심화하는 가운데, 인도네시아가 당분간 식용 팜유 수출을 중단함에 따라 라면, 과자, 빵 등 제조..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220424_5149582_1650786237.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 23일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31833/</link>
@@ -106,16 +116,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 12일)
 1.매일경제가 올해 31회를 맞은 국민보고대회 역대 제언을 통해 차기 정부가 꼭 챙겨야 할 국정과제를 선정함. 현재 27.5%로 OECD 38개국 중 11위로 높은..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220411_5138230_1649667479.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월11일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31765/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31765/</guid>
-            <pubDate>Sun, 10 Apr 2022 22:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월11일)
-
-1. 윤석열 대통령 당선인이 10일 추경호 경제부총리 겸 기획재정부 장관 등 8개 부처 장관 후보자를 밢. 산업통상자원부 장관에는 인수위 경제2분과 간..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220410_5137385_1649569648.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
