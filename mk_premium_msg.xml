@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 21:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 22:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 26일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31840/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31840/</guid>
+            <pubDate>Mon, 25 Apr 2022 22:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 26일) 
+1.국민의힘이 더불어민주당과의 '검수완박(검찰 수사권 완전 박탈) 중재안' 합의를 사흘 만에 뒤집고 재협상을 요구. 당내 반발과 비판 여론을 의식한 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220425_5150460_1650876713.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월25일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31837/</link>
@@ -107,15 +116,6 @@
   
 1.쿠팡이 최근 1년(작년 3월 ~ 올해 2월) 사이에 국내 기업 중 가장 많은 인력을 신규 채용한 것으로 집계됨. 온라인기반 기업은 매출에 비해 고용..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220412_5138700_1649753687.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 12일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31772/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31772/</guid>
-            <pubDate>Mon, 11 Apr 2022 22:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 12일)
-1.매일경제가 올해 31회를 맞은 국민보고대회 역대 제언을 통해 차기 정부가 꼭 챙겨야 할 국정과제를 선정함. 현재 27.5%로 OECD 38개국 중 11위로 높은..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220411_5138230_1649667479.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
