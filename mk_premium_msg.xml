@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 21:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 22:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 27일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31843/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31843/</guid>
+            <pubDate>Tue, 26 Apr 2022 22:07:48 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 27일)
+1. 매경 명예기자로 나선 니얼 퍼거슨 스탠퍼드대 교수는 "오늘날 인류는 세계화의 후퇴에 직면해 있다. 세계화의 정치적 비용이 경제적 이익을 초과하..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220426_5151106_1650962991.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 26일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31840/</link>
@@ -106,16 +115,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 14일)
   1. 윤석열 대통령 당선인이 13일 법무장관 후보자로 한동훈 사법연수원 부원장을 지명. 한 후보자 발탁은 파격으로 꼽혀. 한 후보자는 SK 분식회계 사..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220413_5140388_1649839041.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 13일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31778/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31778/</guid>
-            <pubDate>Tue, 12 Apr 2022 22:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 13일) 
-  
-1.쿠팡이 최근 1년(작년 3월 ~ 올해 2월) 사이에 국내 기업 중 가장 많은 인력을 신규 채용한 것으로 집계됨. 온라인기반 기업은 매출에 비해 고용..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220412_5138700_1649753687.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
