@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 21:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 22:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 28일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31844/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31844/</guid>
+            <pubDate>Wed, 27 Apr 2022 22:07:48 GMT</pubDate>
+            <content:encoded><![CDATA[1. 대통령직인수위원회가 부동산 규제 완화의 속도를 높였음. 27일 인수위 부동산태스크포스(TF)에 따르면 분당, 일산, 중동, 평촌, 산본 등 1기 신도시 재건축 아파트(주거지역)에 대해 용적률을 일괄 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220427_5152200_1651050101.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 27일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31843/</link>
@@ -105,15 +113,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 15일)
   1. 한국은행 금융통화위원회가 총재의 부재 속에서도 폭등하는 물가를 잡기 위해 기준금리 인상을 단행했음. 14일 한은 금통위는 통화정책방향 결정회..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220414_5140801_1649925738.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 14일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31780/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31780/</guid>
-            <pubDate>Wed, 13 Apr 2022 22:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 14일)
-  1. 윤석열 대통령 당선인이 13일 법무장관 후보자로 한동훈 사법연수원 부원장을 지명. 한 후보자 발탁은 파격으로 꼽혀. 한 후보자는 SK 분식회계 사..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220413_5140388_1649839041.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
