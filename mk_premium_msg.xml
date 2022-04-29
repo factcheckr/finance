@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 08:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 09:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 30일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/04/31864/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31864/</guid>
+            <pubDate>Fri, 29 Apr 2022 09:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 대통령 취임 직후 국민연금은 물론 기초연금·특수직역연금 등 연금제도 전반의 구조개혁을 맡을 대통령 직속 공적연금개혁위원회가 설치됨. 공적연금개혁위는 궁극적으로 4대 공적연금(국민..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220429_5154902_1651221915.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 29일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/04/31848/</link>
@@ -103,15 +111,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 18일)
 1. 코로나19로 1주일간의 재택근무 중 배달음식에서 나온 플라스틱 폐기물만 총 98개, 한국환경산업기술원의 '환경성적표지 평가계수'에 따라 계산한 탄..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220417_5143516_1650197539.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 16일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31801/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31801/</guid>
-            <pubDate>Fri, 15 Apr 2022 09:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 16일) 
-1. 영업시간과 사적 모임 인원 제한 등을 골자로 한 사회적 거리 두기가 18일부터 전면 해제됨. 결혼식이나 집회, 행사, 종교시설 인원 제한도 모두 풀..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220415_5142148_1650012440.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
