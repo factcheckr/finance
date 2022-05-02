@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 21:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 22:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 3일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/05/31869/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31869/</guid>
+            <pubDate>Mon, 02 May 2022 22:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[1. 2015년까지만 해도 서울의 위상은 세계 주요 도시와 어깨를 나란히 했지만 최근 수년간 글로벌 '메가시티 전쟁'이 벌어지면서 수도 서울은 빠르게 뒤로 밀려나고 있음. AT커니에 따르면 서울의 현재 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220502_5157102_1651481290.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 2일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/05/31867/</link>
@@ -102,15 +110,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 20일)
 1. 중국 상하이 봉쇄 조치가 최소 한 달 이상 지속될 것이란 전망이 나오는 등 '2차 물류대란'에 대한 경고음이 커지고 있음. 19일 산업통상자원부에 따..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220419_5145416_1650358187.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 19일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31808/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31808/</guid>
-            <pubDate>Mon, 18 Apr 2022 22:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 19일)
-  1.윤석열 대통령 당선인이 "경제가 곧 안보고 안보가 곧 경제"라고 언급하며 '경제안보'를 새 정부의 최우선 과제 중 하나로 삼겠다는 뜻을 밝혀. 18..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220418_5144366_1650270857.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
