@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 19:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 22:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 4일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/05/31883/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31883/</guid>
+            <pubDate>Tue, 03 May 2022 22:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 대통령 당선인이 매경미디어그룹에서 개최한 제32차 국민보고대회에 참석해 “도시의 경쟁력이 곧 국가의 경쟁력”이라며 용산이 역동적으로 발전해 서울의 다른 지역 발전을 견인하고 있다고..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220503_5157530_1651567618.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 3일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/05/31869/</link>
@@ -101,15 +109,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 21일)
   1. 금융당국이 음원 저작권 조각투자 플랫폼인 '뮤직카우'에서 거래되는 상품(저작권료 참여 청구권)이 자본시장법상 투자계약증권에 해당한다는 결론 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220420_5146513_1650444756.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 20일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31810/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31810/</guid>
-            <pubDate>Tue, 19 Apr 2022 22:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 20일)
-1. 중국 상하이 봉쇄 조치가 최소 한 달 이상 지속될 것이란 전망이 나오는 등 '2차 물류대란'에 대한 경고음이 커지고 있음. 19일 산업통상자원부에 따..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220419_5145416_1650358187.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
