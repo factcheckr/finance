@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 21:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 22:09:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 10일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/05/31911/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31911/</guid>
+            <pubDate>Mon, 09 May 2022 22:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 제20대 대통령이 10일 취임사에서 자유민주주의와 시장경제 회복을 핵심으로 하는 새 정부 국정비전과 철학을 밝힐 계획. 박주선 대통령 취임식 준비위원장은 대통령 취임사에 대해 "자유, 인..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220509_5162709_1652086226.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 9일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/05/31910/</link>
@@ -100,15 +108,6 @@
             <pubDate>Tue, 26 Apr 2022 22:07:48 GMT</pubDate>
             <content:encoded><![CDATA[1. 매경 명예기자로 나선 니얼 퍼거슨 스탠퍼드대 교수는 "오늘날 인류는 세계화의 후퇴에 직면해 있다. 세계화의 정치적 비용이 경제적 이익을 초과하기 시작했다."고 분석함. 그는 세계화의 정점이 20..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220426_5151106_1650962991.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 26일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31840/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31840/</guid>
-            <pubDate>Mon, 25 Apr 2022 22:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 26일) 
-1.국민의힘이 더불어민주당과의 '검수완박(검찰 수사권 완전 박탈) 중재안' 합의를 사흘 만에 뒤집고 재협상을 요구. 당내 반발과 비판 여론을 의식한 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220425_5150460_1650876713.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
