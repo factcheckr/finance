@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 21:07:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 22:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월 11일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/05/31913/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31913/</guid>
+            <pubDate>Tue, 10 May 2022 22:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 대통령이 10일 서울 여의도 국회의사당에서 4만여 관중이 지켜보는 가운데 대한민국의 제20대 대통령으로 취임함. 취임 첫 일성이라고 할 수 있는 취임사에서 '자유'를 전면에 내세움. 윤 대..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220510_5162958_1652172132.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 10일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/05/31911/</link>
@@ -100,14 +108,6 @@
             <pubDate>Wed, 27 Apr 2022 22:07:48 GMT</pubDate>
             <content:encoded><![CDATA[1. 대통령직인수위원회가 부동산 규제 완화의 속도를 높였음. 27일 인수위 부동산태스크포스(TF)에 따르면 분당, 일산, 중동, 평촌, 산본 등 1기 신도시 재건축 아파트(주거지역)에 대해 용적률을 일괄 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220427_5152200_1651050101.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 27일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31843/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31843/</guid>
-            <pubDate>Tue, 26 Apr 2022 22:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[1. 매경 명예기자로 나선 니얼 퍼거슨 스탠퍼드대 교수는 "오늘날 인류는 세계화의 후퇴에 직면해 있다. 세계화의 정치적 비용이 경제적 이익을 초과하기 시작했다."고 분석함. 그는 세계화의 정점이 20..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220426_5151106_1650962991.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
