@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 21:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 22:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 12일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/05/31914/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31914/</guid>
+            <pubDate>Wed, 11 May 2022 22:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 대통령이 11일 첫 수석비서관회의를 주재하며 물가안정을 최우선으로 내세웠음. 윤 대통령은 "어려운 경제상황이 정권 교체한다고 잠시 쉬어주는 것도 아니다"라고 강조하며 "경제에 관한 각..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220511_5164352_1652258779.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월 11일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/05/31913/</link>
@@ -100,14 +108,6 @@
             <pubDate>Thu, 28 Apr 2022 22:07:51 GMT</pubDate>
             <content:encoded><![CDATA[1. 제주지역 태양광발전소들이 올 들어서만 13차례나 가동을 중단한. 열흘에 한번 꼴. 지역 수요량을 크게 웃도는 전력이 생산돼 남아돌게 되자 한국전력이 사실상 가동중단 명령인 출력제어 조치를 내..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220428_5153363_1651135413.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 28일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31844/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31844/</guid>
-            <pubDate>Wed, 27 Apr 2022 22:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[1. 대통령직인수위원회가 부동산 규제 완화의 속도를 높였음. 27일 인수위 부동산태스크포스(TF)에 따르면 분당, 일산, 중동, 평촌, 산본 등 1기 신도시 재건축 아파트(주거지역)에 대해 용적률을 일괄 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220427_5152200_1651050101.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
