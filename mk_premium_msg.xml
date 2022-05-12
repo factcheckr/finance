@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 21:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 22:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 13일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/05/31918/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31918/</guid>
+            <pubDate>Thu, 12 May 2022 22:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[1. 서울 강남 코엑스에서 개막한 '2022 서울머니쇼' 기조 연설자로 나선 배리 아이컨그린 UC버클리 경제학과 교수는 "인플레이션 충격은 이제 시작"이라며 "달러와 같은 안전자산으로 대피해야 한다"고 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220512_5165048_1652344752.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 12일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/05/31914/</link>
@@ -100,14 +108,6 @@
             <pubDate>Fri, 29 Apr 2022 09:07:56 GMT</pubDate>
             <content:encoded><![CDATA[1. 윤석열 대통령 취임 직후 국민연금은 물론 기초연금·특수직역연금 등 연금제도 전반의 구조개혁을 맡을 대통령 직속 공적연금개혁위원회가 설치됨. 공적연금개혁위는 궁극적으로 4대 공적연금(국민..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220429_5154902_1651221915.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 29일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/04/31848/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/04/31848/</guid>
-            <pubDate>Thu, 28 Apr 2022 22:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[1. 제주지역 태양광발전소들이 올 들어서만 13차례나 가동을 중단한. 열흘에 한번 꼴. 지역 수요량을 크게 웃도는 전력이 생산돼 남아돌게 되자 한국전력이 사실상 가동중단 명령인 출력제어 조치를 내..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/04/20220428_5153363_1651135413.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
