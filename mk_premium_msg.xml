@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 21:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 22:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 25일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/05/31976/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31976/</guid>
+            <pubDate>Tue, 24 May 2022 22:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[1. 24일 삼성그룹은 반도체와 바이오, 인공지능(AI)·차세대 통신을 포함한 신성장 정보기술(IT) 산업 등에 향후 5년간 450조원을 투자하겠다고 밝힘. 현대차·기아·현대모비스 등 현대차그룹 3개사도 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220524_5175042_1653381575.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 24일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/05/31964/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 11 May 2022 22:08:01 GMT</pubDate>
             <content:encoded><![CDATA[1. 윤석열 대통령이 11일 첫 수석비서관회의를 주재하며 물가안정을 최우선으로 내세웠음. 윤 대통령은 "어려운 경제상황이 정권 교체한다고 잠시 쉬어주는 것도 아니다"라고 강조하며 "경제에 관한 각..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220511_5164352_1652258779.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월 11일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/31913/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31913/</guid>
-            <pubDate>Tue, 10 May 2022 22:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 대통령이 10일 서울 여의도 국회의사당에서 4만여 관중이 지켜보는 가운데 대한민국의 제20대 대통령으로 취임함. 취임 첫 일성이라고 할 수 있는 취임사에서 '자유'를 전면에 내세움. 윤 대..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220510_5162958_1652172132.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
