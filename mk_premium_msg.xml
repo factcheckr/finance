@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 21:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 22:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 26일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/05/31978/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31978/</guid>
+            <pubDate>Wed, 25 May 2022 22:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[1. 한국과 일본 순방을 마친 조 바이든 미국 대통령이 귀국하는 동안 북한이 대륙간탄도미사일(ICBM)과 단거리탄도미사일(SRBM)을 섞어 쏘며 도발을 강행함. 윤석열 대통령은 즉각 국가안전보장회의(NSC..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220525_5177024_1653467599.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 25일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/05/31976/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 12 May 2022 22:08:49 GMT</pubDate>
             <content:encoded><![CDATA[1. 서울 강남 코엑스에서 개막한 '2022 서울머니쇼' 기조 연설자로 나선 배리 아이컨그린 UC버클리 경제학과 교수는 "인플레이션 충격은 이제 시작"이라며 "달러와 같은 안전자산으로 대피해야 한다"고 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220512_5165048_1652344752.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 12일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/31914/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31914/</guid>
-            <pubDate>Wed, 11 May 2022 22:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 대통령이 11일 첫 수석비서관회의를 주재하며 물가안정을 최우선으로 내세웠음. 윤 대통령은 "어려운 경제상황이 정권 교체한다고 잠시 쉬어주는 것도 아니다"라고 강조하며 "경제에 관한 각..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220511_5164352_1652258779.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
