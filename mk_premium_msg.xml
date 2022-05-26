@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 21:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 22:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월 27일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/05/31981/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31981/</guid>
+            <pubDate>Thu, 26 May 2022 22:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[1. 26일 한국은행 금융통화위원회는 금통위원 전원일치로 기준금리를 0.25%포인트 인상했음. 이번 인상으로 기준금리는 연 1.50%에서 1.75%로 높아짐. 한은 금통위가 두 달 연속 기준금리 인상에 나선 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220526_5177374_1653554597.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 26일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/05/31978/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
             <content:encoded><![CDATA[1.지난 한 주간 가격이 99.99% 하락하며 전 세계 코인 시장에 충격을 준 '루나' 코인에 투자한 국내 투자자가 최소 50만명에 달하는 것으로 드러남. 이는 루나를 국내 코인 거래소에 보관한 투자자만 포..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220513_5166420_1652432744.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 13일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/31918/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31918/</guid>
-            <pubDate>Thu, 12 May 2022 22:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[1. 서울 강남 코엑스에서 개막한 '2022 서울머니쇼' 기조 연설자로 나선 배리 아이컨그린 UC버클리 경제학과 교수는 "인플레이션 충격은 이제 시작"이라며 "달러와 같은 안전자산으로 대피해야 한다"고 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220512_5165048_1652344752.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
