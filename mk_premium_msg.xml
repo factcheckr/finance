@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 07:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 09:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 28일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/05/31999/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31999/</guid>
+            <pubDate>Fri, 27 May 2022 09:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[1. 고령층 순자산 규모가 지난해 사상 처음 3000조원을 돌파했음. 상속·증여세제에 자산이 묶여 고령층에서 젊은층으로 부의 이전이 가로막혀 있다는 지적이 나옴. 통계청 가계금융복지조사와 인구총조..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220527_5178522_1653640523.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월 27일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/05/31981/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
             <content:encoded><![CDATA[1. 한국의 연 평균 투자 증가율이 지난 정부에서 사상 처음 0%대로 추락. 15일 매일경제와 한국경제연구원이 1987년 직선제 개헌 이후 역대 7개 정권의 경제 성적을 분석한 결과 국내 투자(총고정자본형성..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220515_5167510_1652591662.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월14일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/31935/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31935/</guid>
-            <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
-            <content:encoded><![CDATA[1.지난 한 주간 가격이 99.99% 하락하며 전 세계 코인 시장에 충격을 준 '루나' 코인에 투자한 국내 투자자가 최소 50만명에 달하는 것으로 드러남. 이는 루나를 국내 코인 거래소에 보관한 투자자만 포..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220513_5166420_1652432744.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
