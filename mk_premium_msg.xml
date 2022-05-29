@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 21:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 22:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월30일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/05/32001/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/05/32001/</guid>
+            <pubDate>Sun, 29 May 2022 22:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월30일)
+
+1. 글로벌 IT(정보기술)업계의 구조조정 선언에 이어 국내 주요 IT기업도 인력채용 열기가 식고 있음. IT업계에 따르면, 지난해 대규모 신규채용을 진..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220529_5180011_1653802449.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 28일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/05/31999/</link>
@@ -94,14 +104,6 @@
             <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
             <content:encoded><![CDATA[1. 윤석열 대통령이 첫 국회 시정연설에서 연금·노동·교육 등 3대 분야 개혁을 곧바로 추진해야 한다고 밝혔음. 16일 윤 대통령은 "연금 개혁, 노동 개혁, 교육 개혁은 지금 추진되지 않으면 우리 사..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220516_5168570_1652690227.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월16일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/31937/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31937/</guid>
-            <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
-            <content:encoded><![CDATA[1. 한국의 연 평균 투자 증가율이 지난 정부에서 사상 처음 0%대로 추락. 15일 매일경제와 한국경제연구원이 1987년 직선제 개헌 이후 역대 7개 정권의 경제 성적을 분석한 결과 국내 투자(총고정자본형성..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220515_5167510_1652591662.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
