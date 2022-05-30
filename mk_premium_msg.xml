@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 21:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 22:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 31일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/05/32002/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/05/32002/</guid>
+            <pubDate>Mon, 30 May 2022 22:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[1. 수입 돼지고기 가격이 최대 20% 저렴해지고 1가구 1주택자 보유세는 세금이 급증하기 전인 2020년 수준으로 되돌아가게 됨. 정부는 30일 정부서울청사에서 경제관계장관회의를 열고 민생안정대책을 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220530_5181126_1653899544.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월30일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/05/32001/</link>
@@ -96,14 +104,6 @@
             <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
             <content:encoded><![CDATA[1. 최근 1년간 국내 가상화폐 거래소에서 상장폐지된 코인이 103개에 달하고 이로 인해 피해를 본 투자자는 300만명에 달하는 것으로 파악됨. 윤창현 국민의힘 의원실에 따르면 작년 4월부터 올해 3월 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220517_5169734_1652776927.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 17일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/31939/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31939/</guid>
-            <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 대통령이 첫 국회 시정연설에서 연금·노동·교육 등 3대 분야 개혁을 곧바로 추진해야 한다고 밝혔음. 16일 윤 대통령은 "연금 개혁, 노동 개혁, 교육 개혁은 지금 추진되지 않으면 우리 사..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220516_5168570_1652690227.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
