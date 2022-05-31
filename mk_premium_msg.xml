@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 21:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 22:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 1일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32004/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32004/</guid>
+            <pubDate>Tue, 31 May 2022 22:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[1. 우리 경제의 현 상황을 보여주는 대표적인 지표인 산업 생산·소비·설비투자 지표가 지난 4월 일제히 하락(전달 대비)했음, 세 지표가 동반 하락한 것은 코로나19 확산이 본격화한 2020년 2월 이후 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220531_5181487_1653986133.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 31일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/05/32002/</link>
@@ -96,14 +104,6 @@
             <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
             <content:encoded><![CDATA[1. 윤석열 대통령이 20일 방한하는 조 바이든 미국 대통령과 함께 삼성전자 평택 반도체 공장을 찾기로 함. 과거 트럼프 전 대통령이 헬기를 타고 상공에서 삼성 평택캠퍼스를 둘러보긴 했지만, 미국 대..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220518_5170126_1652863814.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월18일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/31941/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31941/</guid>
-            <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
-            <content:encoded><![CDATA[1. 최근 1년간 국내 가상화폐 거래소에서 상장폐지된 코인이 103개에 달하고 이로 인해 피해를 본 투자자는 300만명에 달하는 것으로 파악됨. 윤창현 국민의힘 의원실에 따르면 작년 4월부터 올해 3월 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220517_5169734_1652776927.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
