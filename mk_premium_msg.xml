@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 23:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 00:43:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 6월 2일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32005/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32005/</guid>
+            <pubDate>Thu, 02 Jun 2022 00:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[1. 6·1 지방선거에서 국민의힘이 최종 승리를 거둬. 국민의힘은 전국 광역자치단체장 17석 가운데 최소 11석 이상을 차지할 전망. 경기·대전 등 2곳의 경합 지역에서 승리를 하면 최대 13석이 예상되지..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220602_5183144_1654128925.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 1일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32004/</link>
@@ -96,14 +104,6 @@
             <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
             <content:encoded><![CDATA[1. 윤석열 대통령과 조 바이든 미국 대통령이 21일 한미정상회담을 갖고 한미 양국이 원자력발전소 수출에 공동으로 나선다는 선언을 할 예정. 윤 대통령은 전임 문재인 정권에서 추진했던 탈원전 이미..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220519_5171159_1652949045.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 19일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/31942/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31942/</guid>
-            <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 대통령이 20일 방한하는 조 바이든 미국 대통령과 함께 삼성전자 평택 반도체 공장을 찾기로 함. 과거 트럼프 전 대통령이 헬기를 타고 상공에서 삼성 평택캠퍼스를 둘러보긴 했지만, 미국 대..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220518_5170126_1652863814.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
