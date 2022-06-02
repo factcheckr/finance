@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 21:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 22:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(메-세-지, 6월 3일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32009/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32009/</guid>
+            <pubDate>Thu, 02 Jun 2022 22:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[1.지방선거 최대 격전지 경기도에서 김동연 더불어민주당 후보가 개표 9시간 만인 2일 새벽 김은혜 국민의힘 후보를 역전한 뒤 0.15%포인트 차이로 승리. 김동연 경기도지사 당선인의 새벽 대역전극 덕..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220602_5183156_1654159202.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 6월 2일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32005/</link>
@@ -96,14 +104,6 @@
             <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
             <content:encoded><![CDATA[1. 취임 후 첫 아시아 순방에 나선 조 바이든 미국 대통령이 20일 한국에 도착, 바이든 대통령은 첫 행선지로 삼성전자 평택캠퍼스를 선택했고 이 일정에는 윤석열 대통령이 동행했으며, 이재용 삼성전..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220520_5172248_1653035728.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 20일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/31943/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31943/</guid>
-            <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 대통령과 조 바이든 미국 대통령이 21일 한미정상회담을 갖고 한미 양국이 원자력발전소 수출에 공동으로 나선다는 선언을 할 예정. 윤 대통령은 전임 문재인 정권에서 추진했던 탈원전 이미..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220519_5171159_1652949045.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
