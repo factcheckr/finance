@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 09:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 10:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 4일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32026/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32026/</guid>
+            <pubDate>Fri, 03 Jun 2022 10:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[1. 전 세계 공급망 교란 여파에 지난 5월 소비자물가가  2008년 이후 첫 5%대를 넘어섬. 한국은행은 오는 7월까지 5%대 고공물가가 계속될 것으로 내다봄. 통계청에 따르면 5월 소비자물가지수는 107.56..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220603_5184624_1654247140.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(메-세-지, 6월 3일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32009/</link>
@@ -96,14 +104,6 @@
             <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
             <content:encoded><![CDATA[1. 현대자동차그룹이 2025년까지 미국에 100억달러(약 12조7000억원)에 달하는 투자를 단행하기로 함. 정의선 현대차그룹 회장이 22일 오전 서울 그랜드 하얏트 호텔에서 조 바이든 미국 대통령과 면담한..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/202205230922461598670.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 21일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/31961/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31961/</guid>
-            <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
-            <content:encoded><![CDATA[1. 취임 후 첫 아시아 순방에 나선 조 바이든 미국 대통령이 20일 한국에 도착, 바이든 대통령은 첫 행선지로 삼성전자 평택캠퍼스를 선택했고 이 일정에는 윤석열 대통령이 동행했으며, 이재용 삼성전..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220520_5172248_1653035728.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
