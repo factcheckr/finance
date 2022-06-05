@@ -4,9 +4,16 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 15:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 16:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 6일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32029/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32029/</guid>
+            <pubDate>Sun, 05 Jun 2022 16:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[1. 국내 시중은행들이 중소기업에 빌려준 약 58조원의 대출이 부실화될 가능성이 있는 것으로 조사. 전체 중소기업 대출의 약 30%에 달하는 액수. 2020년 말 기준 KB국민은행 등 5대 시중은행의 중소기업 대출 중 이자보상배율 1 미만 업체의 대출이 차지하는 비중은 27%로 집계. 영업을 통해 이자조차..]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 4일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32026/</link>
@@ -96,14 +103,6 @@
             <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
             <content:encoded><![CDATA[1. 조 바이든 미국 대통령이 23일 도쿄 영빈관서 기시다 후미오 일본 총리와의 미일 정상회담을 가짐. 미일은 일본의 방위력 강화와 유엔 안전보장이사회 개혁을 전제로 일본의 상임이사국 진출을 지지..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220523_5174600_1653295540.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 23일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/31963/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31963/</guid>
-            <pubDate>Tue, 24 May 2022 01:57:24 GMT</pubDate>
-            <content:encoded><![CDATA[1. 현대자동차그룹이 2025년까지 미국에 100억달러(약 12조7000억원)에 달하는 투자를 단행하기로 함. 정의선 현대차그룹 회장이 22일 오전 서울 그랜드 하얏트 호텔에서 조 바이든 미국 대통령과 면담한..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/202205230922461598670.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
