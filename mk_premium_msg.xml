@@ -4,9 +4,16 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 10:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 11:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 8일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32032/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32032/</guid>
+            <pubDate>Tue, 07 Jun 2022 11:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[1. 한국타이어 대전공장은 7일 오전 광양항 등으로 보내야 했던 40피트 컨테이너 40개(타이어 약 2만개)의 출하를 포기. 민주노총 화물연대 대전지부가 공장 정문을 막고 무기한·전면 총파업에 들어가는 바람에 차량 출입 자체가 불가능했기 때문. 한국타이어는 과거에도 유사한 피해를 입은 적이 있..]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 6월 7일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32030/</link>
@@ -96,14 +103,6 @@
             <pubDate>Wed, 25 May 2022 22:07:57 GMT</pubDate>
             <content:encoded><![CDATA[1. 한국과 일본 순방을 마친 조 바이든 미국 대통령이 귀국하는 동안 북한이 대륙간탄도미사일(ICBM)과 단거리탄도미사일(SRBM)을 섞어 쏘며 도발을 강행함. 윤석열 대통령은 즉각 국가안전보장회의(NSC..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220525_5177024_1653467599.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 25일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/31976/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31976/</guid>
-            <pubDate>Tue, 24 May 2022 22:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[1. 24일 삼성그룹은 반도체와 바이오, 인공지능(AI)·차세대 통신을 포함한 신성장 정보기술(IT) 산업 등에 향후 5년간 450조원을 투자하겠다고 밝힘. 현대차·기아·현대모비스 등 현대차그룹 3개사도 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220524_5175042_1653381575.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
