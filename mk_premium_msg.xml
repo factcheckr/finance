@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 21:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 22:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 9일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32033/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32033/</guid>
+            <pubDate>Wed, 08 Jun 2022 22:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[1.민주노총 공공운수노조 화물연대본부가 총파업 이틀째인 8일 오후부터 자동차 부품 운송을 거부하면서 현대자동차와 기아자동차에 비상 걸려. 공장 정문을 완전히 막아서지는 않아 최악의 상황은 면..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220608_5188200_1654676378.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 8일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32032/</link>
@@ -96,14 +104,6 @@
             <pubDate>Thu, 26 May 2022 22:08:48 GMT</pubDate>
             <content:encoded><![CDATA[1. 26일 한국은행 금융통화위원회는 금통위원 전원일치로 기준금리를 0.25%포인트 인상했음. 이번 인상으로 기준금리는 연 1.50%에서 1.75%로 높아짐. 한은 금통위가 두 달 연속 기준금리 인상에 나선 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220526_5177374_1653554597.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 26일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/31978/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31978/</guid>
-            <pubDate>Wed, 25 May 2022 22:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[1. 한국과 일본 순방을 마친 조 바이든 미국 대통령이 귀국하는 동안 북한이 대륙간탄도미사일(ICBM)과 단거리탄도미사일(SRBM)을 섞어 쏘며 도발을 강행함. 윤석열 대통령은 즉각 국가안전보장회의(NSC..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220525_5177024_1653467599.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
