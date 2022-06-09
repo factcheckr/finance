@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 21:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 22:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 6월 10일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32038/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32038/</guid>
+            <pubDate>Thu, 09 Jun 2022 22:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[1. 한덕수 국무총리가 주요 정부 부처 '원팀'을 구성해 첨단산업 인재 양성에 총력을 다하겠다고 9일 밝힘. 윤석열 대통령이 지난 7일 국무회의에서 '반도체 강의'를 들으며 인재 육성책 마련을 강도높..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220609_5188669_1654764745.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 9일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32033/</link>
@@ -97,14 +105,6 @@
             <pubDate>Fri, 27 May 2022 09:08:07 GMT</pubDate>
             <content:encoded><![CDATA[1. 고령층 순자산 규모가 지난해 사상 처음 3000조원을 돌파했음. 상속·증여세제에 자산이 묶여 고령층에서 젊은층으로 부의 이전이 가로막혀 있다는 지적이 나옴. 통계청 가계금융복지조사와 인구총조..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220527_5178522_1653640523.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월 27일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/31981/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/31981/</guid>
-            <pubDate>Thu, 26 May 2022 22:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[1. 26일 한국은행 금융통화위원회는 금통위원 전원일치로 기준금리를 0.25%포인트 인상했음. 이번 인상으로 기준금리는 연 1.50%에서 1.75%로 높아짐. 한은 금통위가 두 달 연속 기준금리 인상에 나선 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220526_5177374_1653554597.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
