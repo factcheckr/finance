@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 21:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 22:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 13일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32058/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32058/</guid>
+            <pubDate>Sun, 12 Jun 2022 22:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 13일)
+
+1. 유가 상승과 식료품 값 인상이 장기화되면서 물가는 오르고 경기는 침체되는 이른바 'S(스태그플레이션) 공포'가 세계 곳곳에서 현실화. 11일(현지..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220612_5191360_1655024805.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 11일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32056/</link>
@@ -96,16 +106,6 @@
             <pubDate>Mon, 30 May 2022 22:08:25 GMT</pubDate>
             <content:encoded><![CDATA[1. 수입 돼지고기 가격이 최대 20% 저렴해지고 1가구 1주택자 보유세는 세금이 급증하기 전인 2020년 수준으로 되돌아가게 됨. 정부는 30일 정부서울청사에서 경제관계장관회의를 열고 민생안정대책을 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220530_5181126_1653899544.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월30일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/05/32001/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/05/32001/</guid>
-            <pubDate>Sun, 29 May 2022 22:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월30일)
-
-1. 글로벌 IT(정보기술)업계의 구조조정 선언에 이어 국내 주요 IT기업도 인력채용 열기가 식고 있음. IT업계에 따르면, 지난해 대규모 신규채용을 진..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220529_5180011_1653802449.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
