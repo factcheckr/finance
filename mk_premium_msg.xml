@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 21:06:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 22:08:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 15일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32061/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32061/</guid>
+            <pubDate>Tue, 14 Jun 2022 22:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[1. 전 세계적인 물가상승 추세에 윤석열 정부와 집권여당이 물가 잡기 총력전에 착수. 당정은 유류세 탄력세율을 조정해 유류세 인하 폭을 현재 30%에서 37%까지 늘리는 방안을 검토하고 나섬. 이게 적..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220614_5192789_1655196402.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 6월14일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32059/</link>
@@ -98,14 +106,6 @@
             <pubDate>Thu, 02 Jun 2022 00:43:20 GMT</pubDate>
             <content:encoded><![CDATA[1. 6·1 지방선거에서 국민의힘이 최종 승리를 거둬. 국민의힘은 전국 광역자치단체장 17석 가운데 최소 11석 이상을 차지할 전망. 경기·대전 등 2곳의 경합 지역에서 승리를 하면 최대 13석이 예상되지..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220602_5183144_1654128925.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 1일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32004/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32004/</guid>
-            <pubDate>Tue, 31 May 2022 22:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[1. 우리 경제의 현 상황을 보여주는 대표적인 지표인 산업 생산·소비·설비투자 지표가 지난 4월 일제히 하락(전달 대비)했음, 세 지표가 동반 하락한 것은 코로나19 확산이 본격화한 2020년 2월 이후 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/05/20220531_5181487_1653986133.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
