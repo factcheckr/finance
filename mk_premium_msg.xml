@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 21:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 22:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 17일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32065/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32065/</guid>
+            <pubDate>Thu, 16 Jun 2022 22:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 올해 1가구1주택자에 대한 종합부동산세 부과 기준금액이 공시가 11억원에서 14억원으로 한시적으로 상향. 보유세를 부과하는 기준이 되는 공정시장가액비율은 하향 조정돼 재산세와 종부세 부담이 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220616_5194548_1655367944.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 16일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32062/</link>
@@ -98,14 +106,6 @@
             <pubDate>Fri, 03 Jun 2022 10:08:17 GMT</pubDate>
             <content:encoded><![CDATA[1. 전 세계 공급망 교란 여파에 지난 5월 소비자물가가  2008년 이후 첫 5%대를 넘어섬. 한국은행은 오는 7월까지 5%대 고공물가가 계속될 것으로 내다봄. 통계청에 따르면 5월 소비자물가지수는 107.56..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220603_5184624_1654247140.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(메-세-지, 6월 3일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32009/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32009/</guid>
-            <pubDate>Thu, 02 Jun 2022 22:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[1.지방선거 최대 격전지 경기도에서 김동연 더불어민주당 후보가 개표 9시간 만인 2일 새벽 김은혜 국민의힘 후보를 역전한 뒤 0.15%포인트 차이로 승리. 김동연 경기도지사 당선인의 새벽 대역전극 덕..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220602_5183156_1654159202.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
