@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 23:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 03:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 16일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32062/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32062/</guid>
+            <pubDate>Thu, 16 Jun 2022 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[1. 미국을 비롯한 세계 각국이 돈줄을 조이면서 가상화폐 생태계가 직격탄을 맞고 있음. 투자자들이 코인 관련 파생상품에 투자하기 위해 맡긴 돈이 70%가량 급감했고 코인 거래소들은 대규모 구조조정..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220615_5076584_1655301928.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 15일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32061/</link>
@@ -98,14 +106,6 @@
             <pubDate>Thu, 02 Jun 2022 22:07:06 GMT</pubDate>
             <content:encoded><![CDATA[1.지방선거 최대 격전지 경기도에서 김동연 더불어민주당 후보가 개표 9시간 만인 2일 새벽 김은혜 국민의힘 후보를 역전한 뒤 0.15%포인트 차이로 승리. 김동연 경기도지사 당선인의 새벽 대역전극 덕..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220602_5183156_1654159202.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 6월 2일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32005/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32005/</guid>
-            <pubDate>Thu, 02 Jun 2022 00:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[1. 6·1 지방선거에서 국민의힘이 최종 승리를 거둬. 국민의힘은 전국 광역자치단체장 17석 가운데 최소 11석 이상을 차지할 전망. 경기·대전 등 2곳의 경합 지역에서 승리를 하면 최대 13석이 예상되지..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220602_5183144_1654128925.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
