@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 08:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 09:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(메-세-지, 6월 18일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32080/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32080/</guid>
+            <pubDate>Fri, 17 Jun 2022 09:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[1.전세계적인 경기 침체와 인플레이션 우려에 코스피가 2400선 초반까지 밀려. 소액주주 수만 500만명이 넘는 '국민주' 삼성전자는 19개월만에 '5만전자'로 추락. 17일 한국거래소에 따르면 코스피는 이..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220617_5195568_1655456334.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 17일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32065/</link>
@@ -98,14 +106,6 @@
             <pubDate>Sun, 05 Jun 2022 16:08:55 GMT</pubDate>
             <content:encoded><![CDATA[1. 국내 시중은행들이 중소기업에 빌려준 약 58조원의 대출이 부실화될 가능성이 있는 것으로 조사. 전체 중소기업 대출의 약 30%에 달하는 액수. 2020년 말 기준 KB국민은행 등 5대 시중은행의 중소기업..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/202206090934581537867.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 4일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32026/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32026/</guid>
-            <pubDate>Fri, 03 Jun 2022 10:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[1. 전 세계 공급망 교란 여파에 지난 5월 소비자물가가  2008년 이후 첫 5%대를 넘어섬. 한국은행은 오는 7월까지 5%대 고공물가가 계속될 것으로 내다봄. 통계청에 따르면 5월 소비자물가지수는 107.56..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220603_5184624_1654247140.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
