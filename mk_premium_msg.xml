@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 21:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 22:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월20일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32083/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32083/</guid>
+            <pubDate>Sun, 19 Jun 2022 22:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월20일)
+
+1. 대기업 노조가 고물가를 이유로 잇따라 임금 인상을 주장하며 올라간 임금이 재차 물가를 자극하는 임금발 인플레이션 악순환에 대한 우려가 커지고..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220619_5197030_1655620691.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(메-세-지, 6월 18일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32080/</link>
@@ -98,14 +108,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 6월 7일)
 1. 반도체, 이차전지, 미래 자동차, 디스플레이 등 한국 경제를 이끄는 4대 핵심산업의 경쟁력을 좌우하는 인력 수급에 '비상등'이 켜짐. 6일 산업통상자..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220606_5186229_1654505066.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 6일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32029/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32029/</guid>
-            <pubDate>Sun, 05 Jun 2022 16:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[1. 국내 시중은행들이 중소기업에 빌려준 약 58조원의 대출이 부실화될 가능성이 있는 것으로 조사. 전체 중소기업 대출의 약 30%에 달하는 액수. 2020년 말 기준 KB국민은행 등 5대 시중은행의 중소기업..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/202206090934581537867.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
