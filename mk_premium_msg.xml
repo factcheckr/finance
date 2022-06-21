@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 21:06:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 22:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 6월 22일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32087/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32087/</guid>
+            <pubDate>Tue, 21 Jun 2022 22:07:24 GMT</pubDate>
+            <content:encoded><![CDATA[1. 앞으로 생애 처음으로 집을 사는 국민은 200만원까지 취득세가 면제. 현재 생애 최초 주택 취득세는 부부 합산 연 소득 7000만원 이하 가구 중 수도권 4억원, 비수도권 3억원 이하 주택을 구입할 때..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220621_5199089_1655802260.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 21일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32085/</link>
@@ -99,14 +107,6 @@
             <pubDate>Wed, 08 Jun 2022 22:07:21 GMT</pubDate>
             <content:encoded><![CDATA[1.  민주노총 공공운수노조 화물연대본부가 총파업 이틀째인 8일 오후부터 자동차 부품 운송을 거부하면서 현대자동차와 기아자동차에 비상이 걸렸음. 완성차 조립 과정 특성상 부품이 한 종류만 없어..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220608_5188200_1654676378.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 8일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32032/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32032/</guid>
-            <pubDate>Tue, 07 Jun 2022 11:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[1. 한국타이어 대전공장은 7일 오전 광양항 등으로 보내야 했던 40피트 컨테이너 40개(타이어 약 2만개)의 출하를 포기. 민주노총 화물연대 대전지부가 공장 정문을 막고 무기한·전면 총파업에 들어가는..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220607_5187331_1654646266.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
