@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 21:07:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 22:07:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 24일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32100/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32100/</guid>
+            <pubDate>Thu, 23 Jun 2022 22:06:54 GMT</pubDate>
+            <content:encoded><![CDATA[1. 한국과 베트남의 리더들이 '한·베 수교 30주년 함께 미래로'를 주제로 열린 제30회 매경 글로벌포럼에서 공동 번영을 위한 미래를 약속. 양국이 무역과 경제를 뛰어넘어 안보, 문화, 교육, 농업 등으..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220623_5200945_1655972408.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 23일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32098/</link>
@@ -103,14 +111,6 @@
             <content:encoded><![CDATA[1. 유럽연합(EU)이 전 세계를 덮친 인플레이션에 대응하기 위해 10년 이상 지속돼 온 제로 금리 시대를 끝내기로 했음. 금리 인상에 미온적이던 유럽중앙은행(ECB)까지 매파로 돌아선 셈임.
   2. 흑자 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220610_5190156_1654849940.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 6월 10일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32038/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32038/</guid>
-            <pubDate>Fri, 10 Jun 2022 00:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[1. 한덕수 국무총리가 주요 정부 부처 '원팀'을 구성해 첨단산업 인재 양성에 총력을 다하겠다고 9일 밝힘. 윤석열 대통령이 지난 7일 국무회의에서 '반도체 강의'를 들으며 인재 육성책 마련을 강도높..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220609_5188669_1654764745.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
