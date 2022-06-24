@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 08:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 09:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 25일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32117/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32117/</guid>
+            <pubDate>Fri, 24 Jun 2022 09:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[1. 지난해 외국인이 국고채, 회사채를 비롯해 737억5470만달러 어치(약 96조원)의 국내 채권을 사들였음. 연간 기준 역대 최대 규모. 미국이 내달 기준금리를 0.75%포인트 올리는 '자이언트 스텝'을 단행..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220624_5202446_1656060365.JPG.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 24일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32100/</link>
@@ -102,15 +110,6 @@
   
 1. 유가 상승과 식료품 값 인상이 장기화되면서 물가는 오르고 경기는 침체되는 이른바 'S(스태그플레이션) 공포'가 세계 곳곳에서 현실화. 11일(현..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220612_5191360_1655024805.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 11일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32056/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32056/</guid>
-            <pubDate>Fri, 10 Jun 2022 09:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[1. 유럽연합(EU)이 전 세계를 덮친 인플레이션에 대응하기 위해 10년 이상 지속돼 온 제로 금리 시대를 끝내기로 했음. 금리 인상에 미온적이던 유럽중앙은행(ECB)까지 매파로 돌아선 셈임.
-  2. 흑자 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220610_5190156_1654849940.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
