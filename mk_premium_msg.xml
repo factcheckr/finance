@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 21:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 22:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월27일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/06/32121/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32121/</guid>
+            <pubDate>Sun, 26 Jun 2022 22:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월27)
+
+1. 한국·중국·일본(한중일) 3국의 배터리 전쟁이 격화되는 가운데 한국이 이들 사이에 낀 '넛크래커'가 될 수 있다는 경고등이 켜짐. 26일 산업계에 따..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220626_5203151_1656224858.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 25일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32117/</link>
@@ -100,16 +110,6 @@
             <pubDate>Mon, 13 Jun 2022 22:07:52 GMT</pubDate>
             <content:encoded><![CDATA[1. 예상치를 넘는 5월 미국 소비자물가지수(CPI) 충격으로 인플레이션 공포가 최악으로 치달으며 코스피가 2500선까지 주저앉아.  올 들어 처음 2550선을 깨고 내려가 2020년 11월 13일(2493.87) 이후 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220613_5192311_1655109565.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 13일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32058/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32058/</guid>
-            <pubDate>Sun, 12 Jun 2022 22:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 13일)
-  
-1. 유가 상승과 식료품 값 인상이 장기화되면서 물가는 오르고 경기는 침체되는 이른바 'S(스태그플레이션) 공포'가 세계 곳곳에서 현실화. 11일(현..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220612_5191360_1655024805.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
