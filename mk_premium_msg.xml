@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 21:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 22:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 1일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32130/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32130/</guid>
+            <pubDate>Thu, 30 Jun 2022 22:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[1. 삼성전자가 3나노미터 파운드리 공정을 활용한 제품 양산에 성공함. 반도체 회로 선폭을 의미하는 3나노 공정은 현재 반도체 제조 공정 가운데 가장 앞선 기술임. 회로 선폭을 미세화할수록 반도체 소..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220630_5206563_1656577728.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 30일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/06/32127/</link>
@@ -100,14 +108,6 @@
             <pubDate>Fri, 17 Jun 2022 09:08:12 GMT</pubDate>
             <content:encoded><![CDATA[1.전세계적인 경기 침체와 인플레이션 우려에 코스피가 2400선 초반까지 밀려. 소액주주 수만 500만명이 넘는 '국민주' 삼성전자는 19개월만에 '5만전자'로 추락. 17일 한국거래소에 따르면 코스피는 이..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220617_5195568_1655456334.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 17일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32065/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32065/</guid>
-            <pubDate>Thu, 16 Jun 2022 22:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 올해 1가구1주택자에 대한 종합부동산세 부과 기준금액이 공시가 11억원에서 14억원으로 한시적으로 상향. 보유세를 부과하는 기준이 되는 공정시장가액비율은 하향 조정돼 재산세와 종부세 부담이 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220616_5194548_1655367944.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
