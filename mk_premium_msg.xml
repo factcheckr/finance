@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 09:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 10:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 2일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32147/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32147/</guid>
+            <pubDate>Fri, 01 Jul 2022 10:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[1. 올해 상반기 무역적자가 103억달러를 기록해 무역전선에 비상이 걸려.  2008년 이후 14년 만에 석달(올해 4~6월) 연속 적자를 내. 특히  지난 28년 간 줄곧 흑자를 기록해왔던 중국과의 교역에서 지난 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220701_5207615_1656666770.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 1일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32130/</link>
@@ -100,14 +108,6 @@
 
 1. 대기업 노조가 고물가를 이유로 잇따라 임금 인상을 주장하며 올라간 임금이 재차 물가를 자극하는 임금발 인플레이션 악순환에 대한 우려가 커지고..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220619_5197030_1655620691.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(메-세-지, 6월 18일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32080/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32080/</guid>
-            <pubDate>Fri, 17 Jun 2022 09:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[1.전세계적인 경기 침체와 인플레이션 우려에 코스피가 2400선 초반까지 밀려. 소액주주 수만 500만명이 넘는 '국민주' 삼성전자는 19개월만에 '5만전자'로 추락. 17일 한국거래소에 따르면 코스피는 이..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220617_5195568_1655456334.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
