@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 21:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 22:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 5일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32150/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32150/</guid>
+            <pubDate>Mon, 04 Jul 2022 22:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 정부가 국가 재정 기조를 '건전 재정'으로 전면 전환하겠다고 예고한 가운데 한국 부채 상환 능력이 장부상 착시가 있다는 국책연구기관의 분석이 나와. 국민연금 등 사회보장성 기금이 보유..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220704_5210073_1656923854.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 4일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32149/</link>
@@ -98,14 +106,6 @@
             <content:encoded><![CDATA[변진섭 라이브 '새들처럼', '희망사항' 직캠 바로가기
 1. 앞으로 생애 처음으로 집을 사는 국민은 200만원까지 취득세가 면제. 현재 생애 최초 주택 취득세는 부부 합산 연 소득 7000만원 이하 가구 중 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220621_5199089_1655802260.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 21일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32085/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32085/</guid>
-            <pubDate>Mon, 20 Jun 2022 22:07:15 GMT</pubDate>
-            <content:encoded><![CDATA[1. 전세계 경기침체 불안감이 고조되고 외국인 투자자들의 투매가 이어지며 유가증권시장(코스피)이 2400선 아래로 추락함. 20일 한국거래소에 따르면 코스피는 전날보다 2.04% 떨어진 2391.03로 장을 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220620_5198384_1655714624.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
