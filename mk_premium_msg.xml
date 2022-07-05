@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 21:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 22:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 6일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32153/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32153/</guid>
+            <pubDate>Tue, 05 Jul 2022 22:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[1. 국제수학연맹(IMU)이 허준이 프린스턴대 교수를 '수학 노벨상'으로 불리는 필즈상 수상자로 5일 발표함. 대수기하학적 방법론을 이용해 조합론 분야의 난제를 수차례 해결한 업적을 인정 받음. 허 교..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220705_5210738_1657010516.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 5일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32150/</link>
@@ -97,15 +105,6 @@
 
 1. 윤석열정부가 몸집은 커졌지만 재무구조는 부실한 공공기관에 대한 고강도 구조조정을 예고..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220622_5200222_1655892261.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 6월 22일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32087/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32087/</guid>
-            <pubDate>Tue, 21 Jun 2022 22:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[변진섭 라이브 '새들처럼', '희망사항' 직캠 바로가기
-1. 앞으로 생애 처음으로 집을 사는 국민은 200만원까지 취득세가 면제. 현재 생애 최초 주택 취득세는 부부 합산 연 소득 7000만원 이하 가구 중 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220621_5199089_1655802260.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
