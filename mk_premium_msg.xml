@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 08:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 09:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 9일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32177/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32177/</guid>
+            <pubDate>Fri, 08 Jul 2022 09:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[1. 아베 신조 전 일본 총리가 참의원 선거 지원유세 중 총격을 받아 심폐정지 상태에 빠짐. NHK 등에 따르면 아베 전 총리는 이날 오전 11시 30분께 나라시에서 지원 유세를 하던 중 총탄에 피격. 총..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220708_5213823_1657268876.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 8일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32159/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 26 Jun 2022 22:07:16 GMT</pubDate>
             <content:encoded><![CDATA[1. 한국·중국·일본(한중일) 3국의 배터리 전쟁이 격화되는 가운데 한국이 이들 사이에 낀 '넛크래커'가 될 수 있다는 경고등이 켜짐. 26일 산업계에 따르면 글로벌 최대 배터리 업체 CATL은 최근 1회 충..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220626_5203151_1656224858.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 25일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32117/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32117/</guid>
-            <pubDate>Fri, 24 Jun 2022 09:07:36 GMT</pubDate>
-            <content:encoded><![CDATA[1. 지난해 외국인이 국고채, 회사채를 비롯해 737억5470만달러 어치(약 96조원)의 국내 채권을 사들였음. 연간 기준 역대 최대 규모. 미국이 내달 기준금리를 0.75%포인트 올리는 '자이언트 스텝'을 단행..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220624_5202446_1656060365.JPG.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
