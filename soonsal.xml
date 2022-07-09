@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://soonsal.com/newsletters</id>
     <title>순살브리핑 ─ 날짜별</title>
-    <updated>2022-07-09T02:49:55.504Z</updated>
+    <updated>2022-07-09T03:40:15.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.imweb.me/thumbnail/20200601/b469841e49645.png</icon>
+    <icon>https://soonsal.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[💰기준금리가 15%인 나라가 있다고? [7월 8일]]]></title>
         <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12162724&amp;t=board</id>
