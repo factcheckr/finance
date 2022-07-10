@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 21:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 22:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 11일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32178/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32178/</guid>
+            <pubDate>Sun, 10 Jul 2022 22:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 7월 11일)
+
+1. 수출 텃밭으로 여겨지던 중국 수출 비중이 지속 감소하면서 미주와 유럽이 그 자리를 채워가는 등 한국의 교역 지형도가 빠르게 변하고 있음. 10일 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220710_5215055_1657442844.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 9일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32177/</link>
@@ -94,14 +104,6 @@
             <pubDate>Mon, 27 Jun 2022 22:07:30 GMT</pubDate>
             <content:encoded><![CDATA[1. 정부가 분기별 3원이던 인상폭 제한 규정까지 바꿔가며 3분기 전기요금을 kwh당 5원 인상. 국민의 생활물가 부담이 치솟고 있는 것은 사실이지만, 급등한 연료비 탓에 한국전력 적자가 천문학적으로 뛰..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220627_5089030_1656319476.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 27일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32121/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32121/</guid>
-            <pubDate>Sun, 26 Jun 2022 22:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[1. 한국·중국·일본(한중일) 3국의 배터리 전쟁이 격화되는 가운데 한국이 이들 사이에 낀 '넛크래커'가 될 수 있다는 경고등이 켜짐. 26일 산업계에 따르면 글로벌 최대 배터리 업체 CATL은 최근 1회 충..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220626_5203151_1656224858.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
