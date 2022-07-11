@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 21:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 22:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 12일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32179/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32179/</guid>
+            <pubDate>Mon, 11 Jul 2022 22:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[1. 매일경제가 서울시 중구 명동쇼핑거리 일대를 취재한 결과, 영업 중이던 1층 점포 106곳 중 65곳이 문을 활짝 연 채 에어컨을 틀어놓고 있었음. 상인들은 손님을 유도하기 위해 '개문냉방'을 할 수밖..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220711_5215521_1657528685.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 11일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32178/</link>
@@ -96,14 +104,6 @@
             <pubDate>Tue, 28 Jun 2022 22:08:53 GMT</pubDate>
             <content:encoded><![CDATA[1. 국책연구기관인 한국조세재정연구원이 28일 열린 종부세 등 부동산 보유세, 상속·증여세 개편안과 글로벌 최저한세 도입안에 대한 공청회에서 현행 최고 6%인 종합부동산세율을 2.0~3.2%로 낮추고, ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220628_5205120_1656405917.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 6월 28일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32123/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32123/</guid>
-            <pubDate>Mon, 27 Jun 2022 22:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[1. 정부가 분기별 3원이던 인상폭 제한 규정까지 바꿔가며 3분기 전기요금을 kwh당 5원 인상. 국민의 생활물가 부담이 치솟고 있는 것은 사실이지만, 급등한 연료비 탓에 한국전력 적자가 천문학적으로 뛰..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220627_5089030_1656319476.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
