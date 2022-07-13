@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 21:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 22:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 14일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32183/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32183/</guid>
+            <pubDate>Wed, 13 Jul 2022 22:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[1. 한국은행 금융통화위원회가 치솟는 물가를 억제하기 위해 사상 처음으로 기준금리를 0.5%포인트 인상하는 빅스텝에 나섬. 한국은행은 13일 통화정책방향 회의에서 금통위원 6명 전원일치로 현재 연 1...]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220713_5217898_1657701192.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 13일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32182/</link>
@@ -96,14 +104,6 @@
             <pubDate>Thu, 30 Jun 2022 22:08:17 GMT</pubDate>
             <content:encoded><![CDATA[1. 삼성전자가 3나노미터 파운드리 공정을 활용한 제품 양산에 성공함. 반도체 회로 선폭을 의미하는 3나노 공정은 현재 반도체 제조 공정 가운데 가장 앞선 기술임. 회로 선폭을 미세화할수록 반도체 소..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220630_5206563_1656577728.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 6월 30일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/06/32127/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/06/32127/</guid>
-            <pubDate>Wed, 29 Jun 2022 22:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[1. 경기도 성남시 금토동 일대에 국내 반도체 기업 40여 곳이 입주하는 차세대 반도체 산업단지가 들어설 전망. 이른바 '제3판교 테크노밸리'가 조성되는 셈. 윤석열 대통령이 이달 초 "반도체는 국가안..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/06/20220629_5206191_1656491617.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
