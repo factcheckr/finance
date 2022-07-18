@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 23:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 00:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 18일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32205/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32205/</guid>
+            <pubDate>Mon, 18 Jul 2022 00:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[1. 2분기 실적 발표 시즌을 앞두고 이달 증권사들이 발간한 종목 보고서 중 절반은 목표주가를 이전보다 낮춰잡은 것으로 집계됨. 에프앤가이드에 따르면 이달 들어 발간된 종목보고서 600건 중 목표가 하..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220717_1621662.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 7월16일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32201/</link>
@@ -96,14 +104,6 @@
             <pubDate>Mon, 04 Jul 2022 22:08:28 GMT</pubDate>
             <content:encoded><![CDATA[1. 윤석열 정부가 국가 재정 기조를 '건전 재정'으로 전면 전환하겠다고 예고한 가운데 한국 부채 상환 능력이 장부상 착시가 있다는 국책연구기관의 분석이 나와. 국민연금 등 사회보장성 기금이 보유..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220704_5210073_1656923854.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 4일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32149/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32149/</guid>
-            <pubDate>Mon, 04 Jul 2022 00:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[1. '기업하기 좋은 나라' 아일랜드가 애플과 구글 등 세계 거대 정보통신(IT) 기업에 이어 스타트업 기업 유치에도 성과를 내고 있음. 팬데믹이 전 세계를 휩쓴 지난 2021년 아일랜드의 경제성장률은 13...]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/202207040925421668215.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
