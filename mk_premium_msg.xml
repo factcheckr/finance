@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 21:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 22:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 19일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32206/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32206/</guid>
+            <pubDate>Mon, 18 Jul 2022 22:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[1. 친환경, 동물보호 등 윤리적 소비에 대한 관심 증가와 함께 급성장하고 있는 대체식품 시장에 국내 대기업들이 잇따라 뛰어들고 있음. 국내 식품업계 1위기업인 CJ제일제당이 차세대 대체육 시장을 이..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220718_5221551_1658134542.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 18일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32205/</link>
@@ -96,14 +104,6 @@
             <pubDate>Tue, 05 Jul 2022 22:08:21 GMT</pubDate>
             <content:encoded><![CDATA[1. 국제수학연맹(IMU)이 허준이 프린스턴대 교수를 '수학 노벨상'으로 불리는 필즈상 수상자로 5일 발표함. 대수기하학적 방법론을 이용해 조합론 분야의 난제를 수차례 해결한 업적을 인정 받음. 허 교..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220705_5210738_1657010516.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 5일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32150/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32150/</guid>
-            <pubDate>Mon, 04 Jul 2022 22:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 정부가 국가 재정 기조를 '건전 재정'으로 전면 전환하겠다고 예고한 가운데 한국 부채 상환 능력이 장부상 착시가 있다는 국책연구기관의 분석이 나와. 국민연금 등 사회보장성 기금이 보유..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220704_5210073_1656923854.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
