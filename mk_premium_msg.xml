@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 21:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 22:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 7월 20일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32208/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32208/</guid>
+            <pubDate>Tue, 19 Jul 2022 22:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 대통령이 50일 가까이 이어지고 있는 대우조선해양 하청업체 노조 파업에 대해 강경 입장을 거듭 밝히면서 공권력 투입이 임박했다는 해석이 나옴. 윤 대통령은 19일 국무회의에서 "대우조선해..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220719_5222069_1658219539.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 19일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32206/</link>
@@ -96,14 +104,6 @@
             <pubDate>Wed, 06 Jul 2022 22:07:58 GMT</pubDate>
             <content:encoded><![CDATA[1. 미국발 경기침체 공포 확산과 함께 고공행진하던 국제유가가 배럴당 100달러 밑으로 떨어짐. 8월 인도분 서부 텍사스산 원유(WTI)는 배럴당 99.50달러에 거래를 마쳐 5월 10일 이후 다시 100달러를 하..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220706_5211444_1657097111.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 6일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32153/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32153/</guid>
-            <pubDate>Tue, 05 Jul 2022 22:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[1. 국제수학연맹(IMU)이 허준이 프린스턴대 교수를 '수학 노벨상'으로 불리는 필즈상 수상자로 5일 발표함. 대수기하학적 방법론을 이용해 조합론 분야의 난제를 수차례 해결한 업적을 인정 받음. 허 교..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220705_5210738_1657010516.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
