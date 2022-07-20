@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 21:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 22:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 7월 21일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32209/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32209/</guid>
+            <pubDate>Wed, 20 Jul 2022 22:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[1. 대우조선해양 하도급업체 노조의 불법파업 사태가 49일째를 맞은 가운데 경남 거제 옥포조선소에서는 원도급과 하도급 노조 간 '노노(勞勞) 갈등'이 최고조에 달함. 20일 전국민주노동조합총연맹(민..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220720_5223714_1658322811.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 7월 20일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32208/</link>
@@ -96,14 +104,6 @@
             <pubDate>Fri, 08 Jul 2022 00:43:22 GMT</pubDate>
             <content:encoded><![CDATA[1. 정부가 윤석열 대통령 임기인 2027년까지 국내총생산(GDP) 대비 국가채무비율을 50%대 중반으로 관리하겠다는 목표를 수립. 2차 추가경정예산 기준으로 올해 말 국가채무비율은 49.7%를 기록할 전망인..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220707_5213316_1657190054.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 7일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32154/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32154/</guid>
-            <pubDate>Wed, 06 Jul 2022 22:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[1. 미국발 경기침체 공포 확산과 함께 고공행진하던 국제유가가 배럴당 100달러 밑으로 떨어짐. 8월 인도분 서부 텍사스산 원유(WTI)는 배럴당 99.50달러에 거래를 마쳐 5월 10일 이후 다시 100달러를 하..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220706_5211444_1657097111.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
