@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 08:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 09:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 23일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32231/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32231/</guid>
+            <pubDate>Fri, 22 Jul 2022 09:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[1. 대우조선해양 하청업체 조합원으로 구성된 민주노총 금속노조 조선하청지회 파업이 51일 만에 종료됨. 하청업체 노사는 올해 임금을 4.5% 인상하고, 폐업하는 협력업체 직원 고용을 승계하는 문제에 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220722_5225200_1658478360.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 22일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32212/</link>
@@ -96,14 +104,6 @@
   
 1. 수출 텃밭으로 여겨지던 중국 수출 비중이 지속 감소하면서 미주와 유럽이 그 자리를 채워가는 등 한국의 교역 지형도가 빠르게 변하고 있음. 10..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220710_5215055_1657442844.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 9일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32177/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32177/</guid>
-            <pubDate>Fri, 08 Jul 2022 09:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[1. 아베 신조 전 일본 총리가 참의원 선거 지원유세 중 총격을 받아 심폐정지 상태에 빠짐. NHK 등에 따르면 아베 전 총리는 이날 오전 11시 30분께 나라시에서 지원 유세를 하던 중 총탄에 피격. 총..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220708_5213823_1657268876.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
