@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 21:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 22:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 26일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32234/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32234/</guid>
+            <pubDate>Mon, 25 Jul 2022 22:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[1. 20여 년의 간격을 두고 미국 재무장관을 지낸 전·현직 장관이 24일(현지시간) 상반된 진단을 내놔. 조 바이든 행정부의 재닛 옐런 미 재무장관은 일자리 증대에 정책 우선순위를 두고, 1990년대 말 빌..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220725_5227040_1658738556.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 25일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32233/</link>
@@ -95,14 +103,6 @@
             <pubDate>Tue, 12 Jul 2022 22:07:51 GMT</pubDate>
             <content:encoded><![CDATA[1.기업 내부망에 침투해 파일을 암호화하고 시스템 정상화 대가로 가상화폐 등을 요구하는 기업 '랜섬웨어 해킹'의 피해를 입은 기업이 지난해에만 총 2824곳으로 전 세계적으로 2배 가량 증가한 것으로 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220712_5216520_1657616435.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 12일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32179/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32179/</guid>
-            <pubDate>Mon, 11 Jul 2022 22:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[1. 매일경제가 서울시 중구 명동쇼핑거리 일대를 취재한 결과, 영업 중이던 1층 점포 106곳 중 65곳이 문을 활짝 연 채 에어컨을 틀어놓고 있었음. 상인들은 손님을 유도하기 위해 '개문냉방'을 할 수밖..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220711_5215521_1657528685.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
