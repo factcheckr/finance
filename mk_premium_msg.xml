@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 21:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 22:07:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 7월 27일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32236/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32236/</guid>
+            <pubDate>Tue, 26 Jul 2022 22:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[1. 오세훈 서울시장은 26일 용산정비창 일대 개발 계획을 담은 '용산국제업무지구 개발구상'을 발표했음. 서울시는 용산국제업무지구를 '아시아의 실리콘밸리'로 만들기 위해 일자리·주거·여갇문화생활..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220726_5227933_1658825195.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 26일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32234/</link>
@@ -95,14 +103,6 @@
             <pubDate>Wed, 13 Jul 2022 22:09:26 GMT</pubDate>
             <content:encoded><![CDATA[1. 한국은행 금융통화위원회가 치솟는 물가를 억제하기 위해 사상 처음으로 기준금리를 0.5%포인트 인상하는 빅스텝에 나섬. 한국은행은 13일 통화정책방향 회의에서 금통위원 6명 전원일치로 현재 연 1...]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220713_5217898_1657701192.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 13일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32182/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32182/</guid>
-            <pubDate>Tue, 12 Jul 2022 22:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[1.기업 내부망에 침투해 파일을 암호화하고 시스템 정상화 대가로 가상화폐 등을 요구하는 기업 '랜섬웨어 해킹'의 피해를 입은 기업이 지난해에만 총 2824곳으로 전 세계적으로 2배 가량 증가한 것으로 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220712_5216520_1657616435.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
