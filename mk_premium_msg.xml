@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 21:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 22:07:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 29일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/07/32253/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32253/</guid>
+            <pubDate>Thu, 28 Jul 2022 22:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[1. 정부가 불법 공매도에 대해 칼을 빼들었음. 앞으로 공매도에 대한 기획감리를 정례화하고 혐의점을 발견하는 즉시 기획수사에 착수하기로 함. 불법 공매도 사건에 대한 처벌 강화도 추진. 해당 범죄에..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220728_5229552_1658998535.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 28일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32237/</link>
@@ -95,14 +103,6 @@
             <pubDate>Fri, 15 Jul 2022 10:08:34 GMT</pubDate>
             <content:encoded><![CDATA[1. 미국 인플레이션 충격이 외환시장을 강타하며 달러당 원화값이 큰 폭으로 떨어져. 15일 달러당 원화값은 전날 종가 대비 14원 하락한 1326.1원으로 마감. 글로벌 금융위기 당시인 2009년 4월 29일(134..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220715_5219259_1657873383.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 7월15일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32185/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32185/</guid>
-            <pubDate>Thu, 14 Jul 2022 22:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[1. 정부가 코로나19 이후 급격히 불어난 소상공인과 자영업자 채무 30조원을 매입해 최대 90%까지 원금을 감면하기로 함. 한국은행의 사상 첫 빅스텝(기준금리 0.5%포인트 인상)과 오는 9월 코로나19 금..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220714_5218510_1657788649.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
