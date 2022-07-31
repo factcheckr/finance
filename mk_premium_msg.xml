@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 21:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 22:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월1일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32255/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32255/</guid>
+            <pubDate>Sun, 31 Jul 2022 22:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월1일)
+
+1. 우리나라의 경쟁법 위반 사건 처리 건수가 경제협력개발기구(OECD) 평균치를 크게 상회. 시장지배적 지위 남용 사건의 처리 건수는 약 3.6배, 담합(..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220731_5231414_1659242671.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 29일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/07/32253/</link>
@@ -95,14 +105,6 @@
             <pubDate>Mon, 18 Jul 2022 00:41:07 GMT</pubDate>
             <content:encoded><![CDATA[1. 2분기 실적 발표 시즌을 앞두고 이달 증권사들이 발간한 종목 보고서 중 절반은 목표주가를 이전보다 낮춰잡은 것으로 집계됨. 에프앤가이드에 따르면 이달 들어 발간된 종목보고서 600건 중 목표가 하..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220717_1621662.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 7월16일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32201/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32201/</guid>
-            <pubDate>Fri, 15 Jul 2022 10:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[1. 미국 인플레이션 충격이 외환시장을 강타하며 달러당 원화값이 큰 폭으로 떨어져. 15일 달러당 원화값은 전날 종가 대비 14원 하락한 1326.1원으로 마감. 글로벌 금융위기 당시인 2009년 4월 29일(134..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220715_5219259_1657873383.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
