@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 21:07:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 22:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 8월 2일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32256/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32256/</guid>
+            <pubDate>Mon, 01 Aug 2022 22:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[1. 지난달 무역수지가 46억6900만달러 적자를 기록하면서 4개월 연속 적자 사태가 현실화. 4달 연속 무역적자를 기록한 것은 글로벌 금융위기 파고가 덮쳤던 2008년 6~9월 이후 14년 만의 일
+2. 금리..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220801_5232436_1659343980.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월1일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32255/</link>
@@ -97,14 +106,6 @@
             <pubDate>Mon, 18 Jul 2022 22:10:10 GMT</pubDate>
             <content:encoded><![CDATA[1. 친환경, 동물보호 등 윤리적 소비에 대한 관심 증가와 함께 급성장하고 있는 대체식품 시장에 국내 대기업들이 잇따라 뛰어들고 있음. 국내 식품업계 1위기업인 CJ제일제당이 차세대 대체육 시장을 이..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220718_5221551_1658134542.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 18일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32205/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32205/</guid>
-            <pubDate>Mon, 18 Jul 2022 00:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[1. 2분기 실적 발표 시즌을 앞두고 이달 증권사들이 발간한 종목 보고서 중 절반은 목표주가를 이전보다 낮춰잡은 것으로 집계됨. 에프앤가이드에 따르면 이달 들어 발간된 종목보고서 600건 중 목표가 하..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220717_1621662.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
