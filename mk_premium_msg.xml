@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 21:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 22:07:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 4일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32261/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32261/</guid>
+            <pubDate>Wed, 03 Aug 2022 22:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[1. 한국을 찾은 낸시 펠로시 미국 하원의장이 4일 판문점 공동경비구역(JSA)에서 북한의 7차 핵실험과 인권문제에 우려를 표명할 전망. 대만에서 "중국의 대만 민주주의 위협을 방관하지 않겠다"며 강경..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220803_5127122_1659515633.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 3일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32260/</link>
@@ -98,14 +106,6 @@
             <pubDate>Wed, 20 Jul 2022 22:07:53 GMT</pubDate>
             <content:encoded><![CDATA[1. 대우조선해양 하도급업체 노조의 불법파업 사태가 49일째를 맞은 가운데 경남 거제 옥포조선소에서는 원도급과 하도급 노조 간 '노노(勞勞) 갈등'이 최고조에 달함. 20일 전국민주노동조합총연맹(민..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220720_5223714_1658322811.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 7월 20일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32208/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32208/</guid>
-            <pubDate>Tue, 19 Jul 2022 22:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 대통령이 50일 가까이 이어지고 있는 대우조선해양 하청업체 노조 파업에 대해 강경 입장을 거듭 밝히면서 공권력 투입이 임박했다는 해석이 나옴. 윤 대통령은 19일 국무회의에서 "대우조선해..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220719_5222069_1658219539.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
