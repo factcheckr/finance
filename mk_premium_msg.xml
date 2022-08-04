@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 21:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 22:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 5일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32264/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32264/</guid>
+            <pubDate>Thu, 04 Aug 2022 22:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[1. 하도급 노조 파업 사태 이후 다시 수면으로 떠오른 대우조선해양의 미래를 가를 '4대 시나리오'로 통매각, 분리매각, 독자생존, 청산이 거론됨. 51일간 이어진 대우조선 하도급 노조의 파업 사태는 11..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220804_5234407_1659602128.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 4일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32261/</link>
@@ -98,14 +106,6 @@
             <pubDate>Thu, 21 Jul 2022 22:07:53 GMT</pubDate>
             <content:encoded><![CDATA[1. 정부가 올해 소득세 매기는 기준(과세표준)을 높이는 방식으로 세법을 고쳐 내년부터 서민 세 부담을 낮추기로 함. 다주택자에게 징벌적으로 물리던 종합부동산세 중과세율은 폐지되며 법인세 최고세..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220721_5224022_1658392588.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 7월 21일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32209/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32209/</guid>
-            <pubDate>Wed, 20 Jul 2022 22:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[1. 대우조선해양 하도급업체 노조의 불법파업 사태가 49일째를 맞은 가운데 경남 거제 옥포조선소에서는 원도급과 하도급 노조 간 '노노(勞勞) 갈등'이 최고조에 달함. 20일 전국민주노동조합총연맹(민..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220720_5223714_1658322811.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
