@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 00:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 03:02:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지,8월 8일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32284/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32284/</guid>
+            <pubDate>Mon, 08 Aug 2022 03:02:06 GMT</pubDate>
+            <content:encoded><![CDATA[1.정부가 한·미·일·대만 간 반도체 공급망협의체인 이른바 '칩4' 참여 여부와 관련해 내달 초 예비회동을 하자고 미국에 역제안. 한국은 반도체 협력 필요성을 미국과 논의하되 중국을 자극하지 않는 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220808_5236996_1659918870.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 6일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32282/</link>
@@ -98,14 +106,6 @@
             <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 25일)
   1. 산업은행이 대우조선 경영 정상화를 위한 외부 컨설팅을 진행하고 있는 것으로 파악. 컨설팅 결과를 기초로 대우조선 최종 처리 방향을 결정할 계..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220724_5226199_1658651485.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 23일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32231/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32231/</guid>
-            <pubDate>Fri, 22 Jul 2022 09:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[1. 대우조선해양 하청업체 조합원으로 구성된 민주노총 금속노조 조선하청지회 파업이 51일 만에 종료됨. 하청업체 노사는 올해 임금을 4.5% 인상하고, 폐업하는 협력업체 직원 고용을 승계하는 문제에 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220722_5225200_1658478360.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
