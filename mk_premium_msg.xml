@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 21:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 23:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 8월 9일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32285/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32285/</guid>
+            <pubDate>Mon, 08 Aug 2022 23:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[1. 미국 의회가 2023년까지 미국에서 원자재 조달과 배터리 조립비중을 40~50% 충족한 신형 전기차 구입시에만 최대 7500달러 세액공제해주기로 함. 해당 비율을 2028년엔 100% 수준까지 높일 예정. 미국..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220808_5237592_1659948301.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지,8월 8일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32284/</link>
@@ -97,15 +105,6 @@
             <pubDate>Mon, 25 Jul 2022 22:07:26 GMT</pubDate>
             <content:encoded><![CDATA[1. 20여 년의 간격을 두고 미국 재무장관을 지낸 전·현직 장관이 24일(현지시간) 상반된 진단을 내놔. 조 바이든 행정부의 재닛 옐런 미 재무장관은 일자리 증대에 정책 우선순위를 두고, 1990년대 말 빌..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220725_5227040_1658738556.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 25일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32233/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32233/</guid>
-            <pubDate>Sun, 24 Jul 2022 22:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 25일)
-  1. 산업은행이 대우조선 경영 정상화를 위한 외부 컨설팅을 진행하고 있는 것으로 파악. 컨설팅 결과를 기초로 대우조선 최종 처리 방향을 결정할 계..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220724_5226199_1658651485.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
