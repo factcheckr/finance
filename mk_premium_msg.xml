@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 08:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 09:08:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 13일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32328/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32328/</guid>
+            <pubDate>Fri, 12 Aug 2022 09:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[1.이재용 삼성전자 부회장과 신동빈 롯데 회장 등이 특별사면됐음. 이명박 전 대통령과 김경수 전 경남도지사 등 정치인은 사면 대상에서 배제됐음. 윤석열 대통령은 12일 임시국무회의를 주재하고 이같..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220811_5240098_1660292594.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 12일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32310/</link>
@@ -97,14 +105,6 @@
 
 1. 우리나라의 경쟁법 위반 사건 처리 건수가 경제협력개발기구(OECD) 평균치를 크게 상회. 시장지배적 지위 남용 사건의 처리 건수는 약 3.6배, 담합(..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220731_5231414_1659242671.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 7월 29일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/07/32253/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/07/32253/</guid>
-            <pubDate>Thu, 28 Jul 2022 22:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[1. 정부가 불법 공매도에 대해 칼을 빼들었음. 앞으로 공매도에 대한 기획감리를 정례화하고 혐의점을 발견하는 즉시 기획수사에 착수하기로 함. 불법 공매도 사건에 대한 처벌 강화도 추진. 해당 범죄에..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/07/20220728_5229552_1658998535.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
