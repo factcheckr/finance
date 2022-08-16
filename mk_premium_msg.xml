@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 21:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 22:08:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 8월 17일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32334/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32334/</guid>
+            <pubDate>Tue, 16 Aug 2022 22:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[1. 민간이 주도하는 재건축 사업과 도심 역세권 재개발 등으로 오는 2027년까지 5년간 전국에 주택 270만가구가 공급돼. 특히 신규 공급이 부족했던 서울에는 50만 가구가 신규 공급될 예정.
+2. 한국기..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220816_5242958_1660639683.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월16일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32332/</link>
@@ -94,15 +103,6 @@
             <pubDate>Tue, 02 Aug 2022 22:07:45 GMT</pubDate>
             <content:encoded><![CDATA[1.우리나라 총인구가 지난해 사상 처음 줄기 시작하며 인구 절벽으로 치닫는 속도가 빨라진 가운데 지방을 먹여 살릴 산업마저 사라지며 전국 228개 시·군·구 중 59곳(25.9%)이 소멸위기에 처한 것으..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220802_5232848_1659429491.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 8월 2일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32256/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32256/</guid>
-            <pubDate>Mon, 01 Aug 2022 22:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[1. 지난달 무역수지가 46억6900만달러 적자를 기록하면서 4개월 연속 적자 사태가 현실화. 4달 연속 무역적자를 기록한 것은 글로벌 금융위기 파고가 덮쳤던 2008년 6~9월 이후 14년 만의 일
-2. 금리..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220801_5232436_1659343980.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
