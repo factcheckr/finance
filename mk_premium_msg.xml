@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 21:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 22:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 18일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32335/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32335/</guid>
+            <pubDate>Wed, 17 Aug 2022 22:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[1. 국내 20대 기업이 올해 상반기에 급여로 지출한 금액이 지난해 상반기보다 17% 급증. 물가가 임금을 끌어올리고, 이로 인해 물가가 더욱 상승하는 악순환을 의미하는 '나선형 인플레이션'이 현실화되고..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220817_5243985_1660724429.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 8월 17일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32334/</link>
@@ -95,14 +103,6 @@
             <pubDate>Wed, 03 Aug 2022 22:07:40 GMT</pubDate>
             <content:encoded><![CDATA[1. 한국을 찾은 낸시 펠로시 미국 하원의장이 4일 판문점 공동경비구역(JSA)에서 북한의 7차 핵실험과 인권문제에 우려를 표명할 전망. 대만에서 "중국의 대만 민주주의 위협을 방관하지 않겠다"며 강경..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220803_5127122_1659515633.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 3일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32260/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32260/</guid>
-            <pubDate>Tue, 02 Aug 2022 22:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[1.우리나라 총인구가 지난해 사상 처음 줄기 시작하며 인구 절벽으로 치닫는 속도가 빨라진 가운데 지방을 먹여 살릴 산업마저 사라지며 전국 228개 시·군·구 중 59곳(25.9%)이 소멸위기에 처한 것으..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220802_5232848_1659429491.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
