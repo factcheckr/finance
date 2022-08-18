@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 21:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 22:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 19일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32339/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32339/</guid>
+            <pubDate>Thu, 18 Aug 2022 22:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[1. 현대자동차그룹이 보스턴다이내믹스와 손잡고 약 1조원을 투입해 미국 현지에 로봇 연구개발(R&amp;D)과 스타트업 투자 생태계 선점에 나섰음.  각각 4억달러(약 5285억원)를 투입해 로봇 연구소와 글로벌..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220818_5244682_1660814202.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 18일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32335/</link>
@@ -95,14 +103,6 @@
             <pubDate>Thu, 04 Aug 2022 22:14:37 GMT</pubDate>
             <content:encoded><![CDATA[1. 하도급 노조 파업 사태 이후 다시 수면으로 떠오른 대우조선해양의 미래를 가를 '4대 시나리오'로 통매각, 분리매각, 독자생존, 청산이 거론됨. 51일간 이어진 대우조선 하도급 노조의 파업 사태는 11..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220804_5234407_1659602128.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 4일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32261/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32261/</guid>
-            <pubDate>Wed, 03 Aug 2022 22:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[1. 한국을 찾은 낸시 펠로시 미국 하원의장이 4일 판문점 공동경비구역(JSA)에서 북한의 7차 핵실험과 인권문제에 우려를 표명할 전망. 대만에서 "중국의 대만 민주주의 위협을 방관하지 않겠다"며 강경..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220803_5127122_1659515633.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
