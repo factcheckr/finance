@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 08:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 09:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 8월 20일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32358/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32358/</guid>
+            <pubDate>Fri, 19 Aug 2022 09:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[1. 세계 미술시장을 주름잡는 슈퍼 컬렉터들이 전세기를 타고 9월 첫주 서울로 총집결함. 홍콩의 젊은 억만장자 컬렉터인 애드리안 쳉 뉴월드개발 부회장과 스위스 대표 컬렉터인 마야 호프만 루마재단 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220818_5245267_1660897642.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 19일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32339/</link>
@@ -95,14 +103,6 @@
             <pubDate>Fri, 05 Aug 2022 09:08:01 GMT</pubDate>
             <content:encoded><![CDATA[1. 우리나라 첫 달탐사선 '다누리(KPLO)'가 달로 향하는 여정을 시작해. 다누리는 한국시간 오전 8시 8분48초 미국 플로리다 케이프커내버럴 미 우주군 기지 40번 발사대에서 스페이스X의 팰컨9 발사체에..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220805_5235641_1659689999.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 5일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32264/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32264/</guid>
-            <pubDate>Thu, 04 Aug 2022 22:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[1. 하도급 노조 파업 사태 이후 다시 수면으로 떠오른 대우조선해양의 미래를 가를 '4대 시나리오'로 통매각, 분리매각, 독자생존, 청산이 거론됨. 51일간 이어진 대우조선 하도급 노조의 파업 사태는 11..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220804_5234407_1659602128.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
