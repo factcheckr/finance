@@ -4,9 +4,18 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 21:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 22:08:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 22일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32359/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32359/</guid>
+            <pubDate>Sun, 21 Aug 2022 22:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 8월 22일)
+
+1. 인구 약 570만명을 보유한 싱가포르에 30만명의 외국인 가사도우미가 활동하고 있음. 싱가포르 전체가 139만가구(2021년 기준)인 점을 감안하면 5가구 중 1가구 꼴로 외국인 가사도우미를 쓰고 있는 셈. 싱가포르는 여성의 경제활동 참여율을 높..]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 8월 20일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32358/</link>
@@ -95,14 +104,6 @@
             <pubDate>Mon, 08 Aug 2022 03:02:06 GMT</pubDate>
             <content:encoded><![CDATA[1.정부가 한·미·일·대만 간 반도체 공급망협의체인 이른바 '칩4' 참여 여부와 관련해 내달 초 예비회동을 하자고 미국에 역제안. 한국은 반도체 협력 필요성을 미국과 논의하되 중국을 자극하지 않는 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220808_5236996_1659918870.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 6일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32282/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32282/</guid>
-            <pubDate>Fri, 05 Aug 2022 09:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[1. 우리나라 첫 달탐사선 '다누리(KPLO)'가 달로 향하는 여정을 시작해. 다누리는 한국시간 오전 8시 8분48초 미국 플로리다 케이프커내버럴 미 우주군 기지 40번 발사대에서 스페이스X의 팰컨9 발사체에..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220805_5235641_1659689999.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
