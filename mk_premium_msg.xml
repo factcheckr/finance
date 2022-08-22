@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 21:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 22:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 23일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32360/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32360/</guid>
+            <pubDate>Mon, 22 Aug 2022 22:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[1. 미국 달러 대비 원화값이 13년 4개월 만에 최저치로 주저앉았음. 달러당 원화값은 22일 장중 1340원을 노크한 뒤 전 영업일 종가(1325.9원) 대비 13.9원 하락한 1339.8원으로 마감했음. 원화값이 1340..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220822_5247574_1661157175.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 22일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32359/</link>
@@ -97,14 +105,6 @@
             <pubDate>Mon, 08 Aug 2022 23:08:15 GMT</pubDate>
             <content:encoded><![CDATA[1. 미국 의회가 2023년까지 미국에서 원자재 조달과 배터리 조립비중을 40~50% 충족한 신형 전기차 구입시에만 최대 7500달러 세액공제해주기로 함. 해당 비율을 2028년엔 100% 수준까지 높일 예정. 미국..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220808_5237592_1659948301.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지,8월 8일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32284/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32284/</guid>
-            <pubDate>Mon, 08 Aug 2022 03:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[1.정부가 한·미·일·대만 간 반도체 공급망협의체인 이른바 '칩4' 참여 여부와 관련해 내달 초 예비회동을 하자고 미국에 역제안. 한국은 반도체 협력 필요성을 미국과 논의하되 중국을 자극하지 않는 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220808_5236996_1659918870.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
