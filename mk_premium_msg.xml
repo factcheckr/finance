@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 21:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 22:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 24일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32362/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32362/</guid>
+            <pubDate>Tue, 23 Aug 2022 22:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[1. 국내 육아도우미의 인건비가 급격히 상승하면서 맞벌이 부부들의 어려움이 가중되고 있음. 복수의 인력 중개 업체에 따르면 주말을 제외하고 평일 5일간 육아를 책임지는 입주가정부의 월 시세는 350..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220823_5248018_1661243722.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 23일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32360/</link>
@@ -97,14 +105,6 @@
             <pubDate>Tue, 09 Aug 2022 22:07:51 GMT</pubDate>
             <content:encoded><![CDATA[1. 기상청에 따르면 수도권을 강타한 집중호우가 오는 11일까지 이어질 것으로 보임. 이후로 주말동안 소강상태를 보이고 다음주부터 폭우가 재개될 전망. 중앙재난안전대책본부에 따르면 9일 오전까지 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220809_5237897_1660034400.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 8월 9일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32285/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32285/</guid>
-            <pubDate>Mon, 08 Aug 2022 23:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[1. 미국 의회가 2023년까지 미국에서 원자재 조달과 배터리 조립비중을 40~50% 충족한 신형 전기차 구입시에만 최대 7500달러 세액공제해주기로 함. 해당 비율을 2028년엔 100% 수준까지 높일 예정. 미국..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220808_5237592_1659948301.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
