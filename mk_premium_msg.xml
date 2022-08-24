@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 21:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 22:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 25일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32363/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32363/</guid>
+            <pubDate>Wed, 24 Aug 2022 22:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[1. '타다 금지법'으로 불리는 규제안이 국회를 통과한 뒤 택시업계에서만 일자리 4만개가 사라진 것으로 나타났음. 정보통신(IT)업계에 따르면, 전국법인택시 운전자수는 2019년말 10만2320명에서 지난 5..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220824_5146744_1661330074.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 24일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32362/</link>
@@ -97,14 +105,6 @@
             <pubDate>Wed, 10 Aug 2022 22:07:48 GMT</pubDate>
             <content:encoded><![CDATA[1. 공정거래위원회가 대기업 규제의 기준 역할을 하는 총수(동일인)의 친족 범위를 대폭 축소함. 현행 혈족 6촌, 인척 5촌 이내인 친족 범위를 혈족 4촌, 인척 3촌 이내로 각각 줄이는 것이 핵심임. 지난..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220810_5239134_1660118922.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 10일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32287/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32287/</guid>
-            <pubDate>Tue, 09 Aug 2022 22:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[1. 기상청에 따르면 수도권을 강타한 집중호우가 오는 11일까지 이어질 것으로 보임. 이후로 주말동안 소강상태를 보이고 다음주부터 폭우가 재개될 전망. 중앙재난안전대책본부에 따르면 9일 오전까지 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220809_5237897_1660034400.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
