@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 08:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 09:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 27일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32383/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32383/</guid>
+            <pubDate>Fri, 26 Aug 2022 09:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 대통령이 26일 대구에서 열린 규제혁신전략회의에서 "현실에 맞지 않는 법령 한줄, 규제 하나가 기업의 생사를 가를 수 있다"며 "국민의 생명·안전, 질서유지에 꼭 필요한 합리적 규제만 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220826_5251074_1661503041.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 26일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32367/</link>
@@ -97,14 +105,6 @@
             <pubDate>Fri, 12 Aug 2022 09:08:05 GMT</pubDate>
             <content:encoded><![CDATA[1.이재용 삼성전자 부회장과 신동빈 롯데 회장 등이 특별사면됐음. 이명박 전 대통령과 김경수 전 경남도지사 등 정치인은 사면 대상에서 배제됐음. 윤석열 대통령은 12일 임시국무회의를 주재하고 이같..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220811_5240098_1660292594.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 12일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32310/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32310/</guid>
-            <pubDate>Thu, 11 Aug 2022 22:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[1. 명절을 앞두고 6%대 고물가 상황이 이어지고 집중호우까지 닥치면서 정부가 비축 물량을 역대 최대 수준으로 풀고, 대규모 할인쿠폰을 뿌려 추석 농축수산물 물가 잡기에 총력 대응할 방침임. 정부는 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220811_5240008_1660207801.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
