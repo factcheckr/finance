@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 21:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 22:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월29일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32384/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32384/</guid>
+            <pubDate>Sun, 28 Aug 2022 22:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월29일)
+
+1. 철강제품 주문량이 줄면서 철강사들 창고에는 재고 물량만 쌓여가고 있음. 철강협회와 업계에 따르면 7~8월 열간압연강재 재고는 작년 같은 기간보..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220828_5251742_1661665858.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 27일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32383/</link>
@@ -97,14 +107,6 @@
             <pubDate>Mon, 15 Aug 2022 22:07:58 GMT</pubDate>
             <content:encoded><![CDATA[1. 상하이 등 대도시 봉쇄를 푼 뒤 경기 침체에서 벗어나는 듯했던 중국 경제가 7월 다시 부진한 모습. 수개월간 이어진 상하이 경제 봉쇄의 후유증을 완전히 털어내지 못한데다 중앙정부의 '제로 코로나..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220815_5242484_1660562682.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 13일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32328/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32328/</guid>
-            <pubDate>Fri, 12 Aug 2022 09:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[1.이재용 삼성전자 부회장과 신동빈 롯데 회장 등이 특별사면됐음. 이명박 전 대통령과 김경수 전 경남도지사 등 정치인은 사면 대상에서 배제됐음. 윤석열 대통령은 12일 임시국무회의를 주재하고 이같..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220811_5240098_1660292594.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
