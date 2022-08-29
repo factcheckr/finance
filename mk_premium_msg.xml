@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 21:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 22:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 30일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32385/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32385/</guid>
+            <pubDate>Mon, 29 Aug 2022 22:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[1.제롬 파월 美 연방준비제도(Fed) 의장이 26일(현지시간) 잭슨홀 회의에서 드러낸 매파적 발언에 29일 국내 증시와 외환시장이 큰 충격을 받았음. 달러당 원화값은 13년4개월 만에 1350원대로 하락했고 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220829_5151176_1661764861.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월29일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32384/</link>
@@ -97,14 +105,6 @@
             <content:encoded><![CDATA[1. 민간이 주도하는 재건축 사업과 도심 역세권 재개발 등으로 오는 2027년까지 5년간 전국에 주택 270만가구가 공급돼. 특히 신규 공급이 부족했던 서울에는 50만 가구가 신규 공급될 예정.
 2. 한국기..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220816_5242958_1660639683.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월16일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32332/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32332/</guid>
-            <pubDate>Mon, 15 Aug 2022 22:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[1. 상하이 등 대도시 봉쇄를 푼 뒤 경기 침체에서 벗어나는 듯했던 중국 경제가 7월 다시 부진한 모습. 수개월간 이어진 상하이 경제 봉쇄의 후유증을 완전히 털어내지 못한데다 중앙정부의 '제로 코로나..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220815_5242484_1660562682.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
