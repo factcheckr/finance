@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 21:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 22:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 8월31일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/08/32387/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32387/</guid>
+            <pubDate>Tue, 30 Aug 2022 22:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[1. 정부가 올해보다 5.2% 증가한 639조원의 예산안을 내놓음. 문재인 정부 평균 예산 증가율(8.7%)보다 크게 낮춰 건전재정 기조로 전면 전환한 게 특징. 정부는 역대 최대 규모인 24조원의 지출 구조조정..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220830_5253773_1661848846.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 30일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32385/</link>
@@ -96,15 +104,6 @@
             <pubDate>Wed, 17 Aug 2022 22:08:44 GMT</pubDate>
             <content:encoded><![CDATA[1. 국내 20대 기업이 올해 상반기에 급여로 지출한 금액이 지난해 상반기보다 17% 급증. 물가가 임금을 끌어올리고, 이로 인해 물가가 더욱 상승하는 악순환을 의미하는 '나선형 인플레이션'이 현실화되고..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220817_5243985_1660724429.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 8월 17일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32334/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32334/</guid>
-            <pubDate>Tue, 16 Aug 2022 22:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[1. 민간이 주도하는 재건축 사업과 도심 역세권 재개발 등으로 오는 2027년까지 5년간 전국에 주택 270만가구가 공급돼. 특히 신규 공급이 부족했던 서울에는 50만 가구가 신규 공급될 예정.
-2. 한국기..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220816_5242958_1660639683.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
