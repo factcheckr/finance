@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 21:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 22:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 9월 1일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/09/32388/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/09/32388/</guid>
+            <pubDate>Wed, 31 Aug 2022 22:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[1. 미국 사모펀드 론스타가 외환은행 매각과 관련해 제기한 투자자·국가 간 국제중재(ISDS) 사건에서 세계은행 국제투자분쟁해결기구(ICSID)가 우리 정부가 론스타에 약 3100억원을 배상하라고 판정. 정..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220831_5254105_1661935603.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 8월31일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/08/32387/</link>
@@ -96,14 +104,6 @@
             <pubDate>Thu, 18 Aug 2022 22:08:24 GMT</pubDate>
             <content:encoded><![CDATA[1. 현대자동차그룹이 보스턴다이내믹스와 손잡고 약 1조원을 투입해 미국 현지에 로봇 연구개발(R&amp;D)과 스타트업 투자 생태계 선점에 나섰음.  각각 4억달러(약 5285억원)를 투입해 로봇 연구소와 글로벌..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220818_5244682_1660814202.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 18일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32335/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32335/</guid>
-            <pubDate>Wed, 17 Aug 2022 22:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[1. 국내 20대 기업이 올해 상반기에 급여로 지출한 금액이 지난해 상반기보다 17% 급증. 물가가 임금을 끌어올리고, 이로 인해 물가가 더욱 상승하는 악순환을 의미하는 '나선형 인플레이션'이 현실화되고..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220817_5243985_1660724429.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
