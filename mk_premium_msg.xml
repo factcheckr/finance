@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 21:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 22:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 9월 2일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/09/32392/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/09/32392/</guid>
+            <pubDate>Thu, 01 Sep 2022 22:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[1.애플이 국내 개발사들로부터 인앱결제(in-app purchase) 수수료를 3500억원 가량 초과징수한 것이 알려지며 앱마켓 사업자와 입점업체의 일방적 갑을 관계에 대한 비판의 목소리가 커지고 있어. 수수료..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/09/20220901_5255128_1662023450.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 9월 1일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/09/32388/</link>
@@ -96,14 +104,6 @@
             <pubDate>Fri, 19 Aug 2022 09:08:55 GMT</pubDate>
             <content:encoded><![CDATA[1. 세계 미술시장을 주름잡는 슈퍼 컬렉터들이 전세기를 타고 9월 첫주 서울로 총집결함. 홍콩의 젊은 억만장자 컬렉터인 애드리안 쳉 뉴월드개발 부회장과 스위스 대표 컬렉터인 마야 호프만 루마재단 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220818_5245267_1660897642.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 19일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32339/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32339/</guid>
-            <pubDate>Thu, 18 Aug 2022 22:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[1. 현대자동차그룹이 보스턴다이내믹스와 손잡고 약 1조원을 투입해 미국 현지에 로봇 연구개발(R&amp;D)과 스타트업 투자 생태계 선점에 나섰음.  각각 4억달러(약 5285억원)를 투입해 로봇 연구소와 글로벌..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220818_5244682_1660814202.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
