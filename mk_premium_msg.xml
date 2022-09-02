@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 21:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 22:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 9월 3일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/09/32411/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/09/32411/</guid>
+            <pubDate>Fri, 02 Sep 2022 22:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[1. 2일 오후 서울 코엑스에서 세계 3대 아트페어 프리즈 서울과 키아프가 동시에 막을 올리자 전 세계 VIP 컬렉터(수집가) 1만여 명이 몰려왔음. 한국에 처음 진출한 세계 대형 화랑 미국 가고시안과 스..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/09/20220902_5256112_1662111399.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 9월 2일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/09/32392/</link>
@@ -96,14 +104,6 @@
   
 1. 인구 약 570만명을 보유한 싱가포르에 30만명의 외국인 가사도우미가 활동하고 있음. 싱가포르 전체가 139만가구(2021년 기준)인 점을 감안하면 5..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220821_5246728_1661068524.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 8월 20일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32358/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32358/</guid>
-            <pubDate>Fri, 19 Aug 2022 09:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[1. 세계 미술시장을 주름잡는 슈퍼 컬렉터들이 전세기를 타고 9월 첫주 서울로 총집결함. 홍콩의 젊은 억만장자 컬렉터인 애드리안 쳉 뉴월드개발 부회장과 스위스 대표 컬렉터인 마야 호프만 루마재단 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220818_5245267_1660897642.jpeg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
