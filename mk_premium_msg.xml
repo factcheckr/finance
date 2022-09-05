@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 23:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 00:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 9월 5일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/09/32412/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/09/32412/</guid>
+            <pubDate>Mon, 05 Sep 2022 00:47:52 GMT</pubDate>
+            <content:encoded><![CDATA[1. "1970년대식 스태그플레이션(경기 침체 속 물가 상승)은 발생하지 않을 것으로 보인다. 미국 연방준비제도의 긴축정책도 바뀌지 않을 것이다. 다만 근원 인플레이션을 낮추는 데 시간이 걸린다. 미국 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/09/20220905_5257512_1662337295.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 9월 3일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/09/32411/</link>
@@ -94,16 +102,6 @@
             <pubDate>Mon, 22 Aug 2022 22:08:28 GMT</pubDate>
             <content:encoded><![CDATA[1. 미국 달러 대비 원화값이 13년 4개월 만에 최저치로 주저앉았음. 달러당 원화값은 22일 장중 1340원을 노크한 뒤 전 영업일 종가(1325.9원) 대비 13.9원 하락한 1339.8원으로 마감했음. 원화값이 1340..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220822_5247574_1661157175.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 22일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32359/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32359/</guid>
-            <pubDate>Sun, 21 Aug 2022 22:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[매경이 전하는 세상의 지식(매-세-지, 8월 22일)
-  
-1. 인구 약 570만명을 보유한 싱가포르에 30만명의 외국인 가사도우미가 활동하고 있음. 싱가포르 전체가 139만가구(2021년 기준)인 점을 감안하면 5..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220821_5246728_1661068524.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
