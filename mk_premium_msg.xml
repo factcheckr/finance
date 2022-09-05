@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 21:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 22:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 9월 6일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/09/32413/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/09/32413/</guid>
+            <pubDate>Mon, 05 Sep 2022 22:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[1. 기상관측 이래 가장 강력할 것으로 관측되는 제 11호 태풍 힌남노가 6일부터 한반도 남부지방에 본격적으로 파괴적인 영향을 미칠 전망. 5일 기상청에 따르면 힌남노는 6일 오전 경남 남해안 지역에 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/09/20220905_5258306_1662366975.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 9월 5일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/09/32412/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 23 Aug 2022 22:08:06 GMT</pubDate>
             <content:encoded><![CDATA[1. 국내 육아도우미의 인건비가 급격히 상승하면서 맞벌이 부부들의 어려움이 가중되고 있음. 복수의 인력 중개 업체에 따르면 주말을 제외하고 평일 5일간 육아를 책임지는 입주가정부의 월 시세는 350..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220823_5248018_1661243722.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 23일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32360/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32360/</guid>
-            <pubDate>Mon, 22 Aug 2022 22:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[1. 미국 달러 대비 원화값이 13년 4개월 만에 최저치로 주저앉았음. 달러당 원화값은 22일 장중 1340원을 노크한 뒤 전 영업일 종가(1325.9원) 대비 13.9원 하락한 1339.8원으로 마감했음. 원화값이 1340..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220822_5247574_1661157175.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
