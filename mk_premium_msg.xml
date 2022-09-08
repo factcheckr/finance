@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 21:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 22:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 9월 9일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/09/32437/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/09/32437/</guid>
+            <pubDate>Thu, 08 Sep 2022 22:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[1. 지난 10년간 세종시를 제외한 전국 7개 특별·광역시 학생 수의 감소 비율이 다른 9개 도 지역보다 가파른 것으로 나타났음. 반면 7개 특별·광역시의 학생 1인당 예산 상승률은 9개 도보다 17%나 높은..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/09/20220907_5259812_1662621769.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 9월 8일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/09/32420/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 26 Aug 2022 09:08:30 GMT</pubDate>
             <content:encoded><![CDATA[1. 윤석열 대통령이 26일 대구에서 열린 규제혁신전략회의에서 "현실에 맞지 않는 법령 한줄, 규제 하나가 기업의 생사를 가를 수 있다"며 "국민의 생명·안전, 질서유지에 꼭 필요한 합리적 규제만 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220826_5251074_1661503041.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 26일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32367/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32367/</guid>
-            <pubDate>Thu, 25 Aug 2022 22:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[1. 한은 금융통화위원회는 25일 통화정책방향 회의에서 종전 연 2.25%였던 기준금리를 2.50%로 인상하기로 함. 한은은 고물가에 달러당 원화값까지 추락하자 사상 처음으로 네차례 연속 기준금리를 올려...]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220825_5249900_1661416045.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
