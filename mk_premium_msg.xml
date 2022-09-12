@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 21:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 22:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 9월 13일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/09/32440/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/09/32440/</guid>
+            <pubDate>Mon, 12 Sep 2022 22:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 9월 13일) 
+
+1. 윤석열정부가 문재인정부의 주요 치적으로 꼽히는 '한국한 뉴딜' 정책의 그린스마트스쿨 사업에 대해 사실상 기획 감사에 착수. 그린스마트스쿨 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/09/20220912_5262838_1662973563.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 9월 9일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/09/32437/</link>
@@ -94,14 +104,6 @@
             <pubDate>Sun, 28 Aug 2022 22:07:52 GMT</pubDate>
             <content:encoded><![CDATA[1. 철강제품 주문량이 줄면서 철강사들 창고에는 재고 물량만 쌓여가고 있음. 철강협회와 업계에 따르면 7~8월 열간압연강재 재고는 작년 같은 기간보다 약 10% 늘어난 300만t 안팎 수준. 조선업계는 수주..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220828_5251742_1661665858.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 8월 27일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/08/32383/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/08/32383/</guid>
-            <pubDate>Fri, 26 Aug 2022 09:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 대통령이 26일 대구에서 열린 규제혁신전략회의에서 "현실에 맞지 않는 법령 한줄, 규제 하나가 기업의 생사를 가를 수 있다"며 "국민의 생명·안전, 질서유지에 꼭 필요한 합리적 규제만 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/08/20220826_5251074_1661503041.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
