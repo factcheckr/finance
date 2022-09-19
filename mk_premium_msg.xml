@@ -4,9 +4,19 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 21:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 22:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 9월 20일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/09/32475/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/09/32475/</guid>
+            <pubDate>Mon, 19 Sep 2022 22:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 9월 20일)  
+  
+1. 아시아 최대 지식 향연인 세계지식포럼이 '초과회복(Supercompensation)'을 주제로 20일 개막. 330여 명의 글로벌 연사와 150여 개 세션을 준..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/09/20220919_5268312_1663578890.jpeg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 9월 19일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/09/32474/</link>
@@ -101,14 +111,6 @@
             <pubDate>Mon, 05 Sep 2022 00:47:52 GMT</pubDate>
             <content:encoded><![CDATA[1. "1970년대식 스태그플레이션(경기 침체 속 물가 상승)은 발생하지 않을 것으로 보인다. 미국 연방준비제도의 긴축정책도 바뀌지 않을 것이다. 다만 근원 인플레이션을 낮추는 데 시간이 걸린다. 미국 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/09/20220905_5257512_1662337295.jpeg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 9월 3일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/09/32411/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/09/32411/</guid>
-            <pubDate>Fri, 02 Sep 2022 22:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[1. 2일 오후 서울 코엑스에서 세계 3대 아트페어 프리즈 서울과 키아프가 동시에 막을 올리자 전 세계 VIP 컬렉터(수집가) 1만여 명이 몰려왔음. 한국에 처음 진출한 세계 대형 화랑 미국 가고시안과 스..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/09/20220902_5256112_1662111399.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
