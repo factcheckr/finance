@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 21:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 22:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 18일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/11/32669/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32669/</guid>
+            <pubDate>Thu, 17 Nov 2022 22:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[1. “세계경제를 둘러싼 불확실성이 여전히 큰 상황에서 내년에는 경기 침체로 인한 고통이 확산될 것이다. 그러나 역사적으로 볼 때 인프라스트럭처와 부동산 등 대체투자는 고물가와 금리 인상기에 더 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211170609221917760.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 17일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/11/32668/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
             <content:encoded><![CDATA[1. 국내 최대 재건축 사업 장으로 꼽히는 둔촌주공(올림픽 아이파크포레 온)이 이르면 다음 달 일반 분양에 나설 듯. 조합은 지난달 일반분양 가격 산정 자료를 강동구청에 제출하고 분양가 심사를 기다..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/news-p.v1.20221104.3441841de0ff4e968628bc78de2878d2.png.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 4일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32623/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32623/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[1. 미국 연방준비제도가 기준금리를 한번에 0.75%포인트 인상하는 ‘자이언트 스텝’을 단행하며 미국 기준금리 상단이 15년만에 최고치인 4.0%로 높아짐. 제롬 파월 연준 의장은 금리인상 속도 조절이 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/news-p.v1.20221103.698824486727459b9a157760a8dfc6c0.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
