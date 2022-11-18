@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 21:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 22:07:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 19일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/11/32685/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32685/</guid>
+            <pubDate>Fri, 18 Nov 2022 22:07:43 GMT</pubDate>
+            <content:encoded><![CDATA[1. 정부가 KT와 LG유플러스에게 28GHz 5G 주파수 대역을 반납하라는 ‘초강수’ 조치를 내놔. 4년 전 주파수를 처음 할당할 당시 부과한 이행조건에 크게 못 미쳤다는 이유. 정부의 주파수 할당 취소 처..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/20221119_5318554_1668765704.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 18일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/11/32669/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
             <content:encoded><![CDATA[1. 지난달 열린 국제연합(UN) 인권이사회 이후 한중 외교관계에 이상기류가 감지. 주요 20개국(G20) 정상회의를 계기로 성사될 것으로 기대됐던 한중 정상회담의 불발 가능성이 높아진 것. 유엔 인권이..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/news-p.v1.20221106.946338eadf044d149169668bb9b94bdb.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지 11월 5일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32624/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32624/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[1. 국내 최대 재건축 사업 장으로 꼽히는 둔촌주공(올림픽 아이파크포레 온)이 이르면 다음 달 일반 분양에 나설 듯. 조합은 지난달 일반분양 가격 산정 자료를 강동구청에 제출하고 분양가 심사를 기다..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/news-p.v1.20221104.3441841de0ff4e968628bc78de2878d2.png.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
