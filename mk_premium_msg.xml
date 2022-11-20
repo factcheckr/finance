@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 21:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 22:07:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월21일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/11/32686/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32686/</guid>
+            <pubDate>Sun, 20 Nov 2022 22:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[1. 넥슨이 영화 ‘어벤져스’를 연출한 할리우드의 세계적 영화 제작사 AGBO 최대주주로 등극. 한국 게임사가 세계 영화산업의 심장부에 침투한 기념비적인 사례. 20일 매일경제 취재 결과 한국 대표 게..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/20221121_5319068_1668923887.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 19일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/11/32685/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
             <content:encoded><![CDATA[1. 문재인 정부에서 단행했던 급격한 보유세 강화 정책에 올해 주택분 종합부동산세를 내야 하는 국민이 120만명으로 사상 최대를 기록할 전망. 국세청은 오는 22일 공시가격 합산액이 6억원(1가구 1주..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/20221108_5308379_1667812818.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 11월 7일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32625/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32625/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[1. 지난달 열린 국제연합(UN) 인권이사회 이후 한중 외교관계에 이상기류가 감지. 주요 20개국(G20) 정상회의를 계기로 성사될 것으로 기대됐던 한중 정상회담의 불발 가능성이 높아진 것. 유엔 인권이..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/news-p.v1.20221106.946338eadf044d149169668bb9b94bdb.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
