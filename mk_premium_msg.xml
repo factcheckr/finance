@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 21:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 22:08:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 23일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/11/32688/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32688/</guid>
+            <pubDate>Tue, 22 Nov 2022 22:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[1. 민주노총 공공운수노조 화물연대본부가 오는 24일 0시부터 또다시 총파업에 돌입. 철도노조도 다음달 2일부터 파업을 예고한 상태여서 철도를 통한 물류 수송도 어려워질 전망. 연말을 앞두고 물동량..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211220722401109972.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 22일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/11/32687/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
             <content:encoded><![CDATA[1. 채권시장 한파에 기업들이 자금난에 시달리면서 시중은행들이 은행채 발행을 중단하고 한국전력 등 공기업과 일부 금융사에 대한 대출을 크게 늘리는 것으로 나타남. 한국은행과 금융당국의 잇따른 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/20221110_5310559_1667983452.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 9일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32629/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32629/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[1. 플랫폼과 스타트업 호황, 사모펀드(PEF) 번성 등 코로나 특수를 타고 몸값이 크게 올랐던 고소득 전문직 종사자들의 스카우트 시장에 한파가 불어닥치고 있음. 신규 수요 폭발로 ‘모시기 경쟁’이 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/20221109_5309469_1667898973.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
