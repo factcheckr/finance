@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 21:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 22:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 24일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/11/32689/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32689/</guid>
+            <pubDate>Wed, 23 Nov 2022 22:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[1. 민주노총 화물연대가 24일부터 총파업에 돌입하며 명분으로 내건 ‘안전운임제’가 당초의 도입 취지를 사실상 살리지 못하고 있는 것으로 나타나. 화주들이 부담하는 화물차 운임비는 약 30% 증가했..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211230616541326136.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 23일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/11/32688/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
             <content:encoded><![CDATA[1. 몸값 3조원으로 올해 M&amp;A 시장 최대어로 꼽혀왔던 구강 스캐너 기업 메디트 인수에 나선 GS-칼라일 컨소시엄이 우선협상대상자 지위를 이례적으로 연장하지 않은 것으로 나타났음. 또 2조원 규모의 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211100622031948377.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 10일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32630/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32630/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[1. 채권시장 한파에 기업들이 자금난에 시달리면서 시중은행들이 은행채 발행을 중단하고 한국전력 등 공기업과 일부 금융사에 대한 대출을 크게 늘리는 것으로 나타남. 한국은행과 금융당국의 잇따른 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/20221110_5310559_1667983452.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
