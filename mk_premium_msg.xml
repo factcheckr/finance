@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 21:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 22:07:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 11월 25일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/11/32690/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32690/</guid>
+            <pubDate>Thu, 24 Nov 2022 22:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[1. 국내 기업이 대만에 투자해 수익을 냈을 경우 한국이나 대만 중 한 나라에만 세금을 물리도록 하는 ‘한-대만간 이중과세방지협정’이 도입될 예정. 양국 기업의 상호 투자가 대폭 늘어나는 것은 물..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211240553411719071.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 24일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/11/32689/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
             <content:encoded><![CDATA[1. 10월 미국 소비자물가지수(CPI) 상승률이 7.7%로 지난 2월 이후 처음으로 7%대를 기록. 연방준비제도가 기준금리 인상 속도조절에 나설 것이란 기대감에 달러당 원화값은 전날보다 59.1원 오른 1318...]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211110605491377314.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 11일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32636/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32636/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[1. 몸값 3조원으로 올해 M&amp;A 시장 최대어로 꼽혀왔던 구강 스캐너 기업 메디트 인수에 나선 GS-칼라일 컨소시엄이 우선협상대상자 지위를 이례적으로 연장하지 않은 것으로 나타났음. 또 2조원 규모의 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211100622031948377.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
