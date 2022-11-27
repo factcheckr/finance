@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://soonsal.com/newsletters</id>
     <title>순살브리핑 ─ 날짜별</title>
-    <updated>2022-11-27T22:07:41.830Z</updated>
+    <updated>2022-11-27T23:08:08.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20200601/b469841e49645.png</icon>
+    <entry>
+        <title type="html"><![CDATA[💻그걸 내가 왜 갚아줘야 되냐는 보험사 [11월 28일]]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13552396&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13552396&amp;t=board"/>
+        <updated>2022-11-27T23:07:40.615Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
+						</a>
+												<span class="tit_ico">
+						<i aria-hidden="true" class="icon-flag vertical-middle hidden-lg hidden-md" style="display: none !important;"></i>
+						<i aria-hidden="true" class="btl bt-lock" style="display: none"></i>
+					</span>
+												<a class="list_text_title _fade_link" href="/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13552396&amp;t=board">
+						<span>
+							💻그걸 내가 왜 갚아줘야 되냐는 보험사 [11월 28일]						</span>
+						</a>
+
+												
+																			<span class="icons"><em class="badge">N</em></span>
+												<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+						<!--						-->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔍여행가서 이거 안 써본 사람은 없을 듯 [11월 25일]]]></title>
         <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13535394&amp;t=board</id>
