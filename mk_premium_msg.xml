@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 21:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 22:07:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 11월 28일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/11/32710/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32710/</guid>
+            <pubDate>Sun, 27 Nov 2022 22:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[1. 민주노총 공공운수노동조합 화물연대의 총파업이 주말을 지나 나흘째로 접어든 가운데 전국 곳곳에서 물류 차질이 빚어지고 현장에서는 ‘셧다운’ 우려가 점차 커지고 있음. 특히 화물연대 파업으로..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211270553081955754.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 26일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/11/32709/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
             <content:encoded><![CDATA[1. 윤석열 정부가 국회에 제출한 639조원 규모의 내년도 예산안이 국회 의석 57%를 점유한 거대 야당의 벽에 가로막혀 표류. 국내외 경기 침체 조짐이 확산되고 있는 가운데 민생과 복지, SOC, 일자리와..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211140612481928496.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 11월 14일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32656/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32656/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[1. 주52시간 제도에 대한 보완 입법이 지연되면서 산업 현장 곳곳에서 기업들이 피해를 호소하고 있는 것으로 나타나. 윤석열 정부 출범 이후 근로시간 개선을 최우선 노동개혁 과제로 설정했지만 여야 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211130518261443677.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
