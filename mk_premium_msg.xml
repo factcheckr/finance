@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 21:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 22:07:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 29일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/11/32711/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32711/</guid>
+            <pubDate>Mon, 28 Nov 2022 22:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[1.화물연대 총파업이 지난 28일 닷새째로 접어들며 산업계 피해가 커지자 정부가 위기경보단계를 최고단계인 ‘심각’으로 격상했음. 정부는 29일 국무회의에서 업무개시명령 발동을 검토할 예정임. 육..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211280609171686173.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 11월 28일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/11/32710/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
             <content:encoded><![CDATA[1. 인도네시아 발리에 모인 주요 20개국(G20) 정상들이 사실상 긴축적 통화정책의 속도조절에 공감대를 형성했음. 지난 15일(현지시간) 로이터통신에 따르면 공동성명 초안에는 “G20 중앙은행들이 인플..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211150605161849386.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 15일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32662/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32662/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 정부가 국회에 제출한 639조원 규모의 내년도 예산안이 국회 의석 57%를 점유한 거대 야당의 벽에 가로막혀 표류. 국내외 경기 침체 조짐이 확산되고 있는 가운데 민생과 복지, SOC, 일자리와..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211140612481928496.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
