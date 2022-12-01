@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 21:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 22:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 2일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32714/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32714/</guid>
+            <pubDate>Thu, 01 Dec 2022 22:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[1. 올들어 4회 연속 ‘자이언트스텝’(기준금리 0.75%포인트 인상)을 밟으며 매파 본색을 드러냈던 제롬 파월 미국 연방준비제도(연준) 의장이 비둘기파로 돌변함. 파월 의장은 지난 30일(현지시간) 미..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212010611251971612.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 1일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32713/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 18 Nov 2022 22:07:43 GMT</pubDate>
             <content:encoded><![CDATA[1. 정부가 KT와 LG유플러스에게 28GHz 5G 주파수 대역을 반납하라는 ‘초강수’ 조치를 내놔. 4년 전 주파수를 처음 할당할 당시 부과한 이행조건에 크게 못 미쳤다는 이유. 정부의 주파수 할당 취소 처..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/20221119_5318554_1668765704.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 18일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32669/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32669/</guid>
-            <pubDate>Thu, 17 Nov 2022 22:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[1. “세계경제를 둘러싼 불확실성이 여전히 큰 상황에서 내년에는 경기 침체로 인한 고통이 확산될 것이다. 그러나 역사적으로 볼 때 인프라스트럭처와 부동산 등 대체투자는 고물가와 금리 인상기에 더 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211170609221917760.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
