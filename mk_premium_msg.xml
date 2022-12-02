@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 21:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 22:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 3일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32736/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32736/</guid>
+            <pubDate>Fri, 02 Dec 2022 22:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[1. 급증하던 가계대출이 올 들어 사실상 멈춰. 2일 한국은행에 따르면 은행 가계대출은 10월 말까지 0.1% 늘어. 2020년 11.5%를 기록했던 가계대출 증가율은 작년 7.3%로 둔화. 3분기 은행 가계대출 잔..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212020545431197225.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 2일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32714/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 20 Nov 2022 22:07:40 GMT</pubDate>
             <content:encoded><![CDATA[1. 넥슨이 영화 ‘어벤져스’를 연출한 할리우드의 세계적 영화 제작사 AGBO 최대주주로 등극. 한국 게임사가 세계 영화산업의 심장부에 침투한 기념비적인 사례. 20일 매일경제 취재 결과 한국 대표 게..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/20221121_5319068_1668923887.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 19일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32685/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32685/</guid>
-            <pubDate>Fri, 18 Nov 2022 22:07:43 GMT</pubDate>
-            <content:encoded><![CDATA[1. 정부가 KT와 LG유플러스에게 28GHz 5G 주파수 대역을 반납하라는 ‘초강수’ 조치를 내놔. 4년 전 주파수를 처음 할당할 당시 부과한 이행조건에 크게 못 미쳤다는 이유. 정부의 주파수 할당 취소 처..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/20221119_5318554_1668765704.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
