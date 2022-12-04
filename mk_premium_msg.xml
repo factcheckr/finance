@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 21:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 22:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 5일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32737/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32737/</guid>
+            <pubDate>Sun, 04 Dec 2022 22:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[1. 경기 전망이 불안한 가운데 ‘인적분할’을 택하는 기업들이 금융위기 때 수준으로 증가. 인적분할을 활용해 선제적 구조조정을 하거나 성장성 높은 사업을 떼어내 자금 조달에 숨통을 틔워보려는 의..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212040543441966250.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 3일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32736/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 21 Nov 2022 22:07:48 GMT</pubDate>
             <content:encoded><![CDATA[1. 1983년 지어져 준공 40년을 앞둔 서울 강남구 대치미도아파트가 최고 높이 50층, 3800가구 대규모 단지로 다시 태어나. 기존 ‘35층 제한’ 규제가 처음 폐지되면서 강남권을 중심으로 서울 도심의 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211210600531447870.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월21일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32686/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32686/</guid>
-            <pubDate>Sun, 20 Nov 2022 22:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[1. 넥슨이 영화 ‘어벤져스’를 연출한 할리우드의 세계적 영화 제작사 AGBO 최대주주로 등극. 한국 게임사가 세계 영화산업의 심장부에 침투한 기념비적인 사례. 20일 매일경제 취재 결과 한국 대표 게..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/20221121_5319068_1668923887.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
