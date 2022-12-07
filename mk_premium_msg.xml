@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 21:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 22:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 12월 8일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32750/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32750/</guid>
+            <pubDate>Wed, 07 Dec 2022 22:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[1. 정부가 원화값 안정대책의 일환으로 국민연금 해외투자 자산의 10%에 대해 환(換)헤지를 하도록 공식 요청한 것으로 확인됨. 7일 금융투자업계(IB)에 따르면 기획재정부는 최근 국민연금과 주무부처..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212070600461291928.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 7일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32747/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 24 Nov 2022 22:07:16 GMT</pubDate>
             <content:encoded><![CDATA[1. 국내 기업이 대만에 투자해 수익을 냈을 경우 한국이나 대만 중 한 나라에만 세금을 물리도록 하는 ‘한-대만간 이중과세방지협정’이 도입될 예정. 양국 기업의 상호 투자가 대폭 늘어나는 것은 물..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211240553411719071.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 24일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32689/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32689/</guid>
-            <pubDate>Wed, 23 Nov 2022 22:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[1. 민주노총 화물연대가 24일부터 총파업에 돌입하며 명분으로 내건 ‘안전운임제’가 당초의 도입 취지를 사실상 살리지 못하고 있는 것으로 나타나. 화주들이 부담하는 화물차 운임비는 약 30% 증가했..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211230616541326136.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
