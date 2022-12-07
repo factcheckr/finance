@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 21:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 02:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 7일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32747/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32747/</guid>
+            <pubDate>Wed, 07 Dec 2022 02:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[1. 민주노총이 6일 총파업을 강행하고 나선 가운데 현대중공업과 대우조선해양 노조가 파업 대열해서 이탈했음. 이들 노조는 민주노총이 경제를 볼모로 벌인 정치파업에 동참하는 대신 자체적인 판단 하..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212060606531219549.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 12월 6일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32742/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 23 Nov 2022 22:07:26 GMT</pubDate>
             <content:encoded><![CDATA[1. 민주노총 화물연대가 24일부터 총파업에 돌입하며 명분으로 내건 ‘안전운임제’가 당초의 도입 취지를 사실상 살리지 못하고 있는 것으로 나타나. 화주들이 부담하는 화물차 운임비는 약 30% 증가했..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211230616541326136.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 23일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32688/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32688/</guid>
-            <pubDate>Tue, 22 Nov 2022 22:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[1. 민주노총 공공운수노조 화물연대본부가 오는 24일 0시부터 또다시 총파업에 돌입. 철도노조도 다음달 2일부터 파업을 예고한 상태여서 철도를 통한 물류 수송도 어려워질 전망. 연말을 앞두고 물동량..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211220722401109972.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
