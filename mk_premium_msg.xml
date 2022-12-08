@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 21:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 22:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 9일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32751/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32751/</guid>
+            <pubDate>Thu, 08 Dec 2022 22:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[1. 여야가 종합부동산세 기본공제 금액을 공시가 9억원으로, 1가구 1주택자는 12억원으로 각각 상향 조정하는 데 합의함. 2주택자는 조정대상지역 주택을 보유하고 있더라도 중과세율이 아닌 기본세율을..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212080601451425715.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 12월 8일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32750/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 25 Nov 2022 22:07:20 GMT</pubDate>
             <content:encoded><![CDATA[1. 국내 기업들의 부채 규모가 주요국 가운데 네번째로 높은 수준이라는 분석 결과가 나왔음. 기업의 재무건전성이 국내 경제의 새로운 위기 뇌관이 될 우려. 국제금융협회(IIF)의 세계부채 데이터에 따..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211250605301158027.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 11월 25일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32690/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32690/</guid>
-            <pubDate>Thu, 24 Nov 2022 22:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[1. 국내 기업이 대만에 투자해 수익을 냈을 경우 한국이나 대만 중 한 나라에만 세금을 물리도록 하는 ‘한-대만간 이중과세방지협정’이 도입될 예정. 양국 기업의 상호 투자가 대폭 늘어나는 것은 물..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211240553411719071.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
