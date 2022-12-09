@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 21:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 22:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 10일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32770/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32770/</guid>
+            <pubDate>Fri, 09 Dec 2022 22:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[1. 각종 대출금리가 연 7%대까지 치솟은 가운데 우리은행이 9일 전세자금 대출금리를 최대 0.85%포인트 내려. 금융당국이 최근 금융사의 대출금리를 모니터링 하면서 금리 인상 자제 신호를 보냈는데, ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212090655331522477.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 9일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32751/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 27 Nov 2022 22:07:29 GMT</pubDate>
             <content:encoded><![CDATA[1. 민주노총 공공운수노동조합 화물연대의 총파업이 주말을 지나 나흘째로 접어든 가운데 전국 곳곳에서 물류 차질이 빚어지고 현장에서는 ‘셧다운’ 우려가 점차 커지고 있음. 특히 화물연대 파업으로..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211270553081955754.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 26일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32709/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32709/</guid>
-            <pubDate>Fri, 25 Nov 2022 22:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[1. 국내 기업들의 부채 규모가 주요국 가운데 네번째로 높은 수준이라는 분석 결과가 나왔음. 기업의 재무건전성이 국내 경제의 새로운 위기 뇌관이 될 우려. 국제금융협회(IIF)의 세계부채 데이터에 따..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211250605301158027.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
