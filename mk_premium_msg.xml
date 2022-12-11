@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 21:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 22:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월12일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32771/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32771/</guid>
+            <pubDate>Sun, 11 Dec 2022 22:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[1. 대만과 한국에서 근무하는 구글 엔지니어 규모는 무려 10배 차이. 구글타이완, 구글코리아 소속 엔지니어는 각각 2000여명, 200여명. 글로벌 빅테크 선두주자인 구글이 한국보다 대만에 더 많은 엔지..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/20221212_5335793_1670735377.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 10일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32770/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 28 Nov 2022 22:07:38 GMT</pubDate>
             <content:encoded><![CDATA[1.한국 축구대표팀이 28일 2022 국제축구연맹(FIFA) 카타르 월드컵 2차전에서 가나에 2-3 석패를 기록해 16강 진출에 ‘빨간불’이 켜짐. 한국은 이날 패배로 1무1패를 기록해 H조 최하위로 내려앉음. 1..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211280609171686173.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 11월 28일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32710/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32710/</guid>
-            <pubDate>Sun, 27 Nov 2022 22:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[1. 민주노총 공공운수노동조합 화물연대의 총파업이 주말을 지나 나흘째로 접어든 가운데 전국 곳곳에서 물류 차질이 빚어지고 현장에서는 ‘셧다운’ 우려가 점차 커지고 있음. 특히 화물연대 파업으로..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211270553081955754.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
