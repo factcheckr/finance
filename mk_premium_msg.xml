@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 21:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 22:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 13일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32773/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32773/</guid>
+            <pubDate>Mon, 12 Dec 2022 22:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[1. 주 52시간 제도의 부작용 때문에 경영상 고통을 호소하는 중소 영세기업이 갈수록 늘어나고 있음. 지난해 7월부터 5~29인 사업장을 대상으로 허용했던 주 8시간 추가 연장 근로제는 이달 말 일몰이 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212120605041562636.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월12일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32771/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 29 Nov 2022 22:07:52 GMT</pubDate>
             <content:encoded><![CDATA[1. 한국 경제의 버팀목인 반도체 산업이 ‘사면초갗 위기에 내몰림. 반도체 산업을 재건하려는 미국, 다시 반도체 맹주를 되찾기 위해 각성한 일본, 국가와 기업이 혼연일체로 움직이는 대만, ‘반도체 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211290554171179545.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 29일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32711/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32711/</guid>
-            <pubDate>Mon, 28 Nov 2022 22:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[1.한국 축구대표팀이 28일 2022 국제축구연맹(FIFA) 카타르 월드컵 2차전에서 가나에 2-3 석패를 기록해 16강 진출에 ‘빨간불’이 켜짐. 한국은 이날 패배로 1무1패를 기록해 H조 최하위로 내려앉음. 1..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211280609171686173.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
