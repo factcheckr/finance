@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 21:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 22:07:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 14일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32774/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32774/</guid>
+            <pubDate>Tue, 13 Dec 2022 22:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[1. 1년 뒤 물가를 가늠하는 미국 기대인플레이션율이 5.2%를 기록하며 1년 3개월 만에 최저치를 기록. 물가 통제를 지상 과제로 삼은 미국 연준의 고강고 긴축이 효과를 보면서 물가가 정점을 찍었다는 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212130557381790943.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 13일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32773/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 30 Nov 2022 22:07:58 GMT</pubDate>
             <content:encoded><![CDATA[1. 금융당국이 국내 모든 금융권을 대상으로 대출금리를 상세히 모니터링하기로 함. 사실상 시장 개입에 나서 최근 비정상적으로 치솟은 대출금리를 정상화하겠다는 방침. 30일 금융위 고위 관계자는 “..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202211300608151677479.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 11월 30일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/11/32712/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/11/32712/</guid>
-            <pubDate>Tue, 29 Nov 2022 22:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[1. 한국 경제의 버팀목인 반도체 산업이 ‘사면초갗 위기에 내몰림. 반도체 산업을 재건하려는 미국, 다시 반도체 맹주를 되찾기 위해 각성한 일본, 국가와 기업이 혼연일체로 움직이는 대만, ‘반도체 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/11/202211290554171179545.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
