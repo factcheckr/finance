@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 21:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 22:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 15일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32775/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32775/</guid>
+            <pubDate>Wed, 14 Dec 2022 22:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 한국전력이 40조원대 규모 원자력발전 사업을 수출하기 위해  튀르키예(터키) 정부와 논의 중인 것으로 파악됨. 양측은 내년부터 공동으로 사업타당성 조사에 착수할 계획. 사실상 튀르키예 원전 수..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212140549421123363.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 14일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32774/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 01 Dec 2022 22:07:29 GMT</pubDate>
             <content:encoded><![CDATA[1. 올들어 4회 연속 ‘자이언트스텝’(기준금리 0.75%포인트 인상)을 밟으며 매파 본색을 드러냈던 제롬 파월 미국 연방준비제도(연준) 의장이 비둘기파로 돌변함. 파월 의장은 지난 30일(현지시간) 미..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212010611251971612.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 1일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32713/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32713/</guid>
-            <pubDate>Wed, 30 Nov 2022 22:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[1. 금융당국이 국내 모든 금융권을 대상으로 대출금리를 상세히 모니터링하기로 함. 사실상 시장 개입에 나서 최근 비정상적으로 치솟은 대출금리를 정상화하겠다는 방침. 30일 금융위 고위 관계자는 “..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202211300608151677479.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
