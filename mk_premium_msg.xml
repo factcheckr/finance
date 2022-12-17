@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 09:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 11:07:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 17일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32793/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32793/</guid>
+            <pubDate>Sat, 17 Dec 2022 11:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[1. 분양 시장에서 ‘청약통장 무용론’이 확산되고 있음. 지방부터 미분양이 급증하더니 급기야 서울 알짜 분양단지도 당첨 가점이 급락하고 있음. 한국부동산원 청약홈에 따르면 16일 발표된 성북구 장..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212160626001434815.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 16일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32776/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 04 Dec 2022 22:08:36 GMT</pubDate>
             <content:encoded><![CDATA[1. 경기 전망이 불안한 가운데 ‘인적분할’을 택하는 기업들이 금융위기 때 수준으로 증가. 인적분할을 활용해 선제적 구조조정을 하거나 성장성 높은 사업을 떼어내 자금 조달에 숨통을 틔워보려는 의..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212040543441966250.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 3일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32736/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32736/</guid>
-            <pubDate>Fri, 02 Dec 2022 22:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[1. 급증하던 가계대출이 올 들어 사실상 멈춰. 2일 한국은행에 따르면 은행 가계대출은 10월 말까지 0.1% 늘어. 2020년 11.5%를 기록했던 가계대출 증가율은 작년 7.3%로 둔화. 3분기 은행 가계대출 잔..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212020545431197225.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
