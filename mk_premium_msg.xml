@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 21:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 22:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 19일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32794/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32794/</guid>
+            <pubDate>Sun, 18 Dec 2022 22:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[1. 금융·산업계에서 인력 감축 분위기가 확산되는 가운데 유통업계까지 희망퇴직을 실시하는 등 업종과 규모를 가리지 않고 감원 칼바람이 불어닥치고 있음. 롯데면세점은 지난 14일부터 창사 이래 첫 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212180546191618471.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 17일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32793/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 05 Dec 2022 22:07:40 GMT</pubDate>
             <content:encoded><![CDATA[1. 한국동서발전이 세계 최대 에너지 기업인 ‘프랑스전력공사(EDF)’, UAE의 에너지국영회사 ‘마스다르’와 손잡고 사우디아라비아 아말라 지역 일대의 신재생에너지 설비 건설 사업 입찰에 나섰음. ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212050546261761174.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 5일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32737/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32737/</guid>
-            <pubDate>Sun, 04 Dec 2022 22:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[1. 경기 전망이 불안한 가운데 ‘인적분할’을 택하는 기업들이 금융위기 때 수준으로 증가. 인적분할을 활용해 선제적 구조조정을 하거나 성장성 높은 사업을 떼어내 자금 조달에 숨통을 틔워보려는 의..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212040543441966250.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
