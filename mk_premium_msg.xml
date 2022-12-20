@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 21:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 22:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 21일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32801/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32801/</guid>
+            <pubDate>Tue, 20 Dec 2022 22:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[1. 치솟던 대출 금리가 19개월여만에 하락세로 돌아서. 금융당국이 가계 이자 부담이 커지지 않도록 은행권에 수신금리 인상 자제를 요구한데 이어 대출 금리 전수 조사까지 나서자, 시중은행들이 신규 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212200540231626805.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 20일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32796/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 07 Dec 2022 22:09:01 GMT</pubDate>
             <content:encoded><![CDATA[1. 정부가 원화값 안정대책의 일환으로 국민연금 해외투자 자산의 10%에 대해 환(換)헤지를 하도록 공식 요청한 것으로 확인됨. 7일 금융투자업계(IB)에 따르면 기획재정부는 최근 국민연금과 주무부처..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212070600461291928.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 7일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32747/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32747/</guid>
-            <pubDate>Wed, 07 Dec 2022 02:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[1. 민주노총이 6일 총파업을 강행하고 나선 가운데 현대중공업과 대우조선해양 노조가 파업 대열해서 이탈했음. 이들 노조는 민주노총이 경제를 볼모로 벌인 정치파업에 동참하는 대신 자체적인 판단 하..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212060606531219549.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
