@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 20:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 22:07:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 22일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32804/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32804/</guid>
+            <pubDate>Wed, 21 Dec 2022 22:06:54 GMT</pubDate>
+            <content:encoded><![CDATA[1. 정부는 21일 ‘2023년 경제정책 방향’을 발표하고 규제 지역 추가 해제를 예고하며 경기 연착륙 시도. 서울과 경기 과천·성남 등 규제지역에서 원천적으로 금지했던 다주택자 관련 주 담대(LTV) 비..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212210543381797967.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 21일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32801/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 08 Dec 2022 22:09:05 GMT</pubDate>
             <content:encoded><![CDATA[1. 여야가 종합부동산세 기본공제 금액을 공시가 9억원으로, 1가구 1주택자는 12억원으로 각각 상향 조정하는 데 합의함. 2주택자는 조정대상지역 주택을 보유하고 있더라도 중과세율이 아닌 기본세율을..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212080601451425715.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 12월 8일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32750/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32750/</guid>
-            <pubDate>Wed, 07 Dec 2022 22:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[1. 정부가 원화값 안정대책의 일환으로 국민연금 해외투자 자산의 10%에 대해 환(換)헤지를 하도록 공식 요청한 것으로 확인됨. 7일 금융투자업계(IB)에 따르면 기획재정부는 최근 국민연금과 주무부처..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212070600461291928.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
