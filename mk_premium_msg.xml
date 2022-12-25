@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 21:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 22:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월26일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32826/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32826/</guid>
+            <pubDate>Sun, 25 Dec 2022 22:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[1.‘친노동’을 표방했던 문재인 정부 5년을 거치면서 노동조합에 가입한 인원이 100만명 가까이 증가한 것으로 나타남. 노조 조직률도 2020년 14.2%를 기록한 데 이어 2021년도 같은 수치를 기록하며 1..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/20221226_5346764_1671945271.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 12월 24일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32825/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 12 Dec 2022 22:07:40 GMT</pubDate>
             <content:encoded><![CDATA[1. 주 52시간 제도의 부작용 때문에 경영상 고통을 호소하는 중소 영세기업이 갈수록 늘어나고 있음. 지난해 7월부터 5~29인 사업장을 대상으로 허용했던 주 8시간 추가 연장 근로제는 이달 말 일몰이 닥..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212120605041562636.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월12일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32771/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32771/</guid>
-            <pubDate>Sun, 11 Dec 2022 22:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[1. 대만과 한국에서 근무하는 구글 엔지니어 규모는 무려 10배 차이. 구글타이완, 구글코리아 소속 엔지니어는 각각 2000여명, 200여명. 글로벌 빅테크 선두주자인 구글이 한국보다 대만에 더 많은 엔지..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/20221212_5335793_1670735377.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
