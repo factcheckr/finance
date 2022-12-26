@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 21:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 22:06:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 27일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32827/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32827/</guid>
+            <pubDate>Mon, 26 Dec 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[1. 북한 무인기가 2017년 이후 처음으로 한국 영공을 침범해 군이 대응에 나섬. 합동참모본부에 따르면 26일 오전 10시 25분께부터 경기도 일대에서 북한 무인기로 추정되는 미상 항적, 수 개 포착. 무..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212260556211418907.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월26일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32826/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 13 Dec 2022 22:07:23 GMT</pubDate>
             <content:encoded><![CDATA[1. 미국의 11월 소비자물가지수(CPI) 상승률이 7.1%를 기록하며 5개월 연속 둔화됨. 예상치 7.3%를 밑돌면서 오는 14일(현지시간) 미국 연방준비제도의 기준금리 인상 속도조절론이 더욱 힘을 받을 것으..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212130557381790943.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 13일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32773/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32773/</guid>
-            <pubDate>Mon, 12 Dec 2022 22:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[1. 주 52시간 제도의 부작용 때문에 경영상 고통을 호소하는 중소 영세기업이 갈수록 늘어나고 있음. 지난해 7월부터 5~29인 사업장을 대상으로 허용했던 주 8시간 추가 연장 근로제는 이달 말 일몰이 닥..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212120605041562636.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
