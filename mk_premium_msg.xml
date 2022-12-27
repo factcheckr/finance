@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 21:06:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 22:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 28일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32830/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32830/</guid>
+            <pubDate>Tue, 27 Dec 2022 22:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[1. 코로나19 발병 이후 빗장을 걸어잠궜던 중국이 입국자에 대한 시설격리를 폐지하는 등 봉쇄 조치를 대폭 완화했음. 제로코로나 정책 폐지를 공식화한지 19일 만에 나온 후속 조치이자 2020년 초 코로..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212270548281561421.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 27일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32827/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 14 Dec 2022 22:08:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 한국전력이 40조원대 규모 원자력발전 사업을 수출하기 위해  튀르키예(터키) 정부와 논의 중인 것으로 파악됨. 양측은 내년부터 공동으로 사업타당성 조사에 착수할 계획. 사실상 튀르키예 원전 수..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212140549421123363.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 14일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32774/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32774/</guid>
-            <pubDate>Tue, 13 Dec 2022 22:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[1. 미국의 11월 소비자물가지수(CPI) 상승률이 7.1%를 기록하며 5개월 연속 둔화됨. 예상치 7.3%를 밑돌면서 오는 14일(현지시간) 미국 연방준비제도의 기준금리 인상 속도조절론이 더욱 힘을 받을 것으..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212130557381790943.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
