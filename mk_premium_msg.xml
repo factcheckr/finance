@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 21:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 22:06:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 29일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32834/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32834/</guid>
+            <pubDate>Wed, 28 Dec 2022 22:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[1. 여야가 오는 31일 일몰을 앞둔 주 8시간 추가연장근로제(30인 미만 사업장 적용)와 건강보험재정 국고지원 연장에 합의하지 못하면서 영세 소상공인들과 건보재정에 초비상이 걸려. 28일 오후 국회는..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212280540401412521.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 28일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32830/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 16 Dec 2022 00:33:36 GMT</pubDate>
             <content:encoded><![CDATA[1.더불어민주당이 15일 법인세 최고세율을 1%포인트 인하하는 중재안을 수용하겠다고 밝히며 새해 예산안이 사실상 타결됨. 이날 오전 김진표 국회의장은 양당 원내대표와 만나 현행 법인세 최고세율 25..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212160901441123806.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 15일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32775/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32775/</guid>
-            <pubDate>Wed, 14 Dec 2022 22:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 한국전력이 40조원대 규모 원자력발전 사업을 수출하기 위해  튀르키예(터키) 정부와 논의 중인 것으로 파악됨. 양측은 내년부터 공동으로 사업타당성 조사에 착수할 계획. 사실상 튀르키예 원전 수..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212140549421123363.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
