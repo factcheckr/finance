@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 21:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 22:06:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 31일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2022/12/32853/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32853/</guid>
+            <pubDate>Fri, 30 Dec 2022 22:06:01 GMT</pubDate>
+            <content:encoded><![CDATA[1.내년 1분기 전기요금이 4인 가구 기준 월평균 4000원 인상되며 1981년 2차 ‘오일쇼크’ 이후 최대 인상폭을 기록하게 됐음. 30일 산업통상자원부와 한국전력은 내년 1분기 전기요금을 킬로와트시(㎾h..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212300625161625719.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 30일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32835/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 18 Dec 2022 22:08:06 GMT</pubDate>
             <content:encoded><![CDATA[1. 금융·산업계에서 인력 감축 분위기가 확산되는 가운데 유통업계까지 희망퇴직을 실시하는 등 업종과 규모를 가리지 않고 감원 칼바람이 불어닥치고 있음. 롯데면세점은 지난 14일부터 창사 이래 첫 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212180546191618471.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 17일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32793/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32793/</guid>
-            <pubDate>Sat, 17 Dec 2022 11:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[1. 분양 시장에서 ‘청약통장 무용론’이 확산되고 있음. 지방부터 미분양이 급증하더니 급기야 서울 알짜 분양단지도 당첨 가점이 급락하고 있음. 한국부동산원 청약홈에 따르면 16일 발표된 성북구 장..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212160626001434815.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
