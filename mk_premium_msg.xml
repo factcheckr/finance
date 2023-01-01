@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 21:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 22:06:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 2일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32854/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32854/</guid>
+            <pubDate>Sun, 01 Jan 2023 22:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[1. 코로나 팬데믹과 지정학적 갈등이 낳은 전대미문의 복합 위기로 전세계가 신음하는 가운데 2023년 새해는 대한민국이 G5(Group of Five) 경제강국에 진입하느냐를 판가를 할 수 있는 분기점이 될 것..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301010544411964774.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 31일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2022/12/32853/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 19 Dec 2022 22:07:56 GMT</pubDate>
             <content:encoded><![CDATA[1. 케네스 로고프 하버드대 석좌교수가 매일경제 주최 ‘경제위기 극복 대토론회’에서 “중국의 성장률은 지난 10년보다 훨씬 낮아질 것”이라며 “미국과 유럽은 더 이상 중국에 투자하지 않는다. 완..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212190553161550482.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 19일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32794/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32794/</guid>
-            <pubDate>Sun, 18 Dec 2022 22:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[1. 금융·산업계에서 인력 감축 분위기가 확산되는 가운데 유통업계까지 희망퇴직을 실시하는 등 업종과 규모를 가리지 않고 감원 칼바람이 불어닥치고 있음. 롯데면세점은 지난 14일부터 창사 이래 첫 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212180546191618471.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
