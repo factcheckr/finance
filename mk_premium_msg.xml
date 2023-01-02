@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 21:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 22:06:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 3일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32856/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32856/</guid>
+            <pubDate>Mon, 02 Jan 2023 22:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[1. 한국이 계묘년 신년을 5대 선진국(G5)으로 발돋움하는 원년으로 삼기 위해서는 경제 환경에 걸맞지 않은 낡은 세제부터 뜯어고쳐야 한다는 목소리가 커지고 있음. 국내외 경제 환경, 기업 경영은 촌..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301020559271262018.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 2일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32854/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 20 Dec 2022 22:08:44 GMT</pubDate>
             <content:encoded><![CDATA[1. 치솟던 대출 금리가 19개월여만에 하락세로 돌아서. 금융당국이 가계 이자 부담이 커지지 않도록 은행권에 수신금리 인상 자제를 요구한데 이어 대출 금리 전수 조사까지 나서자, 시중은행들이 신규 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212200540231626805.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 20일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32796/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32796/</guid>
-            <pubDate>Mon, 19 Dec 2022 22:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[1. 케네스 로고프 하버드대 석좌교수가 매일경제 주최 ‘경제위기 극복 대토론회’에서 “중국의 성장률은 지난 10년보다 훨씬 낮아질 것”이라며 “미국과 유럽은 더 이상 중국에 투자하지 않는다. 완..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212190553161550482.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
