@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 21:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 23:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 4일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32858/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32858/</guid>
+            <pubDate>Tue, 03 Jan 2023 23:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[1.정부가 미분양이 쌓여 가는 부동산 시장에 숨통을 틔우기 위해 전매제한과 실거주의무 규제를 없애기로 함. 3일 국토교통부는 대통령 업무보고에서 부동산 미분양 대책을 발표함. 아울러 서울 강남3구..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301030600161032362.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 3일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32856/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 21 Dec 2022 22:06:54 GMT</pubDate>
             <content:encoded><![CDATA[1. 정부는 21일 ‘2023년 경제정책 방향’을 발표하고 규제 지역 추가 해제를 예고하며 경기 연착륙 시도. 서울과 경기 과천·성남 등 규제지역에서 원천적으로 금지했던 다주택자 관련 주 담대(LTV) 비..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212210543381797967.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 21일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32801/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32801/</guid>
-            <pubDate>Tue, 20 Dec 2022 22:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[1. 치솟던 대출 금리가 19개월여만에 하락세로 돌아서. 금융당국이 가계 이자 부담이 커지지 않도록 은행권에 수신금리 인상 자제를 요구한데 이어 대출 금리 전수 조사까지 나서자, 시중은행들이 신규 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212200540231626805.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
