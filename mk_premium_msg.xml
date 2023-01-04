@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 21:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 22:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월 5일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32861/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32861/</guid>
+            <pubDate>Wed, 04 Jan 2023 22:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 대통령이 “북한이 다시 우리 영토를 침범하는 도발을 일으키면 9·19 군사합의 효력정지를 검토하라”고 4일 국가안보실에 지시. 도발을 지속하고 있는 북한이 무인기까지 투입해 영공을 침..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301040602281645630.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 4일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32858/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 22 Dec 2022 22:06:57 GMT</pubDate>
             <content:encoded><![CDATA[1. 정부가 외국인 근로자 쿼터를 올해 6만9000명에서 내년 11만명으로 대폭 확대하는 동시에 허가 업종을 서비스업 분야로 대폭 확대하는 방안을 추진하기로. 산업 현장에서의 인력난이 심해지고 있는 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212220604391273394.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 22일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32804/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32804/</guid>
-            <pubDate>Wed, 21 Dec 2022 22:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[1. 정부는 21일 ‘2023년 경제정책 방향’을 발표하고 규제 지역 추가 해제를 예고하며 경기 연착륙 시도. 서울과 경기 과천·성남 등 규제지역에서 원천적으로 금지했던 다주택자 관련 주 담대(LTV) 비..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212210543381797967.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
