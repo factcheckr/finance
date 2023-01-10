@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 21:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 23:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 11일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32891/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32891/</guid>
+            <pubDate>Tue, 10 Jan 2023 23:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[1. 중국이 중국발 입국자 방역 강화에 대한 첫 보복 조치로 한국 국민에 대한 중국행 단기비자 발급을 전면 중단. 또 한국에 이어 일본에 대해서도 신규비자 발급 중단 조치를 내리는 등 전방위적 ‘보..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301100548421087366.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 10일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32889/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 28 Dec 2022 22:06:48 GMT</pubDate>
             <content:encoded><![CDATA[1. 여야가 오는 31일 일몰을 앞둔 주 8시간 추가연장근로제(30인 미만 사업장 적용)와 건강보험재정 국고지원 연장에 합의하지 못하면서 영세 소상공인들과 건보재정에 초비상이 걸려. 28일 오후 국회는..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212280540401412521.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 28일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32830/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32830/</guid>
-            <pubDate>Tue, 27 Dec 2022 22:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[1. 코로나19 발병 이후 빗장을 걸어잠궜던 중국이 입국자에 대한 시설격리를 폐지하는 등 봉쇄 조치를 대폭 완화했음. 제로코로나 정책 폐지를 공식화한지 19일 만에 나온 후속 조치이자 2020년 초 코로..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212270548281561421.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
