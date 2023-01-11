@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 21:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 22:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 12일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32892/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32892/</guid>
+            <pubDate>Wed, 11 Jan 2023 22:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[1. 국책연구원인 한국보건사회연구원이 국민연금 재정 안정 달성을 위해 보험료율을 1~10년 동안 최소 21.33%까지 올려야 한다고 제안함. 현재 보험료율은 9%임. 현 제도 하에선 국민연금 기금 2057년 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301110600451080010.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 11일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32891/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 29 Dec 2022 22:06:24 GMT</pubDate>
             <content:encoded><![CDATA[1. 서울특별시를 비롯한 전국 지방자치단체들이 줄줄이 대중교통 요금 인상에 나서. 내년 초까지 물가상승률이 5%대 고공행진을 할 것으로 전망되는 가운데 공공요금 인상이 물가를 더 끌어올릴 수 있다..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212290600121407086.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 29일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32834/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32834/</guid>
-            <pubDate>Wed, 28 Dec 2022 22:06:48 GMT</pubDate>
-            <content:encoded><![CDATA[1. 여야가 오는 31일 일몰을 앞둔 주 8시간 추가연장근로제(30인 미만 사업장 적용)와 건강보험재정 국고지원 연장에 합의하지 못하면서 영세 소상공인들과 건보재정에 초비상이 걸려. 28일 오후 국회는..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212280540401412521.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
