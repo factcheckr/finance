@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 18:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 22:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 13일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32896/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32896/</guid>
+            <pubDate>Thu, 12 Jan 2023 22:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[1. 유기발광다이오드(OLED)와 마이크로LED, 퀀텀닷OLED(QD-OLED) 등 한국 기업들이 세계 시장을 선도하고 있는 첨단 디스플레이 설계·제조 기술이 ‘국가전략기술’로 지정됨. 친환경 에너지로 각광받..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301120543381450356.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 12일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32892/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 30 Dec 2022 22:06:01 GMT</pubDate>
             <content:encoded><![CDATA[1.내년 1분기 전기요금이 4인 가구 기준 월평균 4000원 인상되며 1981년 2차 ‘오일쇼크’ 이후 최대 인상폭을 기록하게 됐음. 30일 산업통상자원부와 한국전력은 내년 1분기 전기요금을 킬로와트시(㎾h..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212300625161625719.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 30일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32835/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32835/</guid>
-            <pubDate>Thu, 29 Dec 2022 22:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[1. 서울특별시를 비롯한 전국 지방자치단체들이 줄줄이 대중교통 요금 인상에 나서. 내년 초까지 물가상승률이 5%대 고공행진을 할 것으로 전망되는 가운데 공공요금 인상이 물가를 더 끌어올릴 수 있다..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212290600121407086.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
