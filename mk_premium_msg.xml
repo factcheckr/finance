@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 21:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 22:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 14일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32919/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32919/</guid>
+            <pubDate>Fri, 13 Jan 2023 22:04:43 GMT</pubDate>
+            <content:encoded><![CDATA[1. 중국의 작년 12월 수출액은 3060억8000만달러(약 380조원)로 전년 동월 대비 9.9% 줄은 것으로 나타나. 이는 코로나19 팬데믹이 시작됐던 2020년 1∼2월(-17.2%) 이후 최악의 성적표. 경제성장의 핵..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301130826541828378.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 13일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32896/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 01 Jan 2023 22:06:13 GMT</pubDate>
             <content:encoded><![CDATA[1. 코로나 팬데믹과 지정학적 갈등이 낳은 전대미문의 복합 위기로 전세계가 신음하는 가운데 2023년 새해는 대한민국이 G5(Group of Five) 경제강국에 진입하느냐를 판가를 할 수 있는 분기점이 될 것..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301010544411964774.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 12월 31일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2022/12/32853/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2022/12/32853/</guid>
-            <pubDate>Fri, 30 Dec 2022 22:06:01 GMT</pubDate>
-            <content:encoded><![CDATA[1.내년 1분기 전기요금이 4인 가구 기준 월평균 4000원 인상되며 1981년 2차 ‘오일쇼크’ 이후 최대 인상폭을 기록하게 됐음. 30일 산업통상자원부와 한국전력은 내년 1분기 전기요금을 킬로와트시(㎾h..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2022/12/202212300625161625719.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
