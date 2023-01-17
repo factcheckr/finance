@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 21:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 22:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 18일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32924/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32924/</guid>
+            <pubDate>Tue, 17 Jan 2023 22:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[1. 세계 경제의 중심축을 담당하고 있는 중국 경제성장률이 지난해 3.0%를 기록하는 데 그침. 코로나19 팬데믹 초기인 2020년 2.2%를 기록했던 것을 제외하면 1976년 이후 46년 만에 가장 낮은 성장률. ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301170550291238098.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월17일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32922/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 04 Jan 2023 22:07:39 GMT</pubDate>
             <content:encoded><![CDATA[1. 윤석열 대통령이 “북한이 다시 우리 영토를 침범하는 도발을 일으키면 9·19 군사합의 효력정지를 검토하라”고 4일 국가안보실에 지시. 도발을 지속하고 있는 북한이 무인기까지 투입해 영공을 침..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301040602281645630.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 4일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32858/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32858/</guid>
-            <pubDate>Tue, 03 Jan 2023 23:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[1.정부가 미분양이 쌓여 가는 부동산 시장에 숨통을 틔우기 위해 전매제한과 실거주의무 규제를 없애기로 함. 3일 국토교통부는 대통령 업무보고에서 부동산 미분양 대책을 발표함. 아울러 서울 강남3구..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301030600161032362.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
