@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 23:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 00:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월17일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32922/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32922/</guid>
+            <pubDate>Tue, 17 Jan 2023 00:37:02 GMT</pubDate>
+            <content:encoded><![CDATA[1. 53회 세계경제포럼(WEF·다보스포럼) 연차총회가 16일(현지시간) 스위스의 시골마을 다보스에서 열림. 코로나 팬데믹 이후 3년 만에 오프라인으로 재개된 이번 포럼에는 52개국 정상급 인사를 비롯해..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301160608481367432.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 16일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32920/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 03 Jan 2023 23:07:38 GMT</pubDate>
             <content:encoded><![CDATA[1.정부가 미분양이 쌓여 가는 부동산 시장에 숨통을 틔우기 위해 전매제한과 실거주의무 규제를 없애기로 함. 3일 국토교통부는 대통령 업무보고에서 부동산 미분양 대책을 발표함. 아울러 서울 강남3구..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301030600161032362.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 3일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32856/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32856/</guid>
-            <pubDate>Mon, 02 Jan 2023 22:06:31 GMT</pubDate>
-            <content:encoded><![CDATA[1. 한국이 계묘년 신년을 5대 선진국(G5)으로 발돋움하는 원년으로 삼기 위해서는 경제 환경에 걸맞지 않은 낡은 세제부터 뜯어고쳐야 한다는 목소리가 커지고 있음. 국내외 경제 환경, 기업 경영은 촌..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301020559271262018.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
