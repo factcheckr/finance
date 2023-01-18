@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://soonsal.com/newsletters</id>
     <title>순살브리핑 ─ 날짜별</title>
-    <updated>2023-01-17T23:08:44.684Z</updated>
+    <updated>2023-01-18T02:16:05.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20200601/b469841e49645.png</icon>
+    <entry>
+        <title type="html"><![CDATA[📲짤방으로 돈 버는 방법 [1월 18일]]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13949545&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13949545&amp;t=board"/>
+        <updated>2023-01-18T02:15:39.254Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
+							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
+						</a>
+												<span class="tit_ico">
+						<i aria-hidden="true" class="icon-flag vertical-middle hidden-lg hidden-md" style="display: none !important;"></i>
+						<i aria-hidden="true" class="btl bt-lock" style="display: none"></i>
+					</span>
+												<a class="list_text_title _fade_link" href="/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13949545&amp;t=board">
+						<span>
+							📲짤방으로 돈 버는 방법 [1월 18일]						</span>
+						</a>
+
+												
+																			<span class="icons"><em class="badge">N</em></span>
+												<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+						<!--						-->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💰‘페트로 달러’는 가고 ‘페트로 위안’의 시대가 온다? [1월 17일]]]></title>
         <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=13941784&amp;t=board</id>
