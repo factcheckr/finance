@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 21:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 22:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 19일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32927/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32927/</guid>
+            <pubDate>Wed, 18 Jan 2023 22:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[1. 전 세계 정칟경제계 리더들이 참석한 세계경제포럼에서 올해 세계 경제에 대한 조심스런 낙관론이 고개를 들어. 지난해 러시아의 우크라이나 침공과 미국 연방준비제도(Fed)의 공격적 금리 인상 등으..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301180553471015194.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 18일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32924/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 05 Jan 2023 22:08:57 GMT</pubDate>
             <content:encoded><![CDATA[1. 해외진출 기업의 국내 복귀(리쇼어링)를 촉진하는 이른바 ‘유턴법’이 시행된 지 올해로 10년째를 맞았지만 그동안 유턴기업은 126개에 그친 것으로 나타남. 같은 기간 한국 기업들이 해외에 설립한..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301050606521978017.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월 5일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32861/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32861/</guid>
-            <pubDate>Wed, 04 Jan 2023 22:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 대통령이 “북한이 다시 우리 영토를 침범하는 도발을 일으키면 9·19 군사합의 효력정지를 검토하라”고 4일 국가안보실에 지시. 도발을 지속하고 있는 북한이 무인기까지 투입해 영공을 침..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301040602281645630.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
