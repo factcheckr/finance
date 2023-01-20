@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 21:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 22:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월21일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32952/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32952/</guid>
+            <pubDate>Fri, 20 Jan 2023 22:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[1. 치솟던 물가가 ‘피크아웃(정점 통과)’ 경로에 들어서고 살얼음판을 걷던 자금시장이 안정을 되찾으면서 한국의 긴축 기조도 분기점을 맞고 있음. 한국은행의 7연속 기준금리 인상 이후 ‘금리 정점..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301200650281399850.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 20일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32928/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 08 Jan 2023 22:05:51 GMT</pubDate>
             <content:encoded><![CDATA[1. 세계 경제학자들이 참석하는 경제학계 최대 행사인 ‘2023 전미경제학회 연례총회(ASSA)’가 지난 6일(현지시간)부터 사흘간 뉴올리언스에서 3년 만에 첫 대면 행사로 열림. 이 자리에서 세계적인 석..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/news-p.v1.20230108.3aad799bdfa14b11bcfc7f86441a9c5d.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월 7일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32885/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32885/</guid>
-            <pubDate>Fri, 06 Jan 2023 22:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[1. 인공지능(AI)을 탑재한 ‘가상 인간’이 단순히 두뇌 뿐 아니라 외모도 실제 인간과 구분할 수 없는 시대가 열려. CES 2023 공식 개막 첫날인 5일(현지시간) 미국 라스베이거스에서 진행된 ‘MK CES..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301060702091468972.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
