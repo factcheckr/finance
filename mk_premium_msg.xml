@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 20:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 22:07:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월24일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32955/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32955/</guid>
+            <pubDate>Tue, 24 Jan 2023 22:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[1. 정부가 ‘세계1등 수소산업 육성’을 핵심 국정과제로 제시하고 수소 산업에 대한 강력한 지원 의지를 밝혔지만 후속 제도 마련 등 정책 뒷받침이 진행되지 않아 기업들이 안절부절. 정부의 수소 정..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/20230125_5368449_1674533798.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월21일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32952/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 09 Jan 2023 22:07:24 GMT</pubDate>
             <content:encoded><![CDATA[1. 동화기업, 한솔홈데코 등 나무판 생산업체들이 가구의 주요 원자재로 쓰이는 파티클보드(PB)와 중밀도섬유판(MDF) 등 원재료 부족으로 생산에 차질을 빚고 있음. 2018년 문재인 정부에서 탄소중립 정..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301090551401728194.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 9일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32886/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32886/</guid>
-            <pubDate>Sun, 08 Jan 2023 22:05:51 GMT</pubDate>
-            <content:encoded><![CDATA[1. 세계 경제학자들이 참석하는 경제학계 최대 행사인 ‘2023 전미경제학회 연례총회(ASSA)’가 지난 6일(현지시간)부터 사흘간 뉴올리언스에서 3년 만에 첫 대면 행사로 열림. 이 자리에서 세계적인 석..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/news-p.v1.20230108.3aad799bdfa14b11bcfc7f86441a9c5d.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
