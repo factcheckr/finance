@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 00:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 02:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 25일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32956/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32956/</guid>
+            <pubDate>Wed, 25 Jan 2023 02:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[1. 수도권에 위치한 노후 아파트 단지 22곳이 지자체로부터 ‘안전진단 통과’ 통보를 받은 것으로 확인됐음. 정부가 규제 완화를 적용한 지난 5일 이후 보름 만에 벌어진 일.  해당 단지의 전체 가구 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301251057091677410.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월24일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32955/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 10 Jan 2023 23:09:08 GMT</pubDate>
             <content:encoded><![CDATA[1. 중국이 중국발 입국자 방역 강화에 대한 첫 보복 조치로 한국 국민에 대한 중국행 단기비자 발급을 전면 중단. 또 한국에 이어 일본에 대해서도 신규비자 발급 중단 조치를 내리는 등 전방위적 ‘보..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301100548421087366.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 10일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32889/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32889/</guid>
-            <pubDate>Mon, 09 Jan 2023 22:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[1. 동화기업, 한솔홈데코 등 나무판 생산업체들이 가구의 주요 원자재로 쓰이는 파티클보드(PB)와 중밀도섬유판(MDF) 등 원재료 부족으로 생산에 차질을 빚고 있음. 2018년 문재인 정부에서 탄소중립 정..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301090551401728194.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
