@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 21:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 23:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 26일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32961/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32961/</guid>
+            <pubDate>Wed, 25 Jan 2023 23:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[1. 중국 해킹 그룹이 지난 설 명절을 틈타 한국 내 12개 학술기관 홈페이지에 사이버 공격을 가하는 사건이 발생. 피해 사이트들은 외부 호스팅 업체를 통해 사이트를 관리하는 등 보안 역량이 떨어지는..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301250550351231637.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 25일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32956/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 11 Jan 2023 22:09:42 GMT</pubDate>
             <content:encoded><![CDATA[1. 국책연구원인 한국보건사회연구원이 국민연금 재정 안정 달성을 위해 보험료율을 1~10년 동안 최소 21.33%까지 올려야 한다고 제안함. 현재 보험료율은 9%임. 현 제도 하에선 국민연금 기금 2057년 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301110600451080010.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 11일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32891/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32891/</guid>
-            <pubDate>Tue, 10 Jan 2023 23:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[1. 중국이 중국발 입국자 방역 강화에 대한 첫 보복 조치로 한국 국민에 대한 중국행 단기비자 발급을 전면 중단. 또 한국에 이어 일본에 대해서도 신규비자 발급 중단 조치를 내리는 등 전방위적 ‘보..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301100548421087366.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
