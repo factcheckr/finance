@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 21:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 22:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 27일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32964/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32964/</guid>
+            <pubDate>Thu, 26 Jan 2023 22:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[1. 만능 대화형 챗봇인 ‘챗GPT’ 출현을 계기로 인공지능 패권을 둘러싼 총성 없는 전쟁이 시작됨. 최근 경기침체에 대응해 대규모 인력 구조조정에 나선 글로벌 빅테크들이 역설적으로 이 챗GPT 작동 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301260550551857116.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 26일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32961/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 12 Jan 2023 22:08:10 GMT</pubDate>
             <content:encoded><![CDATA[1. 유기발광다이오드(OLED)와 마이크로LED, 퀀텀닷OLED(QD-OLED) 등 한국 기업들이 세계 시장을 선도하고 있는 첨단 디스플레이 설계·제조 기술이 ‘국가전략기술’로 지정됨. 친환경 에너지로 각광받..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301120543381450356.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 12일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32892/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32892/</guid>
-            <pubDate>Wed, 11 Jan 2023 22:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[1. 국책연구원인 한국보건사회연구원이 국민연금 재정 안정 달성을 위해 보험료율을 1~10년 동안 최소 21.33%까지 올려야 한다고 제안함. 현재 보험료율은 9%임. 현 제도 하에선 국민연금 기금 2057년 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301110600451080010.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
