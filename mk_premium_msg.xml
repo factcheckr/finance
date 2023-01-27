@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 20:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 23:07:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 28일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/01/32967/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32967/</guid>
+            <pubDate>Fri, 27 Jan 2023 23:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[1. 지난해 글로벌 금융시장을 짓눌렀던 ‘킹달러’ 기조가 꺾이며 위험자산으로 평가받는 신흥국 시장에 뭉칫돈이 몰리고 있음. 파이낸셜타임스는  국제금융협회의 자료를 인용해 신흥국 주식과 채권시..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301270558431840737.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 27일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32964/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 13 Jan 2023 22:04:43 GMT</pubDate>
             <content:encoded><![CDATA[1. 중국의 작년 12월 수출액은 3060억8000만달러(약 380조원)로 전년 동월 대비 9.9% 줄은 것으로 나타나. 이는 코로나19 팬데믹이 시작됐던 2020년 1∼2월(-17.2%) 이후 최악의 성적표. 경제성장의 핵..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301130826541828378.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 13일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32896/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32896/</guid>
-            <pubDate>Thu, 12 Jan 2023 22:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[1. 유기발광다이오드(OLED)와 마이크로LED, 퀀텀닷OLED(QD-OLED) 등 한국 기업들이 세계 시장을 선도하고 있는 첨단 디스플레이 설계·제조 기술이 ‘국가전략기술’로 지정됨. 친환경 에너지로 각광받..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301120543381450356.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
