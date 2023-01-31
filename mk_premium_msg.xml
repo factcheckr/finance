@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 21:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 22:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 1일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/32989/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/32989/</guid>
+            <pubDate>Tue, 31 Jan 2023 22:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[1. 글로벌 반도체 시장이 최악의 국면으로 치달으면서 반도체를 담당하는 삼성전자 디바이스솔루션(DS) 부문의 영업이익이 전년 대비 97% 급감. 파운드리를 제외한 D램과 낸드플래시 등 메모리사업부는 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202301310602571042820.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월 31일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/01/32984/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 17 Jan 2023 22:07:42 GMT</pubDate>
             <content:encoded><![CDATA[1. 세계 경제의 중심축을 담당하고 있는 중국 경제성장률이 지난해 3.0%를 기록하는 데 그침. 코로나19 팬데믹 초기인 2020년 2.2%를 기록했던 것을 제외하면 1976년 이후 46년 만에 가장 낮은 성장률. ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301170550291238098.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월17일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32922/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32922/</guid>
-            <pubDate>Tue, 17 Jan 2023 00:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[1. 53회 세계경제포럼(WEF·다보스포럼) 연차총회가 16일(현지시간) 스위스의 시골마을 다보스에서 열림. 코로나 팬데믹 이후 3년 만에 오프라인으로 재개된 이번 포럼에는 52개국 정상급 인사를 비롯해..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301160608481367432.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
