@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 21:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 22:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지,2월 2일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/32991/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/32991/</guid>
+            <pubDate>Wed, 01 Feb 2023 22:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[1. 1%대 저성장과 1900조원에 육박하는 가계빚이 한국 경제를 짓누르는 가운데 미래 세대인 MZ세대의 경제부담이 가중되면서 사회적 갈등의 뇌관이 될 수 있다는 경제학자들의 경고가 나와. 세계적으로 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302010542391964857.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 1일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/32989/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 18 Jan 2023 22:07:39 GMT</pubDate>
             <content:encoded><![CDATA[1. 전 세계 정칟경제계 리더들이 참석한 세계경제포럼에서 올해 세계 경제에 대한 조심스런 낙관론이 고개를 들어. 지난해 러시아의 우크라이나 침공과 미국 연방준비제도(Fed)의 공격적 금리 인상 등으..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301180553471015194.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 18일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32924/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32924/</guid>
-            <pubDate>Tue, 17 Jan 2023 22:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[1. 세계 경제의 중심축을 담당하고 있는 중국 경제성장률이 지난해 3.0%를 기록하는 데 그침. 코로나19 팬데믹 초기인 2020년 2.2%를 기록했던 것을 제외하면 1976년 이후 46년 만에 가장 낮은 성장률. ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301170550291238098.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
