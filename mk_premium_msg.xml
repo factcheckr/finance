@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 21:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 22:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 3일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/32993/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/32993/</guid>
+            <pubDate>Thu, 02 Feb 2023 22:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[1. 제롬 파월 미국 Fed 의장 입에서 ‘디스인플레이션’이라는 단어가 처음으로 등장. 파월 의장 발언에 영향을 받아 달러값은 9개월 만에 최저치로 급락했고 나스닥 시장이 상승하는 등 시장도 즉각 반..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302020556351503627.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지,2월 2일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/32991/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 19 Jan 2023 22:07:28 GMT</pubDate>
             <content:encoded><![CDATA[1.국가 신용등급과 동일한 ‘AAA급’ 회사채 발행마저 막힐 정도로 ‘발작’을 일으켰던 국내 자금시장이 시장 안정 조치 이후 석 달 만에 안정을 되찾고 있어. 가파르게 진행됐던 각국의 금리 인상 레..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301190545231948184.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 19일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32927/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32927/</guid>
-            <pubDate>Wed, 18 Jan 2023 22:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[1. 전 세계 정칟경제계 리더들이 참석한 세계경제포럼에서 올해 세계 경제에 대한 조심스런 낙관론이 고개를 들어. 지난해 러시아의 우크라이나 침공과 미국 연방준비제도(Fed)의 공격적 금리 인상 등으..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301180553471015194.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
