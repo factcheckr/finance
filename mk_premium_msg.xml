@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 21:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 22:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 4일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/32995/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/32995/</guid>
+            <pubDate>Fri, 03 Feb 2023 22:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[1.K콘텐츠가 올해는 ‘K유니버스’로 확장하며 날개를 달았음. 넷플릭스 인기 순위에서 미국에 이어 2위를 차지한 한국은 올해 성공한 IP(지식재산권)를 전방위로 확장시키는 ‘유니버스 전략’으로 콘..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302030610001548787.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 3일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/32993/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 20 Jan 2023 22:07:31 GMT</pubDate>
             <content:encoded><![CDATA[1. 치솟던 물가가 ‘피크아웃(정점 통과)’ 경로에 들어서고 살얼음판을 걷던 자금시장이 안정을 되찾으면서 한국의 긴축 기조도 분기점을 맞고 있음. 한국은행의 7연속 기준금리 인상 이후 ‘금리 정점..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301200650281399850.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 20일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32928/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32928/</guid>
-            <pubDate>Thu, 19 Jan 2023 22:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[1.국가 신용등급과 동일한 ‘AAA급’ 회사채 발행마저 막힐 정도로 ‘발작’을 일으켰던 국내 자금시장이 시장 안정 조치 이후 석 달 만에 안정을 되찾고 있어. 가파르게 진행됐던 각국의 금리 인상 레..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301190545231948184.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
