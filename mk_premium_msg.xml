@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 21:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 22:06:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월6일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/32996/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/32996/</guid>
+            <pubDate>Sun, 05 Feb 2023 22:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[1. 한국과학기술원(KAIST)이 중동 국가들과도 캠퍼스 설립 등을 추진. 5일 KAIST에 따르면, KAIST는 아랍에미레이트(UAE) 칼리파 대학과 협력해 캠퍼스를 만드는 방안에 대해 본격 논의. 현재 설립 제안..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/20230206_5377337_1675574004.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 4일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/32995/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 24 Jan 2023 22:07:10 GMT</pubDate>
             <content:encoded><![CDATA[1. 정부가 ‘세계1등 수소산업 육성’을 핵심 국정과제로 제시하고 수소 산업에 대한 강력한 지원 의지를 밝혔지만 후속 제도 마련 등 정책 뒷받침이 진행되지 않아 기업들이 안절부절. 정부의 수소 정..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/20230125_5368449_1674533798.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 1월21일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32952/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32952/</guid>
-            <pubDate>Fri, 20 Jan 2023 22:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[1. 치솟던 물가가 ‘피크아웃(정점 통과)’ 경로에 들어서고 살얼음판을 걷던 자금시장이 안정을 되찾으면서 한국의 긴축 기조도 분기점을 맞고 있음. 한국은행의 7연속 기준금리 인상 이후 ‘금리 정점..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301200650281399850.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
