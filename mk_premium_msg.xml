@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 21:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 22:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 7일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/33019/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33019/</guid>
+            <pubDate>Mon, 06 Feb 2023 22:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[1. 삼성전자와 SK하이닉스 임원들이 미국 정부의 ‘대중 반도체 시설 투자제한’ 조치에 대한 협의를 위해 최근 미국을 방문한 것으로 확인됐음. 미중 기술패권 경쟁이 격화되면서 미국이 중국에 대한 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302060559271459388.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월6일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/32996/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 25 Jan 2023 02:09:58 GMT</pubDate>
             <content:encoded><![CDATA[1. 수도권에 위치한 노후 아파트 단지 22곳이 지자체로부터 ‘안전진단 통과’ 통보를 받은 것으로 확인됐음. 정부가 규제 완화를 적용한 지난 5일 이후 보름 만에 벌어진 일.  해당 단지의 전체 가구 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301251057091677410.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월24일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32955/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32955/</guid>
-            <pubDate>Tue, 24 Jan 2023 22:07:10 GMT</pubDate>
-            <content:encoded><![CDATA[1. 정부가 ‘세계1등 수소산업 육성’을 핵심 국정과제로 제시하고 수소 산업에 대한 강력한 지원 의지를 밝혔지만 후속 제도 마련 등 정책 뒷받침이 진행되지 않아 기업들이 안절부절. 정부의 수소 정..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/20230125_5368449_1674533798.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
