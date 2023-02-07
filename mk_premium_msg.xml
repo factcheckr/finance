@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 21:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 22:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 8일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/33020/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33020/</guid>
+            <pubDate>Tue, 07 Feb 2023 22:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[1. 정부가 분당·일산·중동·평촌·산본 등 수도권 1기 신도시와 지방 노후 단지 용적률을 최대 500%까지 높여 재건축·재개발을 촉진하기로 함. 안전진단을 아예 면제하거나 완화하는 특례를 적용하기..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/news-p.v1.20230207.facdcd2de0b443fb933a1ae876a5684b.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 7일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/33019/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 25 Jan 2023 23:08:43 GMT</pubDate>
             <content:encoded><![CDATA[1. 중국 해킹 그룹이 지난 설 명절을 틈타 한국 내 12개 학술기관 홈페이지에 사이버 공격을 가하는 사건이 발생. 피해 사이트들은 외부 호스팅 업체를 통해 사이트를 관리하는 등 보안 역량이 떨어지는..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301250550351231637.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 25일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32956/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32956/</guid>
-            <pubDate>Wed, 25 Jan 2023 02:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[1. 수도권에 위치한 노후 아파트 단지 22곳이 지자체로부터 ‘안전진단 통과’ 통보를 받은 것으로 확인됐음. 정부가 규제 완화를 적용한 지난 5일 이후 보름 만에 벌어진 일.  해당 단지의 전체 가구 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301251057091677410.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
