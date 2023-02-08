@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 21:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 23:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 9일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/33028/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33028/</guid>
+            <pubDate>Wed, 08 Feb 2023 23:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[1. 전라남도 지역의 가뭄이 장기화하면서 국내 석유화학·철강 업체들이 대거 입주해 있는 여수·광양 국가산업단지 물 공급에 비상. 포스코, LG화학 등 여수·광양에 공장을 둔 기업들은 공업용수 사용..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302080554001822794.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 8일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/33020/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 26 Jan 2023 22:08:48 GMT</pubDate>
             <content:encoded><![CDATA[1. 만능 대화형 챗봇인 ‘챗GPT’ 출현을 계기로 인공지능 패권을 둘러싼 총성 없는 전쟁이 시작됨. 최근 경기침체에 대응해 대규모 인력 구조조정에 나선 글로벌 빅테크들이 역설적으로 이 챗GPT 작동 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301260550551857116.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 26일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32961/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32961/</guid>
-            <pubDate>Wed, 25 Jan 2023 23:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[1. 중국 해킹 그룹이 지난 설 명절을 틈타 한국 내 12개 학술기관 홈페이지에 사이버 공격을 가하는 사건이 발생. 피해 사이트들은 외부 호스팅 업체를 통해 사이트를 관리하는 등 보안 역량이 떨어지는..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301250550351231637.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
