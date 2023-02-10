@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 21:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 22:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 11일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/33051/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33051/</guid>
+            <pubDate>Fri, 10 Feb 2023 22:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[1. 광주시·전남도가 인공지능(AI)에 특화된 반도체산업단지를 광주첨단산단3지구, 전남 장성군 등에 걸쳐 최대 300만평(약 992만㎡) 규모로 조성하는 방안을 추진 중임. 하지만 일부 지역이 개발제한구..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302100611471605338.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 10일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/33030/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 29 Jan 2023 22:06:32 GMT</pubDate>
             <content:encoded><![CDATA[1. 국제 원자재값 급등에 연말 한파가 겹치며 지난해 난방비, 전기요금, 관리비 등 국민들이 지출하는 필수주거비가 170조원에 달해 역대 최대로 불어난 것으로 추산. 부쩍 오른 주거비는 올 들어 저소..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/news-p.v1.20230129.f9f282d4602444e2a14bc1e6de30ce50.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 28일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32967/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32967/</guid>
-            <pubDate>Fri, 27 Jan 2023 23:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[1. 지난해 글로벌 금융시장을 짓눌렀던 ‘킹달러’ 기조가 꺾이며 위험자산으로 평가받는 신흥국 시장에 뭉칫돈이 몰리고 있음. 파이낸셜타임스는  국제금융협회의 자료를 인용해 신흥국 주식과 채권시..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301270558431840737.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
