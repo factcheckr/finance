@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 21:06:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 22:07:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 13일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/33052/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33052/</guid>
+            <pubDate>Sun, 12 Feb 2023 22:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 정부가 적발해 검찰에 넘긴 가상자산 연루 불법 외화송금 거래 규모가 지난해 총 12조원에 달하는 것으로 집계됨. 지난 한 해 적발된 금액은 2018~2021년 4년간 적발한 금액의 무려 5배에 달해. 특히..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/news-p.v1.20230212.d44c6a97547647f1acac5d7228c5b313.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 11일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/33051/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 30 Jan 2023 23:12:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 1990년대 중반부터 2000년대 초반에 태어난 Z세대는 국민연금 보험료 인상 뿐 아니라 복지 혜택을 늘리기 위한 증세에도 압도적 반대표를 던졌음. 고령화가 빠르게 진행되며 복지 확대 필요성이 커지..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/202301300547301817446.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 1월 30일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/01/32968/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/01/32968/</guid>
-            <pubDate>Sun, 29 Jan 2023 22:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[1. 국제 원자재값 급등에 연말 한파가 겹치며 지난해 난방비, 전기요금, 관리비 등 국민들이 지출하는 필수주거비가 170조원에 달해 역대 최대로 불어난 것으로 추산. 부쩍 오른 주거비는 올 들어 저소..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/01/news-p.v1.20230129.f9f282d4602444e2a14bc1e6de30ce50.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
