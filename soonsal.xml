@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://soonsal.com/newsletters</id>
     <title>순살브리핑 ─ 날짜별</title>
-    <updated>2023-02-14T14:08:45.370Z</updated>
+    <updated>2023-02-14T15:09:42.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20200601/b469841e49645.png</icon>
     <entry>
@@ -47,8 +47,7 @@
 						</a>
 
 												
-																			<span class="icons"><em class="badge">N</em></span>
-												<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 						<!--						-->]]></content>
