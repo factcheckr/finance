@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 21:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 22:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 16일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/33065/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33065/</guid>
+            <pubDate>Wed, 15 Feb 2023 22:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[1. 정부가 예대마진 확대로 사상 최대 이익을 거둔 은행의 고통분담을 요구한 데 이어 이번에는 통신 3사를 정조준. 윤석열 대통령은 15일 제13차 비상경제민생회의에서 “통신·금융 분야는 공공재적 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302150555491692150.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 15일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/33061/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 02 Feb 2023 22:08:30 GMT</pubDate>
             <content:encoded><![CDATA[1. 제롬 파월 미국 Fed 의장 입에서 ‘디스인플레이션’이라는 단어가 처음으로 등장. 파월 의장 발언에 영향을 받아 달러값은 9개월 만에 최저치로 급락했고 나스닥 시장이 상승하는 등 시장도 즉각 반..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302020556351503627.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지,2월 2일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/02/32991/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/02/32991/</guid>
-            <pubDate>Wed, 01 Feb 2023 22:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[1. 1%대 저성장과 1900조원에 육박하는 가계빚이 한국 경제를 짓누르는 가운데 미래 세대인 MZ세대의 경제부담이 가중되면서 사회적 갈등의 뇌관이 될 수 있다는 경제학자들의 경고가 나와. 세계적으로 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302010542391964857.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
