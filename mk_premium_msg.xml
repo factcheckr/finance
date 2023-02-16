@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 21:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 22:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 17일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/33067/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33067/</guid>
+            <pubDate>Thu, 16 Feb 2023 22:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[1. 문재인 정부가 작년 대선 직전 신재생에너지 보급목표를 부풀려 발표했다는 의혹이 제기됨. 사실일 경우 소득과 집값에 이어 신재생에너지까지 통계를 조작한 셈이라 파문이 일파만파 커질 것으로 보..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302160421071291557.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 16일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/33065/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 03 Feb 2023 22:07:00 GMT</pubDate>
             <content:encoded><![CDATA[1.K콘텐츠가 올해는 ‘K유니버스’로 확장하며 날개를 달았음. 넷플릭스 인기 순위에서 미국에 이어 2위를 차지한 한국은 올해 성공한 IP(지식재산권)를 전방위로 확장시키는 ‘유니버스 전략’으로 콘..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302030610001548787.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 2월 3일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/02/32993/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/02/32993/</guid>
-            <pubDate>Thu, 02 Feb 2023 22:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[1. 제롬 파월 미국 Fed 의장 입에서 ‘디스인플레이션’이라는 단어가 처음으로 등장. 파월 의장 발언에 영향을 받아 달러값은 9개월 만에 최저치로 급락했고 나스닥 시장이 상승하는 등 시장도 즉각 반..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302020556351503627.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
