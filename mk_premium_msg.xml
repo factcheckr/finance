@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 21:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 22:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 18일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/33071/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33071/</guid>
+            <pubDate>Fri, 17 Feb 2023 22:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[1. 거리두기 강화로 외식이 힘들어지고, 배달 음식은 주문이 밀려 제 시간에 받기 힘들었던 탓에 도시락으로 점심식사를 해결하는 직장인들이 크게 늘면서 ‘도시락 특수’가 본격화됐음. 17일 편의점 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302170548401988769.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 17일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/33067/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 05 Feb 2023 22:06:30 GMT</pubDate>
             <content:encoded><![CDATA[1. 한국과학기술원(KAIST)이 중동 국가들과도 캠퍼스 설립 등을 추진. 5일 KAIST에 따르면, KAIST는 아랍에미레이트(UAE) 칼리파 대학과 협력해 캠퍼스를 만드는 방안에 대해 본격 논의. 현재 설립 제안..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/20230206_5377337_1675574004.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 4일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/02/32995/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/02/32995/</guid>
-            <pubDate>Fri, 03 Feb 2023 22:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[1.K콘텐츠가 올해는 ‘K유니버스’로 확장하며 날개를 달았음. 넷플릭스 인기 순위에서 미국에 이어 2위를 차지한 한국은 올해 성공한 IP(지식재산권)를 전방위로 확장시키는 ‘유니버스 전략’으로 콘..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302030610001548787.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
