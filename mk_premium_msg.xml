@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 21:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 22:07:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 20일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/33073/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33073/</guid>
+            <pubDate>Sun, 19 Feb 2023 22:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[1. 주요 민간 기업과 공기업의 사무직 노조가 모인 ‘새로고침 노동협의회’가 오는 21일 서울역 인근 동자아트홀에서 출범식을 열 예정. 새로고침은 현재 8개 기업 노조에서 4492명이 참여. 양대 노총(..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/news-p.v1.20230219.827c530d260b48dd9279b6ebdb38906b.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 18일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/33071/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 06 Feb 2023 22:10:25 GMT</pubDate>
             <content:encoded><![CDATA[1. 삼성전자와 SK하이닉스 임원들이 미국 정부의 ‘대중 반도체 시설 투자제한’ 조치에 대한 협의를 위해 최근 미국을 방문한 것으로 확인됐음. 미중 기술패권 경쟁이 격화되면서 미국이 중국에 대한 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302060559271459388.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월6일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/02/32996/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/02/32996/</guid>
-            <pubDate>Sun, 05 Feb 2023 22:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[1. 한국과학기술원(KAIST)이 중동 국가들과도 캠퍼스 설립 등을 추진. 5일 KAIST에 따르면, KAIST는 아랍에미레이트(UAE) 칼리파 대학과 협력해 캠퍼스를 만드는 방안에 대해 본격 논의. 현재 설립 제안..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/20230206_5377337_1675574004.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
