@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 21:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 22:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 21일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/33093/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33093/</guid>
+            <pubDate>Mon, 20 Feb 2023 22:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[1. 글로벌 국가 경쟁이 갈수록 치열해지고 있는 가운데 한일 양국이 ‘긴장, 대립’ 관계를 청산하고, ‘협력, 상생’ 관계로 외교의 틀을 바꿔야 한다는 목소리가 커지고 있음. 일본과의 극한 대립으로..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302200553031901278.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 20일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/33073/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 07 Feb 2023 22:07:25 GMT</pubDate>
             <content:encoded><![CDATA[1. 정부가 분당·일산·중동·평촌·산본 등 수도권 1기 신도시와 지방 노후 단지 용적률을 최대 500%까지 높여 재건축·재개발을 촉진하기로 함. 안전진단을 아예 면제하거나 완화하는 특례를 적용하기..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/news-p.v1.20230207.facdcd2de0b443fb933a1ae876a5684b.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 7일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/02/33019/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33019/</guid>
-            <pubDate>Mon, 06 Feb 2023 22:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[1. 삼성전자와 SK하이닉스 임원들이 미국 정부의 ‘대중 반도체 시설 투자제한’ 조치에 대한 협의를 위해 최근 미국을 방문한 것으로 확인됐음. 미중 기술패권 경쟁이 격화되면서 미국이 중국에 대한 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302060559271459388.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
