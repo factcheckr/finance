@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 21:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 22:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 22일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/02/33095/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33095/</guid>
+            <pubDate>Tue, 21 Feb 2023 22:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 대통령이 “건설현장의 갈취, 폭력 등 조직적 불법 행위에 대해 검찰, 경찰, 국토부, 노동부가 협력해 강력하게 단속하라”고 지시함. 이어 “임기 내 건설현장의 갈취·폭력 행위는 반드시 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302210543511202953.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 21일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/02/33093/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 08 Feb 2023 23:08:26 GMT</pubDate>
             <content:encoded><![CDATA[1. 전라남도 지역의 가뭄이 장기화하면서 국내 석유화학·철강 업체들이 대거 입주해 있는 여수·광양 국가산업단지 물 공급에 비상. 포스코, LG화학 등 여수·광양에 공장을 둔 기업들은 공업용수 사용..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302080554001822794.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 8일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/02/33020/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33020/</guid>
-            <pubDate>Tue, 07 Feb 2023 22:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[1. 정부가 분당·일산·중동·평촌·산본 등 수도권 1기 신도시와 지방 노후 단지 용적률을 최대 500%까지 높여 재건축·재개발을 촉진하기로 함. 안전진단을 아예 면제하거나 완화하는 특례를 적용하기..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/news-p.v1.20230207.facdcd2de0b443fb933a1ae876a5684b.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
