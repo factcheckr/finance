@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 21:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 22:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 4일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33132/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33132/</guid>
+            <pubDate>Fri, 03 Mar 2023 22:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[1. 5대 시중은행 과점체제를 바꾸기 위해 기존 지방은행 중 요건을 갖춘 곳을 새 시중은행으로 인허가를 내주는 방안을 금융당국이 검토에 나섬. 3일 금융위원회와 금융감독원은 은행 제도개선 TF 첫 실..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303030613251178462.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 3일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33131/</link>
@@ -95,14 +103,6 @@
             <pubDate>Sun, 19 Feb 2023 22:07:02 GMT</pubDate>
             <content:encoded><![CDATA[1. 주요 민간 기업과 공기업의 사무직 노조가 모인 ‘새로고침 노동협의회’가 오는 21일 서울역 인근 동자아트홀에서 출범식을 열 예정. 새로고침은 현재 8개 기업 노조에서 4492명이 참여. 양대 노총(..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302201031341765690.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 18일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/02/33071/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33071/</guid>
-            <pubDate>Fri, 17 Feb 2023 22:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[1. 거리두기 강화로 외식이 힘들어지고, 배달 음식은 주문이 밀려 제 시간에 받기 힘들었던 탓에 도시락으로 점심식사를 해결하는 직장인들이 크게 늘면서 ‘도시락 특수’가 본격화됐음. 17일 편의점 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302170548401988769.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
