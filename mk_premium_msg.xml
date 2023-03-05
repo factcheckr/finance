@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 21:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 22:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 6일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33133/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33133/</guid>
+            <pubDate>Sun, 05 Mar 2023 22:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[1. 정부가 한일 갈등의 ‘진앙지’였던 강제징용 피해배상 문제에 대해 선제적으로 해법을 내놓기로 하면서 양국 관계에 숨통이 트일 것으로 보임. 5일 정부에 따르면 박진 외교부 장관이 6일 ‘제3자 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/news-p.v1.20230305.f00c2b768e414d538363c78bc1848c43.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 4일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33132/</link>
@@ -95,14 +103,6 @@
             <pubDate>Mon, 20 Feb 2023 22:08:47 GMT</pubDate>
             <content:encoded><![CDATA[1. 글로벌 국가 경쟁이 갈수록 치열해지고 있는 가운데 한일 양국이 ‘긴장, 대립’ 관계를 청산하고, ‘협력, 상생’ 관계로 외교의 틀을 바꿔야 한다는 목소리가 커지고 있음. 일본과의 극한 대립으로..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302200553031901278.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 20일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/02/33073/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33073/</guid>
-            <pubDate>Sun, 19 Feb 2023 22:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[1. 주요 민간 기업과 공기업의 사무직 노조가 모인 ‘새로고침 노동협의회’가 오는 21일 서울역 인근 동자아트홀에서 출범식을 열 예정. 새로고침은 현재 8개 기업 노조에서 4492명이 참여. 양대 노총(..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302201031341765690.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
