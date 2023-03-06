@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 21:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 22:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 7일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33164/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33164/</guid>
+            <pubDate>Mon, 06 Mar 2023 22:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[1. 정부가 한일 관계를 짓눌러왔던 강제징용 문제 해결을 위해 한국 민간기업 출연 방식이라는 카드를 제시하면서 일본의 보복조치인 수출규제도 해제 수순. 한일간 첫 경제 보복조치였던 수출규제가 원..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303060547551850658.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 6일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33133/</link>
@@ -95,14 +103,6 @@
             <pubDate>Tue, 21 Feb 2023 22:07:55 GMT</pubDate>
             <content:encoded><![CDATA[1. 윤석열 대통령이 “건설현장의 갈취, 폭력 등 조직적 불법 행위에 대해 검찰, 경찰, 국토부, 노동부가 협력해 강력하게 단속하라”고 지시함. 이어 “임기 내 건설현장의 갈취·폭력 행위는 반드시 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302210543511202953.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 21일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/02/33093/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33093/</guid>
-            <pubDate>Mon, 20 Feb 2023 22:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[1. 글로벌 국가 경쟁이 갈수록 치열해지고 있는 가운데 한일 양국이 ‘긴장, 대립’ 관계를 청산하고, ‘협력, 상생’ 관계로 외교의 틀을 바꿔야 한다는 목소리가 커지고 있음. 일본과의 극한 대립으로..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302200553031901278.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
