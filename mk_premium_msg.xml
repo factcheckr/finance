@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 21:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 22:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 8일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33167/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33167/</guid>
+            <pubDate>Tue, 07 Mar 2023 22:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[1. 사교육비 부담이 천정부지로 치솟으면서 서민 경제를 압박하고 소비여력이 갈수록 위축되고 있음. 7일 교육부와 통계청이 전국 초·중·고 3000곳 학교 학생 7만4000명을 대상으로 조사한 결과 지난..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303070537181886548.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 7일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33164/</link>
@@ -95,14 +103,6 @@
             <pubDate>Wed, 22 Feb 2023 22:07:05 GMT</pubDate>
             <content:encoded><![CDATA[1. 미국의 중앙은행인 연방준비제도(연준·Fed)가 긴축의 고삐를 더 강하게 틀어쥘 것이라는 전망이 커지면서 한국을 비롯한 글로벌 증시가 급락. 강달러 기조에 다시 탄력이 붙었고 원화값은 2개월여만..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302220537171335124.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 22일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/02/33095/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33095/</guid>
-            <pubDate>Tue, 21 Feb 2023 22:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 대통령이 “건설현장의 갈취, 폭력 등 조직적 불법 행위에 대해 검찰, 경찰, 국토부, 노동부가 협력해 강력하게 단속하라”고 지시함. 이어 “임기 내 건설현장의 갈취·폭력 행위는 반드시 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302210543511202953.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
