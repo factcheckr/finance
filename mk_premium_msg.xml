@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 21:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 22:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월 9일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33170/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33170/</guid>
+            <pubDate>Wed, 08 Mar 2023 22:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[1. 최근 출범한 MZ노조 협의체 ‘새로고침 노동자협의회’가 조합원의 ‘재정열람권’을 명시하고, 자유로운 탈퇴도 보장하는 내부규약을 마련한 것으로 확인됐음. 기존 양대노총인 민주노총, 한국노총..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303080552191785340.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 8일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33167/</link>
@@ -95,14 +103,6 @@
             <pubDate>Thu, 23 Feb 2023 22:08:16 GMT</pubDate>
             <content:encoded><![CDATA[1. 전 세계 긴축 기조와 경기 침체로 국내 기업들의 실적 전망이 곤두박질치고 있음. 올해 1분기 주요 상장사들의 영업이익이 반 토막이 날 것으로 예상될 만큼 실물경제가 직격탄을 맞으면서 한국은행..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302230553401483487.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 23일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/02/33099/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33099/</guid>
-            <pubDate>Wed, 22 Feb 2023 22:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[1. 미국의 중앙은행인 연방준비제도(연준·Fed)가 긴축의 고삐를 더 강하게 틀어쥘 것이라는 전망이 커지면서 한국을 비롯한 글로벌 증시가 급락. 강달러 기조에 다시 탄력이 붙었고 원화값은 2개월여만..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302220537171335124.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
