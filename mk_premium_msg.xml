@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 21:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 22:08:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 11일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33175/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33175/</guid>
+            <pubDate>Fri, 10 Mar 2023 22:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[1.미국 실리콘밸리에서 가장 큰 상업은행인 실리콘밸리은행(SVB)이 9일(현지시각) 대량예금인출사태인 뱅크런 위기에 직면. 이 여파로 모회사인 SVB파이낸셜그룹의 주가는 하루새 60.4% 폭락, 미국 4대 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303100614521596599.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 10일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33174/</link>
@@ -95,14 +103,6 @@
             <pubDate>Sun, 26 Feb 2023 23:08:01 GMT</pubDate>
             <content:encoded><![CDATA[1. 인천국제공항 면세점 입찰에 중국 국영면세점그룹(CDFG)이 참여하기로 함. 2020년부터 3년 연속 글로벌 매출 1위에 오른 중국 국영기업의 입찰이 공식화되면서 코로나19 여파로 주춤해 온 국내 면세업..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/20230227_5393174_1677395267.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 2월 25일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/02/33121/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/02/33121/</guid>
-            <pubDate>Fri, 24 Feb 2023 22:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[1. JB금융지주 이사회가 2대 주주인 얼라인파트너스자산운용(얼라인)이 주주서한을 통해 요구한 주주 환원 정책에 대해 ‘수용할 수 없다’는 내부 방침을 정해. 이에 따라 양측은 다음달 주주총회에서 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/02/202302240540071317709.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
