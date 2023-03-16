@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 21:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 22:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 17일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33205/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33205/</guid>
+            <pubDate>Thu, 16 Mar 2023 22:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[1.스위스 금융당국이 자국 2대 투자은행(IB)인 크레디트스위스(CS)에 최대 70조원의 긴급 자금을 수혈하기로 했음. 유동성 위기에 내몰린 CS의 구제 요청에 하루도 안 돼 전격적으로 자금 투입을 결정한..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303160544021978215.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 16일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33202/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 03 Mar 2023 22:08:48 GMT</pubDate>
             <content:encoded><![CDATA[1. 5대 시중은행 과점체제를 바꾸기 위해 기존 지방은행 중 요건을 갖춘 곳을 새 시중은행으로 인허가를 내주는 방안을 금융당국이 검토에 나섬. 3일 금융위원회와 금융감독원은 은행 제도개선 TF 첫 실..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303030613251178462.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 3일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33131/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33131/</guid>
-            <pubDate>Thu, 02 Mar 2023 22:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[1. 지난해 말 민주노총 화물연대의 장기 파업으로 아파트 공사를 중단했던 건설사들이 공사 지연에 따른 피해를 고스란히 떠안을 위기에 처함. 정부는 공공기관이 발주한 공사 현장에 대해 건설사와 계..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303020539431178403.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
