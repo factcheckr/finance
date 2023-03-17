@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 21:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 22:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 18일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33209/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33209/</guid>
+            <pubDate>Fri, 17 Mar 2023 22:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 대통령은 17일 일본 도쿄 게이단렌(經團連·경제단체연합회) 회관에서 열린 ‘한일 비즈니스 라운드 테이블’에 참석해 “오늘 이 자리는 그간 경색되었던 한일 관계를 미래지향적인 관계로 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303170549451359333.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 17일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33205/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 05 Mar 2023 22:08:56 GMT</pubDate>
             <content:encoded><![CDATA[1. 정부가 한일 갈등의 ‘진앙지’였던 강제징용 피해배상 문제에 대해 선제적으로 해법을 내놓기로 하면서 양국 관계에 숨통이 트일 것으로 보임. 5일 정부에 따르면 박진 외교부 장관이 6일 ‘제3자 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/news-p.v1.20230305.f00c2b768e414d538363c78bc1848c43.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 4일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33132/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33132/</guid>
-            <pubDate>Fri, 03 Mar 2023 22:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[1. 5대 시중은행 과점체제를 바꾸기 위해 기존 지방은행 중 요건을 갖춘 곳을 새 시중은행으로 인허가를 내주는 방안을 금융당국이 검토에 나섬. 3일 금융위원회와 금융감독원은 은행 제도개선 TF 첫 실..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303030613251178462.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
