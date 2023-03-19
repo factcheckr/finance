@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 21:06:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 22:07:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월20일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33210/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33210/</guid>
+            <pubDate>Sun, 19 Mar 2023 22:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[1. 매일경제신문이 사우디국제산업단지회사(SIIVC)로부터 단독 입수한 ‘사우디·한국 산업단지 프로젝트(SKIV·Saudi-Korea Industrial Village Project)’ 최종 참여 확정 기업 명단에  우리 중소기업..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/20230320_5408437_1679204094.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 18일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33209/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 06 Mar 2023 22:08:42 GMT</pubDate>
             <content:encoded><![CDATA[1. 정부가 한일 관계를 짓눌러왔던 강제징용 문제 해결을 위해 한국 민간기업 출연 방식이라는 카드를 제시하면서 일본의 보복조치인 수출규제도 해제 수순. 한일간 첫 경제 보복조치였던 수출규제가 원..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303060547551850658.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 6일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33133/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33133/</guid>
-            <pubDate>Sun, 05 Mar 2023 22:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[1. 정부가 한일 갈등의 ‘진앙지’였던 강제징용 피해배상 문제에 대해 선제적으로 해법을 내놓기로 하면서 양국 관계에 숨통이 트일 것으로 보임. 5일 정부에 따르면 박진 외교부 장관이 6일 ‘제3자 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/news-p.v1.20230305.f00c2b768e414d538363c78bc1848c43.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
