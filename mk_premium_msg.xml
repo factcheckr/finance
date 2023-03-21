@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 21:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 22:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 22일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33240/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33240/</guid>
+            <pubDate>Tue, 21 Mar 2023 22:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[1. 매일경제신문 비전코리아 프로젝트팀이 글로벌 컨설팅사인 보스턴컨설팅그룹과 함께 5대 첨단 파운드리 시장 선점을 비롯한 한국 제조업 강화 전략을 22일 서울 신라호텔에서 열리는 제33차 국민보고..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303210556371382306.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월21일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33237/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 08 Mar 2023 22:10:48 GMT</pubDate>
             <content:encoded><![CDATA[1. 최근 출범한 MZ노조 협의체 ‘새로고침 노동자협의회’가 조합원의 ‘재정열람권’을 명시하고, 자유로운 탈퇴도 보장하는 내부규약을 마련한 것으로 확인됐음. 기존 양대노총인 민주노총, 한국노총..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303080552191785340.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 8일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33167/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33167/</guid>
-            <pubDate>Tue, 07 Mar 2023 22:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[1. 사교육비 부담이 천정부지로 치솟으면서 서민 경제를 압박하고 소비여력이 갈수록 위축되고 있음. 7일 교육부와 통계청이 전국 초·중·고 3000곳 학교 학생 7만4000명을 대상으로 조사한 결과 지난..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303070537181886548.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
