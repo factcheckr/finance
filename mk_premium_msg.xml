@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 21:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 23:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 24일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33249/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33249/</guid>
+            <pubDate>Thu, 23 Mar 2023 23:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[1.KT&amp;G, JB금융 등 행동주의 펀드와 표 대결을 앞둔 기업들의 주주총회가 다음주 줄줄이 개최. 매일경제신문이 한국상장회사협의회·코스닥협회와 실시한 상장사(123곳 참여) 설문조사에 참여한 상장기..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303230536461867139.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 23일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33245/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 10 Mar 2023 22:07:56 GMT</pubDate>
             <content:encoded><![CDATA[1.미국 실리콘밸리에서 가장 큰 상업은행인 실리콘밸리은행(SVB)이 9일(현지시각) 대량예금인출사태인 뱅크런 위기에 직면. 이 여파로 모회사인 SVB파이낸셜그룹의 주가는 하루새 60.4% 폭락, 미국 4대 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303100614521596599.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 10일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33174/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33174/</guid>
-            <pubDate>Thu, 09 Mar 2023 22:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[1. 유럽연합(EU)이 오는 14일(현지시간) ‘유럽판 IRA(인플레이션 감축법)’로 불리는 핵심원자재법(Critical Raw Material Act·CRMA) 초안을 공개할 예정. EU 내 주요 원자재 조달 비율을 높이면서, ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303090550561818617.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
