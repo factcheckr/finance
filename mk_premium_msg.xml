@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 21:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 22:07:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 25일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33254/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33254/</guid>
+            <pubDate>Fri, 24 Mar 2023 22:06:49 GMT</pubDate>
+            <content:encoded><![CDATA[1. 수출 부진 여파로 제조업 분야 무역적자가 누적되고 있는 가운데 ‘소프트파워’를 상징하는 지식재산권 분야에서도 수출보다 수입이 더 늘어나는 적자 구조가 확대되고 있음. 24일 한국은행에 따르..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303240555021872960.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 24일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33249/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 12 Mar 2023 22:09:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 전세계 주요 통화 가운데 한국 원화값의 변동성이 4위 수준에 달할 정도로 큰 것으로 분석됐음. 12일 매일경제가 한국은행 경제통계시스템 데이터 등을 가공해 분석한 결과 지난 1년간 미국 달러당 원..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/20230313_5403375_1678610720.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 11일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33175/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33175/</guid>
-            <pubDate>Fri, 10 Mar 2023 22:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[1.미국 실리콘밸리에서 가장 큰 상업은행인 실리콘밸리은행(SVB)이 9일(현지시각) 대량예금인출사태인 뱅크런 위기에 직면. 이 여파로 모회사인 SVB파이낸셜그룹의 주가는 하루새 60.4% 폭락, 미국 4대 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303100614521596599.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
