@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 21:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 22:05:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 27일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33255/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33255/</guid>
+            <pubDate>Sun, 26 Mar 2023 22:05:48 GMT</pubDate>
+            <content:encoded><![CDATA[1. 세계적으로 ‘챗GPT’ 열풍이 불고 있는 가운데 ‘생성형 인공지능(AI)’ 분야 기초연구와 특허 개발에서 미국과 중국이 압도적 우위를 점하고 있는 것으로 조사. 한국의 경우, 양적인 측면에서는 세..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/news-p.v1.20230326.594d63ebbd9f496ea940e3a61aeeee56.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 25일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33254/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 13 Mar 2023 22:09:11 GMT</pubDate>
             <content:encoded><![CDATA[1. 제조강국 독일을 대표하는 BMW·폭스바겐·벤츠·지멘스·보쉬 등 완성차 업체와 부품 협력업체가 일제히 참여해 차량 제조와 관련한 데이터를 공유하는 '카테나(Catena)-X)‘가 다음달 본격 가동됨...]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303130538001803255.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전해주는 세상의 지식(매-세-지, 3월 13일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33176/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33176/</guid>
-            <pubDate>Sun, 12 Mar 2023 22:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 전세계 주요 통화 가운데 한국 원화값의 변동성이 4위 수준에 달할 정도로 큰 것으로 분석됐음. 12일 매일경제가 한국은행 경제통계시스템 데이터 등을 가공해 분석한 결과 지난 1년간 미국 달러당 원..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/20230313_5403375_1678610720.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
