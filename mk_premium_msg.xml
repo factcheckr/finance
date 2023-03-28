@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 21:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 22:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 29일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33275/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33275/</guid>
+            <pubDate>Tue, 28 Mar 2023 22:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[1.매일경제가 명동과 강남 등을 둘러본 결과 서울 시내 주요 상권들이 조금씩, 그러나 뚜렷이 활기를 되찾아가는 모양새인 것으로 나타나. 가게마다 차이는 있지만 매출도 코로나19 이전의 80% 수준까지..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303280549011154368.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 28일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33271/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 16 Mar 2023 00:38:20 GMT</pubDate>
             <content:encoded><![CDATA[1. 세계 주요국이 반도체를 비롯한 첨단산업 주도권을 확보하기 위해 생사를 건 각축전을 벌이고 있는 가운데 윤석열 정부가 ‘세계에서 가장 투자하기 좋은 나라’를 뜻하는 ‘투자특국’을 선언하고 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303150601281370877.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 3월 15일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33197/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33197/</guid>
-            <pubDate>Tue, 14 Mar 2023 22:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[1. 실리콘밸리은행(SVB) 파산 사태는 금융위기가 과거와는 전혀 다른 방식으로 현실화될 수 있음을 보여주고 있어. 한번도 경험하지 못한 새로운 위기 가능성에 미국은 물론 세계 각국이 촉각을 곤두세..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303140556311317173.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
