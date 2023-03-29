@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 21:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 23:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 30일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/03/33278/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33278/</guid>
+            <pubDate>Wed, 29 Mar 2023 23:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[1. 국내 화력발전소 석탄 야적장에 덮개를 씌우는 ‘저탄장 옥내화’ 사업에 참여한 시공업체들이 수천억 원대 손실을 볼 위기에 처한 것으로 확인됐음. 29일 김경만 더불어민주당 의원실에 따르면, 5개..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303290545231771862.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 29일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33275/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 16 Mar 2023 22:08:09 GMT</pubDate>
             <content:encoded><![CDATA[1.스위스 금융당국이 자국 2대 투자은행(IB)인 크레디트스위스(CS)에 최대 70조원의 긴급 자금을 수혈하기로 했음. 유동성 위기에 내몰린 CS의 구제 요청에 하루도 안 돼 전격적으로 자금 투입을 결정한..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303160544021978215.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 16일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33202/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33202/</guid>
-            <pubDate>Thu, 16 Mar 2023 00:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[1. 세계 주요국이 반도체를 비롯한 첨단산업 주도권을 확보하기 위해 생사를 건 각축전을 벌이고 있는 가운데 윤석열 정부가 ‘세계에서 가장 투자하기 좋은 나라’를 뜻하는 ‘투자특국’을 선언하고 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303150601281370877.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
