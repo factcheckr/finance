@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 21:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 22:07:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 1일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33284/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33284/</guid>
+            <pubDate>Fri, 31 Mar 2023 22:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[1. ‘롯데웰푸드(롯데제과), KG모빌리티(쌍용자동차), 포스코퓨처엠(포스코케미칼).’ 국내 기업들 사이에 사명 변경 바람이 거셈. 회사 간판에 미래 비전을 담아내기 위해 국민들에게 친숙했던 이름까..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202303310538591485406.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 30일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/03/33278/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 17 Mar 2023 22:07:27 GMT</pubDate>
             <content:encoded><![CDATA[1. 윤석열 대통령은 17일 일본 도쿄 게이단렌(經團連·경제단체연합회) 회관에서 열린 ‘한일 비즈니스 라운드 테이블’에 참석해 “오늘 이 자리는 그간 경색되었던 한일 관계를 미래지향적인 관계로 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303170549451359333.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 17일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33205/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33205/</guid>
-            <pubDate>Thu, 16 Mar 2023 22:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[1.스위스 금융당국이 자국 2대 투자은행(IB)인 크레디트스위스(CS)에 최대 70조원의 긴급 자금을 수혈하기로 했음. 유동성 위기에 내몰린 CS의 구제 요청에 하루도 안 돼 전격적으로 자금 투입을 결정한..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303160544021978215.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
