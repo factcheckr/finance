@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 21:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 22:05:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월3일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33285/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33285/</guid>
+            <pubDate>Sun, 02 Apr 2023 22:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[1. 삼성전자부터 시작되는 1분기 실적 발표기업에서 어닝쇼크 수준의 성적표를 내놓을 것이란 염려가 커지는 가운데 상장사들의 금융비용도 폭증하는 이중고가 현실화. 2일 시가총액 상위 50대(금융사 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/20230403_5419350_1680412047.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 1일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33284/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 19 Mar 2023 23:07:18 GMT</pubDate>
             <content:encoded><![CDATA[1. 매일경제신문이 사우디국제산업단지회사(SIIVC)로부터 단독 입수한 ‘사우디·한국 산업단지 프로젝트(SKIV·Saudi-Korea Industrial Village Project)’ 최종 참여 확정 기업 명단에  우리 중소기업..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/20230320_5408437_1679204094.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 18일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33209/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33209/</guid>
-            <pubDate>Fri, 17 Mar 2023 22:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 대통령은 17일 일본 도쿄 게이단렌(經團連·경제단체연합회) 회관에서 열린 ‘한일 비즈니스 라운드 테이블’에 참석해 “오늘 이 자리는 그간 경색되었던 한일 관계를 미래지향적인 관계로 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303170549451359333.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
