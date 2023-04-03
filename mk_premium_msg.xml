@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 20:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 22:06:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 4일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33312/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33312/</guid>
+            <pubDate>Mon, 03 Apr 2023 22:06:14 GMT</pubDate>
+            <content:encoded><![CDATA[1. 사우디 아라비아를 비롯한 석유수출국기구(OPEC) 산유국들이 기습적으로 원유 감산을 결정하며 국제유가가 장중 한때 8%이상 급등. 국제유가 상승하면 한국의 경상수지 적자폭이 더 커지고, 소비자 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304030543421040752.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월3일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33285/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 20 Mar 2023 22:09:42 GMT</pubDate>
             <content:encoded><![CDATA[1. 세계적인 투자은행(IB) 크레디트스위스(CS)가 자국 라이벌 UBS의 품에 안김. 하지만 이번 은행 위기의 근본적인 원인으로 꼽히는 금리 인상을 주도한 미국 연방준비제도(Fed·연준)의 금리 결정이 임..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303200454361404972.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월20일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33210/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33210/</guid>
-            <pubDate>Sun, 19 Mar 2023 23:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[1. 매일경제신문이 사우디국제산업단지회사(SIIVC)로부터 단독 입수한 ‘사우디·한국 산업단지 프로젝트(SKIV·Saudi-Korea Industrial Village Project)’ 최종 참여 확정 기업 명단에  우리 중소기업..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/20230320_5408437_1679204094.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
