@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 21:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 22:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 5일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33313/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33313/</guid>
+            <pubDate>Tue, 04 Apr 2023 22:07:24 GMT</pubDate>
+            <content:encoded><![CDATA[1. 삼성이 충남 아산에 최첨단 유기발광다이오드(OLED) 양산 체제를 구축하기 위해 4조원 이상을 투자하기로 결정했음. 디스플레이 산업에서 무서운 속도로 한국을 뒤쫓는 중국을 따돌리기 위한 또 한번..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304040545461114134.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 4일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33312/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 21 Mar 2023 22:07:21 GMT</pubDate>
             <content:encoded><![CDATA[1. 매일경제신문 비전코리아 프로젝트팀이 글로벌 컨설팅사인 보스턴컨설팅그룹과 함께 5대 첨단 파운드리 시장 선점을 비롯한 한국 제조업 강화 전략을 22일 서울 신라호텔에서 열리는 제33차 국민보고..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303210556371382306.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월21일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33237/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33237/</guid>
-            <pubDate>Mon, 20 Mar 2023 22:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[1. 세계적인 투자은행(IB) 크레디트스위스(CS)가 자국 라이벌 UBS의 품에 안김. 하지만 이번 은행 위기의 근본적인 원인으로 꼽히는 금리 인상을 주도한 미국 연방준비제도(Fed·연준)의 금리 결정이 임..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303200454361404972.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
