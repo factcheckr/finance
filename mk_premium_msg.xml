@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 21:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 22:07:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 7일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33318/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33318/</guid>
+            <pubDate>Thu, 06 Apr 2023 22:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[1. 국내 사모투자펀드(PEF) 운용사들이 연합군을 형성해 지방금융지주를 공동으로 인수하는 방안을 추진함. 지방금융지주들을 묶어 영업 영역을 확장하는 한편, 앞으로 외국계은행 한국법인 인수도 타진..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304060544161913953.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 6일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33316/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 23 Mar 2023 23:08:10 GMT</pubDate>
             <content:encoded><![CDATA[1.KT&amp;G, JB금융 등 행동주의 펀드와 표 대결을 앞둔 기업들의 주주총회가 다음주 줄줄이 개최. 매일경제신문이 한국상장회사협의회·코스닥협회와 실시한 상장사(123곳 참여) 설문조사에 참여한 상장기..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303230536461867139.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 23일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33245/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33245/</guid>
-            <pubDate>Wed, 22 Mar 2023 22:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[1. 매일경제신문과 보스턴컨설팅그룹은 22일 서울 장충동 신라호텔에서 ‘제조강국, G5 도약의 길’이라는 주제로 제33차 비전코리아 국민보고대회를 개최하고 이 같은 제안을 포함한 제조업 강화를 위..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303220547121789463.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
