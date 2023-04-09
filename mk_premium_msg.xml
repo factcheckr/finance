@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 21:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 22:05:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 10일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33335/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33335/</guid>
+            <pubDate>Sun, 09 Apr 2023 22:05:39 GMT</pubDate>
+            <content:encoded><![CDATA[1. 매일경제와 베인앤드컴퍼니가 최근 5년간 PEF가 대기업에서 인수 후 재매각한 기업(지분가치 1000억원 이상, 경영권 인수거래 기준) 8곳을 분석한 결과 PEF들이 대기업 계열 사업부나 계열사 기업가치..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/20230410_5425009_1681032918.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 7일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33318/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 24 Mar 2023 22:06:49 GMT</pubDate>
             <content:encoded><![CDATA[1. 수출 부진 여파로 제조업 분야 무역적자가 누적되고 있는 가운데 ‘소프트파워’를 상징하는 지식재산권 분야에서도 수출보다 수입이 더 늘어나는 적자 구조가 확대되고 있음. 24일 한국은행에 따르..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303240555021872960.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 24일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33249/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33249/</guid>
-            <pubDate>Thu, 23 Mar 2023 23:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[1.KT&amp;G, JB금융 등 행동주의 펀드와 표 대결을 앞둔 기업들의 주주총회가 다음주 줄줄이 개최. 매일경제신문이 한국상장회사협의회·코스닥협회와 실시한 상장사(123곳 참여) 설문조사에 참여한 상장기..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303230536461867139.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
