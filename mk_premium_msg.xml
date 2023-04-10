@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 21:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 22:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 11일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33338/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33338/</guid>
+            <pubDate>Mon, 10 Apr 2023 22:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[1. 국내 대표 게임사인 엔씨소프트에 노조가 처음 설립됐음. 넥슨·스마일게이트·엑스엘게임즈·웹젠 등에 이어 게임업계에서 다섯 번째로 탄생한 노조임. 경기 한파에 이직 시장이 꽁꽁 얼어붙자 노조..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304100552201589839.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 10일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33335/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 26 Mar 2023 22:05:48 GMT</pubDate>
             <content:encoded><![CDATA[1. 세계적으로 ‘챗GPT’ 열풍이 불고 있는 가운데 ‘생성형 인공지능(AI)’ 분야 기초연구와 특허 개발에서 미국과 중국이 압도적 우위를 점하고 있는 것으로 조사. 한국의 경우, 양적인 측면에서는 세..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/news-p.v1.20230326.594d63ebbd9f496ea940e3a61aeeee56.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 25일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33254/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33254/</guid>
-            <pubDate>Fri, 24 Mar 2023 22:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[1. 수출 부진 여파로 제조업 분야 무역적자가 누적되고 있는 가운데 ‘소프트파워’를 상징하는 지식재산권 분야에서도 수출보다 수입이 더 늘어나는 적자 구조가 확대되고 있음. 24일 한국은행에 따르..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303240555021872960.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
