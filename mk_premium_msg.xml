@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 21:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 22:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 12일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33341/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33341/</guid>
+            <pubDate>Tue, 11 Apr 2023 22:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[1. 도로·철도 등 수백억원의 국가 재정이 투입되는 사회간접자본(SOC) 사업에 대한 ‘예비타당성조사(예타)’ 면제기준을 대폭 완화하는 법안이 곧 국회 문턱을 넘을 예정임. 총선을 1년 앞둔 시점에서..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304110608461576430.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 11일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33338/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 27 Mar 2023 22:07:40 GMT</pubDate>
             <content:encoded><![CDATA[1.미국 실리콘밸리은행(SVB) 파산 이후 예금도 안전하지 않다는 인식이 확산되면서 글로벌 자금이 머니마켓펀드(MMF)에 밀물처럼 몰려들고 있음. MMF는 단기 금융상품에 집중투자하는 펀드로 언제든 돈..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303270543141429356.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 27일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33255/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33255/</guid>
-            <pubDate>Sun, 26 Mar 2023 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[1. 세계적으로 ‘챗GPT’ 열풍이 불고 있는 가운데 ‘생성형 인공지능(AI)’ 분야 기초연구와 특허 개발에서 미국과 중국이 압도적 우위를 점하고 있는 것으로 조사. 한국의 경우, 양적인 측면에서는 세..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/news-p.v1.20230326.594d63ebbd9f496ea940e3a61aeeee56.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
