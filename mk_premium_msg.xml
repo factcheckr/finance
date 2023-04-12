@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 21:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 22:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 13일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33343/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33343/</guid>
+            <pubDate>Wed, 12 Apr 2023 22:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[1. 올해 2분기 전기·가스요금 조정안이 이르면 다음주 발표될 전망. 한국전력과 한국가스공사가 조만간 고강도 자구책을 추가로 마련할 예정이어서 요금 조정안도 이와 맞물려 이른 시일 내 나올 것으..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304120610531572502.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 12일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33341/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 28 Mar 2023 22:07:26 GMT</pubDate>
             <content:encoded><![CDATA[1.매일경제가 명동과 강남 등을 둘러본 결과 서울 시내 주요 상권들이 조금씩, 그러나 뚜렷이 활기를 되찾아가는 모양새인 것으로 나타나. 가게마다 차이는 있지만 매출도 코로나19 이전의 80% 수준까지..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303280549011154368.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 3월 28일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/03/33271/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/03/33271/</guid>
-            <pubDate>Mon, 27 Mar 2023 22:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[1.미국 실리콘밸리은행(SVB) 파산 이후 예금도 안전하지 않다는 인식이 확산되면서 글로벌 자금이 머니마켓펀드(MMF)에 밀물처럼 몰려들고 있음. MMF는 단기 금융상품에 집중투자하는 펀드로 언제든 돈..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/03/202303270543141429356.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
