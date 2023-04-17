@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 21:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 22:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 18일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33351/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33351/</guid>
+            <pubDate>Mon, 17 Apr 2023 22:06:29 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 정부 노동개혁의 첫 단추로 꼽혔던 근로시간 제도 개편이 당초 예정한 시점을 넘기게 됐음. 개편안을 담은 근로기준법 개정안이 입법 예고된 뒤 이른바 ‘69시간 근로제’라는 과잉근로 프레..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304170546521841389.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 17일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33348/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 03 Apr 2023 22:06:14 GMT</pubDate>
             <content:encoded><![CDATA[1. 사우디 아라비아를 비롯한 석유수출국기구(OPEC) 산유국들이 기습적으로 원유 감산을 결정하며 국제유가가 장중 한때 8%이상 급등. 국제유가 상승하면 한국의 경상수지 적자폭이 더 커지고, 소비자 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304030543421040752.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월3일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/04/33285/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33285/</guid>
-            <pubDate>Sun, 02 Apr 2023 22:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[1. 삼성전자부터 시작되는 1분기 실적 발표기업에서 어닝쇼크 수준의 성적표를 내놓을 것이란 염려가 커지는 가운데 상장사들의 금융비용도 폭증하는 이중고가 현실화. 2일 시가총액 상위 50대(금융사 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/20230403_5419350_1680412047.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
