@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 21:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 22:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 19일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33374/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33374/</guid>
+            <pubDate>Tue, 18 Apr 2023 22:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 대통령이 전세사기 문제에 대해 “정부 대책이 현장에서 제대로 작동하고 있는지 점검하고 또 점검해주기 바란다”고 강조함. 이와 관련해 한국자산관리공사(캠코)는 전세사기 피해자 지원대..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304180544101977631.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 18일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33351/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 04 Apr 2023 22:07:24 GMT</pubDate>
             <content:encoded><![CDATA[1. 삼성이 충남 아산에 최첨단 유기발광다이오드(OLED) 양산 체제를 구축하기 위해 4조원 이상을 투자하기로 결정했음. 디스플레이 산업에서 무서운 속도로 한국을 뒤쫓는 중국을 따돌리기 위한 또 한번..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304040545461114134.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 4일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/04/33312/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33312/</guid>
-            <pubDate>Mon, 03 Apr 2023 22:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[1. 사우디 아라비아를 비롯한 석유수출국기구(OPEC) 산유국들이 기습적으로 원유 감산을 결정하며 국제유가가 장중 한때 8%이상 급등. 국제유가 상승하면 한국의 경상수지 적자폭이 더 커지고, 소비자 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304030543421040752.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
