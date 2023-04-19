@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 21:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 22:06:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 20일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33376/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33376/</guid>
+            <pubDate>Wed, 19 Apr 2023 22:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[1.미국 월가의 ‘큰 손’인 스티븐 슈워츠먼 블랙스톤 회장이 “미국 은행 파산 사태는 일시적 현상으로 위기가 아니다”고 말함. 그는 미국 뉴욕에서 열린 ‘2023 매경 뉴욕 글로벌금융리더포럼’에 연..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304190534531669943.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 19일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33374/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 05 Apr 2023 22:05:59 GMT</pubDate>
             <content:encoded><![CDATA[1.정부가 수도권 소재 공공기관 300곳 이상을 지방으로 옮기는 2차 공공기관 이전 계획을 6월 말까지 수립할 예정인 가운데 지방자치단체들이 너도나도 입도선매 경쟁에 뛰어들며 과열 양상이 빚어지고 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304050607041351865.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 5일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/04/33313/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33313/</guid>
-            <pubDate>Tue, 04 Apr 2023 22:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[1. 삼성이 충남 아산에 최첨단 유기발광다이오드(OLED) 양산 체제를 구축하기 위해 4조원 이상을 투자하기로 결정했음. 디스플레이 산업에서 무서운 속도로 한국을 뒤쫓는 중국을 따돌리기 위한 또 한번..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304040545461114134.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
