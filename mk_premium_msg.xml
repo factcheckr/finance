@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 21:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 22:06:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월21일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33378/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33378/</guid>
+            <pubDate>Thu, 20 Apr 2023 22:06:15 GMT</pubDate>
+            <content:encoded><![CDATA[1. 정부가 지방 투자를 활성화하기 위해 수도권에서 비수도권으로 본사를 이전하는 기업에 대해 법인세를 깎아주는 방안을 추진함. 현행 9~24%인 법인세율을 5%포인트 낮춰주는 감세 전략을 앞세워 수도..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304200542281438888.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 20일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33376/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 06 Apr 2023 22:07:19 GMT</pubDate>
             <content:encoded><![CDATA[1. 국내 사모투자펀드(PEF) 운용사들이 연합군을 형성해 지방금융지주를 공동으로 인수하는 방안을 추진함. 지방금융지주들을 묶어 영업 영역을 확장하는 한편, 앞으로 외국계은행 한국법인 인수도 타진..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304060544161913953.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 6일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/04/33316/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33316/</guid>
-            <pubDate>Wed, 05 Apr 2023 22:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[1.정부가 수도권 소재 공공기관 300곳 이상을 지방으로 옮기는 2차 공공기관 이전 계획을 6월 말까지 수립할 예정인 가운데 지방자치단체들이 너도나도 입도선매 경쟁에 뛰어들며 과열 양상이 빚어지고 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304050607041351865.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
