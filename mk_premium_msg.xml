@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 21:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 22:06:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 25일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33399/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33399/</guid>
+            <pubDate>Mon, 24 Apr 2023 22:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[1. 국내 증시에서 24일 한 외국계 증권사 창구를 통해 매도물량이 쏟아지면서 하림지주 삼천리 다우데이타 등 8개 종목이 하한가로 직행하는 일이 벌어져. 시장에서는 반대매매가 일시에 쏟아진 것이라..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304240548561071243.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 22일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33382/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 23 Apr 2023 23:08:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 국내 대표 게임사인 엔씨소프트에 노조가 처음 설립됐음. 넥슨·스마일게이트·엑스엘게임즈·웹젠 등에 이어 게임업계에서 다섯 번째로 탄생한 노조임. 경기 한파에 이직 시장이 꽁꽁 얼어붙자 노조..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304100552201589839.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 10일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/04/33335/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33335/</guid>
-            <pubDate>Sun, 23 Apr 2023 23:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 매일경제와 베인앤드컴퍼니가 최근 5년간 PEF가 대기업에서 인수 후 재매각한 기업(지분가치 1000억원 이상, 경영권 인수거래 기준) 8곳을 분석한 결과 PEF들이 대기업 계열 사업부나 계열사 기업가치..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/20230410_5425009_1681032918.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
