@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 21:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 22:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 26일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33414/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33414/</guid>
+            <pubDate>Tue, 25 Apr 2023 22:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 대통령이 24일(현지시간) 미국 국빈방문 첫 일정으로 태드 서랜도스 넷플릭스 공동 대표(CEO)를 만나 한국 문화 콘텐츠 산업에 25억달러 규모의 투자를 유치했음. 윤 대통령은 이날 오후 2시..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304250517331617362.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 4월 25일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33399/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 23 Apr 2023 23:08:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 도로·철도 등 수백억원의 국가 재정이 투입되는 사회간접자본(SOC) 사업에 대한 ‘예비타당성조사(예타)’ 면제기준을 대폭 완화하는 법안이 곧 국회 문턱을 넘을 예정임. 총선을 1년 앞둔 시점에서..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304110608461576430.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 11일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/04/33338/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33338/</guid>
-            <pubDate>Sun, 23 Apr 2023 23:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 국내 대표 게임사인 엔씨소프트에 노조가 처음 설립됐음. 넥슨·스마일게이트·엑스엘게임즈·웹젠 등에 이어 게임업계에서 다섯 번째로 탄생한 노조임. 경기 한파에 이직 시장이 꽁꽁 얼어붙자 노조..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304100552201589839.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
