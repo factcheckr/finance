@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 21:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 22:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 27일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/04/33417/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33417/</guid>
+            <pubDate>Wed, 26 Apr 2023 22:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[1.  5월부터 전세 보증보험 가입 기준이 강화될 예정인 가운데 수도권 빌라 10채 중 6채는 새로운 규정에 따라 전세 보증보험에 가입하는 게 힘든 것으로 나타나. 빌라 거래가 크게 위축된 상황에서 집..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304260548071848018.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 26일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/04/33414/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 23 Apr 2023 23:08:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 올해 2분기 전기·가스요금 조정안이 이르면 다음주 발표될 전망. 한국전력과 한국가스공사가 조만간 고강도 자구책을 추가로 마련할 예정이어서 요금 조정안도 이와 맞물려 이른 시일 내 나올 것으..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304120610531572502.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 12일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/04/33341/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33341/</guid>
-            <pubDate>Sun, 23 Apr 2023 23:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 도로·철도 등 수백억원의 국가 재정이 투입되는 사회간접자본(SOC) 사업에 대한 ‘예비타당성조사(예타)’ 면제기준을 대폭 완화하는 법안이 곧 국회 문턱을 넘을 예정임. 총선을 1년 앞둔 시점에서..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304110608461576430.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
