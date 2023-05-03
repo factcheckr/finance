@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 21:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 22:05:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 4일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/05/33456/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33456/</guid>
+            <pubDate>Wed, 03 May 2023 22:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[1.한국 수출기업이 지난 3년간 2500개 이상 사라진 것으로 나타나. 최근 한국 수출량이 7개월 연속 줄어든 배경에는 수출기업 증발 현상이 자리잡고 있는 것. 코로나19로 국가 간 교역이 줄어들고 글로..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305030551411473000.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 3일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/05/33439/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 23 Apr 2023 23:08:00 GMT</pubDate>
             <content:encoded><![CDATA[1.미국 월가의 ‘큰 손’인 스티븐 슈워츠먼 블랙스톤 회장이 “미국 은행 파산 사태는 일시적 현상으로 위기가 아니다”고 말함. 그는 미국 뉴욕에서 열린 ‘2023 매경 뉴욕 글로벌금융리더포럼’에 연..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304190534531669943.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 19일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/04/33374/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33374/</guid>
-            <pubDate>Sun, 23 Apr 2023 23:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 대통령이 전세사기 문제에 대해 “정부 대책이 현장에서 제대로 작동하고 있는지 점검하고 또 점검해주기 바란다”고 강조함. 이와 관련해 한국자산관리공사(캠코)는 전세사기 피해자 지원대..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304180544101977631.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
