@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 18:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 22:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 5일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/05/33457/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33457/</guid>
+            <pubDate>Thu, 04 May 2023 22:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[1. 올해 사모투자펀드(PEF)들이 인수합병(M&amp;A) 시장에 내놓을 기업 매물이 22조원(거래가격 기준)을 훌쩍 넘을 것으로 예상됨. 매각가 1조원이 거론되는 IMM프라이빗에쿼티(PE)의 에어퍼스트 소수지분을..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/news-p.v1.20230504.71bf200b4f3a4b979bad26632fb60c6e.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 4일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/05/33456/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 23 Apr 2023 23:08:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 정부가 지방 투자를 활성화하기 위해 수도권에서 비수도권으로 본사를 이전하는 기업에 대해 법인세를 깎아주는 방안을 추진함. 현행 9~24%인 법인세율을 5%포인트 낮춰주는 감세 전략을 앞세워 수도..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304200542281438888.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 20일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/04/33376/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33376/</guid>
-            <pubDate>Sun, 23 Apr 2023 23:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[1.미국 월가의 ‘큰 손’인 스티븐 슈워츠먼 블랙스톤 회장이 “미국 은행 파산 사태는 일시적 현상으로 위기가 아니다”고 말함. 그는 미국 뉴욕에서 열린 ‘2023 매경 뉴욕 글로벌금융리더포럼’에 연..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304190534531669943.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
