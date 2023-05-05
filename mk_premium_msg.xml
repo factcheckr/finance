@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 08:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 09:07:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 6일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/05/33458/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33458/</guid>
+            <pubDate>Fri, 05 May 2023 09:07:14 GMT</pubDate>
+            <content:encoded><![CDATA[1. 반도체, 전기차를 둘러싼 기술 패권 경쟁에 이어 미국과 중국의 대립과 갈등이 인공지능(AI), 생명공학, 양자(퀀텀) 등 첨단기술 분야로 확대됨. 4일(현지시간) 미국 백악관은 첨단기술 분야에서 중국..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/20230506_5445561_1683275123.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 5일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/05/33457/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 23 Apr 2023 23:08:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 정부가 전국 모든 전세사기 피해 주택을 한국토지주택공사(LH)의 매입임대 제도를 활용해 사들이겠다는 뜻을 밝힘. LH가 매입한 뒤 이를 피해세입자에게 공공임대주택으로 제공할 계획. 정부는 당초 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304210540111549102.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월21일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/04/33378/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33378/</guid>
-            <pubDate>Sun, 23 Apr 2023 23:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 정부가 지방 투자를 활성화하기 위해 수도권에서 비수도권으로 본사를 이전하는 기업에 대해 법인세를 깎아주는 방안을 추진함. 현행 9~24%인 법인세율을 5%포인트 낮춰주는 감세 전략을 앞세워 수도..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304200542281438888.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
