@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 21:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 22:06:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월8일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/05/33459/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33459/</guid>
+            <pubDate>Sun, 07 May 2023 22:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[1. 기시다 후미오 일본 총리와 부인 기시다 유코 여사가 공식 한국 답방 일정을 시작. 이번 방한은 윤석열 대통령이 지난 3월 실무 방문 형식으로 일본 도쿄를 찾은지 52일 만의 답방. 기시다 총리의 전..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/20230508_5446114_1683439338.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 6일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/05/33458/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 24 Apr 2023 22:06:32 GMT</pubDate>
             <content:encoded><![CDATA[1. 국내 증시에서 24일 한 외국계 증권사 창구를 통해 매도물량이 쏟아지면서 하림지주 삼천리 다우데이타 등 8개 종목이 하한가로 직행하는 일이 벌어져. 시장에서는 반대매매가 일시에 쏟아진 것이라..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304240548561071243.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 22일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/04/33382/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33382/</guid>
-            <pubDate>Sun, 23 Apr 2023 23:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 정부가 전국 모든 전세사기 피해 주택을 한국토지주택공사(LH)의 매입임대 제도를 활용해 사들이겠다는 뜻을 밝힘. LH가 매입한 뒤 이를 피해세입자에게 공공임대주택으로 제공할 계획. 정부는 당초 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304210540111549102.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
