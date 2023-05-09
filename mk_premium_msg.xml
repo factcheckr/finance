@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 21:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 22:07:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 10일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/05/33486/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33486/</guid>
+            <pubDate>Tue, 09 May 2023 22:07:12 GMT</pubDate>
+            <content:encoded><![CDATA[1. 취임 1주년을 앞둔 윤석열 대통령은 9일 국무회의 자리서 “건물과 제도를 무너뜨리는 데는 시간이 걸리지 않는다. 순간이다. 그러나 무너진 것을 다시 세우는 데는 엄청난 시간과 노력이 든다”며 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305090558101362932.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 9일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/05/33477/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 26 Apr 2023 22:09:42 GMT</pubDate>
             <content:encoded><![CDATA[1.  5월부터 전세 보증보험 가입 기준이 강화될 예정인 가운데 수도권 빌라 10채 중 6채는 새로운 규정에 따라 전세 보증보험에 가입하는 게 힘든 것으로 나타나. 빌라 거래가 크게 위축된 상황에서 집..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304260548071848018.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 26일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/04/33414/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33414/</guid>
-            <pubDate>Tue, 25 Apr 2023 22:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 대통령이 24일(현지시간) 미국 국빈방문 첫 일정으로 태드 서랜도스 넷플릭스 공동 대표(CEO)를 만나 한국 문화 콘텐츠 산업에 25억달러 규모의 투자를 유치했음. 윤 대통령은 이날 오후 2시..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304250517331617362.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
