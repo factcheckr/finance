@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 21:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 23:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월 11일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/05/33489/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33489/</guid>
+            <pubDate>Wed, 10 May 2023 23:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[1. 급격한 인구절벽과 대기업·중소기업, 수도권·지방 등 인력 미스매치로 한국에 일할 사람이 사라지고 있음. 세계 최저 수준의 출산율로 2050년이면 한국 인구는 현재 5100만명에서 4700만명으로 뚝 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305100605241071253.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 10일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/05/33486/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 27 Apr 2023 22:08:38 GMT</pubDate>
             <content:encoded><![CDATA[1. 올해 1분기 최악의 실적을 기록한 삼성전자가 실적 반등 시기를 앞당기기 위해 반도체 감산 규모를 기존 생산량의 최대 25%까지 확대할 계획. 27일 반도체 업계와 시장 관계자에 따르면 삼성전자에서..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304270558331894930.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 27일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/04/33417/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33417/</guid>
-            <pubDate>Wed, 26 Apr 2023 22:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[1.  5월부터 전세 보증보험 가입 기준이 강화될 예정인 가운데 수도권 빌라 10채 중 6채는 새로운 규정에 따라 전세 보증보험에 가입하는 게 힘든 것으로 나타나. 빌라 거래가 크게 위축된 상황에서 집..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304260548071848018.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
