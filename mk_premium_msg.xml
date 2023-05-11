@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 21:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 22:06:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월 12일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/05/33492/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33492/</guid>
+            <pubDate>Thu, 11 May 2023 22:05:59 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 대통령이 “3년 4개월 만에 국민들께서 일상을 되찾으시게 돼서 기쁘게 생각한다”며 코로나19 팬데믹의 사실상 종식을 선언. 윤 대통령은 11일 코로나19 중앙재난안전대책본부 회의를 직접 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305110601081783440.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월 11일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/05/33489/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 28 Apr 2023 22:05:24 GMT</pubDate>
             <content:encoded><![CDATA[1. 외식업계에 따르면 미국 샌프란시스코의 유명 수제버거 브랜드로 지난해 10월 서울 강남에 국내 첫 매장을 연슈퍼두퍼는 ‘슈퍼더블 버거’ 가격을 최근 1만3900원에서 1만5900원으로 2000원(14.4%) ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304280617531944587.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 4월 28일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/04/33420/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/04/33420/</guid>
-            <pubDate>Thu, 27 Apr 2023 22:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[1. 올해 1분기 최악의 실적을 기록한 삼성전자가 실적 반등 시기를 앞당기기 위해 반도체 감산 규모를 기존 생산량의 최대 25%까지 확대할 계획. 27일 반도체 업계와 시장 관계자에 따르면 삼성전자에서..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/04/202304270558331894930.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
