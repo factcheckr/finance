@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 20:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 22:07:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 15일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/05/33496/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33496/</guid>
+            <pubDate>Sun, 14 May 2023 22:07:48 GMT</pubDate>
+            <content:encoded><![CDATA[1. 주식투자에 나서는 개인 투자자들이 늘면서 덩달아 독버섯처럼 퍼지는 증권사기 피해가 급증하고 있음. 14일 한국소비자원이 황운하 의원(더불어민주당)에게 제출한 자료에 따르면 주식 리딩방 피해 관..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/20230515_5451738_1684055812.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 13일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/05/33495/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 01 May 2023 22:06:09 GMT</pubDate>
             <content:encoded><![CDATA[1. 대출을 제때 갚지 못해 채무조정을 신청한 취약대출자가 올해 1분기에만 4만6000명을 넘어섰음. 분기 신청자 기준으로 17년 만에 최대 규모. 지난해 금리상승 여파와 경기침체로 한계 상황에 내몰리..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/news-p.v1.20230501.f3d0a5c95de84241a340334fb44e2b67.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월1일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33423/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33423/</guid>
-            <pubDate>Sun, 30 Apr 2023 22:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[1. 서학개미들이 지난 3월 미국 실리콘밸리은행(SVB) 파산 사태 이후 지역은행주 3배 레버리지 상장지수펀드(ETF)를 188억원 사들인 것으로 집계. 한국예탁결제원 증권정보포털(세이브로)에 따르면 서학..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/20230501_5441512_1682831594.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
