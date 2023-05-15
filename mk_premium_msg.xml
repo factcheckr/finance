@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 21:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 22:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월 16일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/05/33512/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33512/</guid>
+            <pubDate>Mon, 15 May 2023 22:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[1.생성형 인공지능(AI) 생태계 경쟁에 글로벌 빅테크들이 앞다퉈 뛰어들면서 핵심 하드웨어인 AI 반도체에 대한 종속 우려가 커지고 있어. 현재로선 그래픽처리장치(GPU) 최고 강자인 엔비디아가 시장을..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305150610481754922.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 15일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/05/33496/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 02 May 2023 22:06:03 GMT</pubDate>
             <content:encoded><![CDATA[1. 기시다 후미오 일본 총리가 오는 7일부터 1박 2일 일정으로 한국을 방문해 윤석열 대통령과 한일정상회담을 함. 앞서 윤 대통령이 지난 3월 일본을 방문한 데 이어 기시다 총리가 답방하는 형태이며 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305020601271640781.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 2일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33424/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33424/</guid>
-            <pubDate>Mon, 01 May 2023 22:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[1. 대출을 제때 갚지 못해 채무조정을 신청한 취약대출자가 올해 1분기에만 4만6000명을 넘어섰음. 분기 신청자 기준으로 17년 만에 최대 규모. 지난해 금리상승 여파와 경기침체로 한계 상황에 내몰리..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/news-p.v1.20230501.f3d0a5c95de84241a340334fb44e2b67.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
