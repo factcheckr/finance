@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 21:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 22:06:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 18일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/05/33526/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33526/</guid>
+            <pubDate>Wed, 17 May 2023 22:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[1. 한국이 앞으로 성장률을 연 1%포인트 올리려면 이민자를 4배 이상 받아야 한다는 조사 결과가 나옴. 매일경제와 한국경제연구원의 공동 분석 결과 현재 4.5%인 외국인 비중을 20년 후인 2042년까지 ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305170548181895583.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 17일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/05/33522/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 04 May 2023 22:09:22 GMT</pubDate>
             <content:encoded><![CDATA[1. 올해 사모투자펀드(PEF)들이 인수합병(M&amp;A) 시장에 내놓을 기업 매물이 22조원(거래가격 기준)을 훌쩍 넘을 것으로 예상됨. 매각가 1조원이 거론되는 IMM프라이빗에쿼티(PE)의 에어퍼스트 소수지분을..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/news-p.v1.20230504.71bf200b4f3a4b979bad26632fb60c6e.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 4일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33456/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33456/</guid>
-            <pubDate>Wed, 03 May 2023 22:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[1.한국 수출기업이 지난 3년간 2500개 이상 사라진 것으로 나타나. 최근 한국 수출량이 7개월 연속 줄어든 배경에는 수출기업 증발 현상이 자리잡고 있는 것. 코로나19로 국가 간 교역이 줄어들고 글로..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305030551411473000.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
