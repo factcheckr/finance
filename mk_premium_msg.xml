@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 21:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 22:06:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 19일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/05/33528/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33528/</guid>
+            <pubDate>Thu, 18 May 2023 22:06:02 GMT</pubDate>
+            <content:encoded><![CDATA[1.오늘(19일)부터 사흘간 일본 히로시마에서 열리는 주요 7개국(G7) 정상회의는 미국이 구상하는 세계경제의 신(新)질서 방향을 재확인하는 계기가 될 전망. 이번 회의에는 한국을 비롯해 호주, 인도, ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305180559331131146.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 18일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/05/33526/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 05 May 2023 09:07:14 GMT</pubDate>
             <content:encoded><![CDATA[1. 반도체, 전기차를 둘러싼 기술 패권 경쟁에 이어 미국과 중국의 대립과 갈등이 인공지능(AI), 생명공학, 양자(퀀텀) 등 첨단기술 분야로 확대됨. 4일(현지시간) 미국 백악관은 첨단기술 분야에서 중국..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/20230506_5445561_1683275123.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 5일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33457/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33457/</guid>
-            <pubDate>Thu, 04 May 2023 22:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[1. 올해 사모투자펀드(PEF)들이 인수합병(M&amp;A) 시장에 내놓을 기업 매물이 22조원(거래가격 기준)을 훌쩍 넘을 것으로 예상됨. 매각가 1조원이 거론되는 IMM프라이빗에쿼티(PE)의 에어퍼스트 소수지분을..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/news-p.v1.20230504.71bf200b4f3a4b979bad26632fb60c6e.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
