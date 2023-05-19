@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 20:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 22:05:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 20일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/05/33530/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33530/</guid>
+            <pubDate>Fri, 19 May 2023 22:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[1. G7는 중국의 경제보복에 대응하는 협의체를 신설하는 등 중국에 대한 전례없는 수준의 공동대응에 나서기로 함. 젤렌스키 우크라이나 대통령 참석이 알려지면서 추가 러시아 제재조치 내놓을 가능성...]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305190552191462563.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 19일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/05/33528/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 07 May 2023 22:06:39 GMT</pubDate>
             <content:encoded><![CDATA[1. 기시다 후미오 일본 총리와 부인 기시다 유코 여사가 공식 한국 답방 일정을 시작. 이번 방한은 윤석열 대통령이 지난 3월 실무 방문 형식으로 일본 도쿄를 찾은지 52일 만의 답방. 기시다 총리의 전..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/20230508_5446114_1683439338.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 6일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33458/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33458/</guid>
-            <pubDate>Fri, 05 May 2023 09:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[1. 반도체, 전기차를 둘러싼 기술 패권 경쟁에 이어 미국과 중국의 대립과 갈등이 인공지능(AI), 생명공학, 양자(퀀텀) 등 첨단기술 분야로 확대됨. 4일(현지시간) 미국 백악관은 첨단기술 분야에서 중국..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/20230506_5445561_1683275123.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
