@@ -4,9 +4,17 @@
         <title>매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 21:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 22:07:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 22일)]]></title>
+            <link>https://www.mk.co.kr/premium/life/view/2023/05/33531/</link>
+            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33531/</guid>
+            <pubDate>Sun, 21 May 2023 22:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[1. 윤석열 대통령, 조 바이든 미국 대통령, 기시다 후미오 일본 총리가 ‘한미일 3국 간 새로운 수준의 공조’에 합의함. 21일 대통령실과 백악관 등에 따르면 한미일 3국 정상은 이날 주요 7개국(G7) ..]]></content:encoded>
+            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/news-p.v1.20230521.57302442807d4ef298781649a3a13eeb.jpg.thumb" length="0" type="image/thumb"/>
+        </item>
         <item>
             <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 20일)]]></title>
             <link>https://www.mk.co.kr/premium/life/view/2023/05/33530/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 08 May 2023 09:08:12 GMT</pubDate>
             <content:encoded><![CDATA[1. 대우조선해양 분식회계를 계기로 회계 투명성을 높이기 위해 도입된 신외부감사법이 5년만에 누더기가 될 위기. 회계개혁 평갇개선 추진단이 내년 시행 예정인 자산 5000억 이상~2조 미만 상장사의 ..]]></content:encoded>
             <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305080557581743012.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월8일)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33459/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33459/</guid>
-            <pubDate>Sun, 07 May 2023 22:06:39 GMT</pubDate>
-            <content:encoded><![CDATA[1. 기시다 후미오 일본 총리와 부인 기시다 유코 여사가 공식 한국 답방 일정을 시작. 이번 방한은 윤석열 대통령이 지난 3월 실무 방문 형식으로 일본 도쿄를 찾은지 52일 만의 답방. 기시다 총리의 전..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/20230508_5446114_1683439338.jpg.thumb" length="0" type="image/thumb"/>
         </item>
     </channel>
 </rss>
