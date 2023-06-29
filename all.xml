@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 04:24:54 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[💧물 장사에 나선 월가 [4월 28일] (순살브리핑 ─ 날짜별)]]></title>
-            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15008059&amp;t=board</link>
-            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15008059&amp;t=board</guid>
-            <pubDate>Fri, 28 Apr 2023 00:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://factcheckr.github.io/finance/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2023-06-29T09:09:56.265Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[💧물 장사에 나선 월가 [4월 28일] (순살브리핑 ─ 날짜별)]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15008059&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=15008059&amp;t=board"/>
+        <updated>2023-04-28T00:35:11.757Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -28,14 +25,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[💑결혼을 안 하니깐 망해가는 의외의 산업 [4월 27일] (순살브리핑 ─ 날짜별)]]></title>
-            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14998186&amp;t=board</link>
-            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14998186&amp;t=board</guid>
-            <pubDate>Thu, 27 Apr 2023 00:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💑결혼을 안 하니깐 망해가는 의외의 산업 [4월 27일] (순살브리핑 ─ 날짜별)]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14998186&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14998186&amp;t=board"/>
+        <updated>2023-04-27T00:36:13.086Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -51,14 +48,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🍯올해도 캐반꿀은 계속될까? [4월 26일] (순살브리핑 ─ 날짜별)]]></title>
-            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14987339&amp;t=board</link>
-            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14987339&amp;t=board</guid>
-            <pubDate>Wed, 26 Apr 2023 00:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🍯올해도 캐반꿀은 계속될까? [4월 26일] (순살브리핑 ─ 날짜별)]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14987339&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14987339&amp;t=board"/>
+        <updated>2023-04-26T00:34:13.460Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -74,14 +71,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🔋저세상 2차전지, 니켈에 투자할 때? [4월 25일] (순살브리핑 ─ 날짜별)]]></title>
-            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14976685&amp;t=board</link>
-            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14976685&amp;t=board</guid>
-            <pubDate>Tue, 25 Apr 2023 00:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔋저세상 2차전지, 니켈에 투자할 때? [4월 25일] (순살브리핑 ─ 날짜별)]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14976685&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14976685&amp;t=board"/>
+        <updated>2023-04-25T00:35:38.317Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -97,14 +94,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[💰은행털이범들, 실직자가 된 사연 [4월 24일] (순살브리핑 ─ 날짜별)]]></title>
-            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14976582&amp;t=board</link>
-            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14976582&amp;t=board</guid>
-            <pubDate>Tue, 25 Apr 2023 00:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💰은행털이범들, 실직자가 된 사연 [4월 24일] (순살브리핑 ─ 날짜별)]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14976582&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14976582&amp;t=board"/>
+        <updated>2023-04-25T00:35:38.324Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -120,14 +117,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🤐이모티콘 썼다고 고소당함 [4월 21일] (순살브리핑 ─ 날짜별)]]></title>
-            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14945676&amp;t=board</link>
-            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14945676&amp;t=board</guid>
-            <pubDate>Fri, 21 Apr 2023 00:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤐이모티콘 썼다고 고소당함 [4월 21일] (순살브리핑 ─ 날짜별)]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14945676&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14945676&amp;t=board"/>
+        <updated>2023-04-21T00:34:28.068Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -143,14 +140,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[👊유럽의 반격, CRMA법안 [4월 20일] (순살브리핑 ─ 날짜별)]]></title>
-            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14930394&amp;t=board</link>
-            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14930394&amp;t=board</guid>
-            <pubDate>Thu, 20 Apr 2023 00:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👊유럽의 반격, CRMA법안 [4월 20일] (순살브리핑 ─ 날짜별)]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14930394&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14930394&amp;t=board"/>
+        <updated>2023-04-20T00:33:12.732Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -166,14 +163,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🌙달빛 시간대, Moon Time의 등장 [4월 19일] (순살브리핑 ─ 날짜별)]]></title>
-            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14920580&amp;t=board</link>
-            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14920580&amp;t=board</guid>
-            <pubDate>Wed, 19 Apr 2023 02:48:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🌙달빛 시간대, Moon Time의 등장 [4월 19일] (순살브리핑 ─ 날짜별)]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14920580&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14920580&amp;t=board"/>
+        <updated>2023-04-19T02:48:06.098Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -189,14 +186,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[👊둘이 싸우면 누가 이길까? 프로레슬링 vs 실전 격투기 [4월 18일] (순살브리핑 ─ 날짜별)]]></title>
-            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14909402&amp;t=board</link>
-            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14909402&amp;t=board</guid>
-            <pubDate>Tue, 18 Apr 2023 00:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👊둘이 싸우면 누가 이길까? 프로레슬링 vs 실전 격투기 [4월 18일] (순살브리핑 ─ 날짜별)]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14909402&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14909402&amp;t=board"/>
+        <updated>2023-04-18T00:32:13.997Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -212,14 +209,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🤑오늘만 살기로 결정! 0일 옵션 붐 [4월 17일] (순살브리핑 ─ 날짜별)]]></title>
-            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14898623&amp;t=board</link>
-            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14898623&amp;t=board</guid>
-            <pubDate>Sun, 16 Apr 2023 23:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤑오늘만 살기로 결정! 0일 옵션 붐 [4월 17일] (순살브리핑 ─ 날짜별)]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14898623&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14898623&amp;t=board"/>
+        <updated>2023-04-16T23:05:53.561Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -235,14 +232,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🎰130조원 미국 로또 시장, 명당 자리를 찾는 투자자들 [4월 14일] (순살브리핑 ─ 날짜별)]]></title>
-            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14771317&amp;t=board</link>
-            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14771317&amp;t=board</guid>
-            <pubDate>Fri, 14 Apr 2023 00:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎰130조원 미국 로또 시장, 명당 자리를 찾는 투자자들 [4월 14일] (순살브리핑 ─ 날짜별)]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14771317&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14771317&amp;t=board"/>
+        <updated>2023-04-14T00:35:38.934Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -258,14 +255,14 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[💊당뇨약 깎아줄게, 다이어트약 승인해줘 [4월 13일] (순살브리핑 ─ 날짜별)]]></title>
-            <link>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14759626&amp;t=board</link>
-            <guid>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14759626&amp;t=board</guid>
-            <pubDate>Thu, 13 Apr 2023 00:32:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="_fade_link" href="?category=">
+						<!--						-->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💊당뇨약 깎아줄게, 다이어트약 승인해줘 [4월 13일] (순살브리핑 ─ 날짜별)]]></title>
+        <id>https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14759626&amp;t=board</id>
+        <link href="https://soonsal.com/newsletters/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14759626&amp;t=board"/>
+        <updated>2023-04-13T00:32:04.681Z</updated>
+        <content type="html"><![CDATA[<a class="_fade_link" href="?category=">
 							<em class="hidden-sm hidden-lg hidden-md" style="padding-right:5px;color:;display: none !important;"></em>
 						</a>
 												<span class="tit_ico">
@@ -281,117 +278,20 @@
 																		<!--						-->						<!--							<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 						<!--						-->						<!--						-->						<!--							<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-						<!--						-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 23일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33532/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33532/</guid>
-            <pubDate>Tue, 23 May 2023 11:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[1. 전기요금이 줄줄이 인상되면서 산업용 전기를 많이 쓰는 국내 제조업체도 대책 마련에 비상이 걸렸음. 기업들이 선제적으로 절전 대책을 마련하지 않으면 전기료 인상에 따른 비용 부담이 경영 실적 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305240140291030239.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 22일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33531/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33531/</guid>
-            <pubDate>Sun, 21 May 2023 22:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 대통령, 조 바이든 미국 대통령, 기시다 후미오 일본 총리가 ‘한미일 3국 간 새로운 수준의 공조’에 합의함. 21일 대통령실과 백악관 등에 따르면 한미일 3국 정상은 이날 주요 7개국(G7) ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/news-p.v1.20230521.57302442807d4ef298781649a3a13eeb.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 20일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33530/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33530/</guid>
-            <pubDate>Fri, 19 May 2023 22:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[1. G7는 중국의 경제보복에 대응하는 협의체를 신설하는 등 중국에 대한 전례없는 수준의 공동대응에 나서기로 함. 젤렌스키 우크라이나 대통령 참석이 알려지면서 추가 러시아 제재조치 내놓을 가능성...]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305190552191462563.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 19일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33528/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33528/</guid>
-            <pubDate>Thu, 18 May 2023 22:06:02 GMT</pubDate>
-            <content:encoded><![CDATA[1.오늘(19일)부터 사흘간 일본 히로시마에서 열리는 주요 7개국(G7) 정상회의는 미국이 구상하는 세계경제의 신(新)질서 방향을 재확인하는 계기가 될 전망. 이번 회의에는 한국을 비롯해 호주, 인도, ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305180559331131146.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 18일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33526/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33526/</guid>
-            <pubDate>Wed, 17 May 2023 22:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[1. 한국이 앞으로 성장률을 연 1%포인트 올리려면 이민자를 4배 이상 받아야 한다는 조사 결과가 나옴. 매일경제와 한국경제연구원의 공동 분석 결과 현재 4.5%인 외국인 비중을 20년 후인 2042년까지 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305170548181895583.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 17일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33522/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33522/</guid>
-            <pubDate>Tue, 16 May 2023 22:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 정부가 ‘탈원전’ 폐기를 약속하고 출범한 지 1년이 지났지만 주무부처인 산업부와 환경부 산하 공공기관 53곳 중 윤 정부에서 임명된 기관장은 현재 10명(18%)에 불과함. 기관장이 공석인 5..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305160557171870185.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월 16일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33512/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33512/</guid>
-            <pubDate>Mon, 15 May 2023 22:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[1.생성형 인공지능(AI) 생태계 경쟁에 글로벌 빅테크들이 앞다퉈 뛰어들면서 핵심 하드웨어인 AI 반도체에 대한 종속 우려가 커지고 있어. 현재로선 그래픽처리장치(GPU) 최고 강자인 엔비디아가 시장을..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305150610481754922.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 15일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33496/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33496/</guid>
-            <pubDate>Sun, 14 May 2023 22:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[1. 주식투자에 나서는 개인 투자자들이 늘면서 덩달아 독버섯처럼 퍼지는 증권사기 피해가 급증하고 있음. 14일 한국소비자원이 황운하 의원(더불어민주당)에게 제출한 자료에 따르면 주식 리딩방 피해 관..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/20230515_5451738_1684055812.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 13일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33495/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33495/</guid>
-            <pubDate>Fri, 12 May 2023 22:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[1. 한국전력이 올해 1분기에만 6조원대 영업손실을 냈다고 12일 발표함. 전기를 팔수록 손해를 보는 ‘역마진 구조‘가 고착화된 영향이 컸음. 잇따른 대규모 적자에 전기요금 인상이 불가피해지자 같은..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305120550201579546.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월 12일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33492/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33492/</guid>
-            <pubDate>Thu, 11 May 2023 22:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[1. 윤석열 대통령이 “3년 4개월 만에 국민들께서 일상을 되찾으시게 돼서 기쁘게 생각한다”며 코로나19 팬데믹의 사실상 종식을 선언. 윤 대통령은 11일 코로나19 중앙재난안전대책본부 회의를 직접 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305110601081783440.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식(매-세-지, 5월 11일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33489/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33489/</guid>
-            <pubDate>Wed, 10 May 2023 23:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[1. 급격한 인구절벽과 대기업·중소기업, 수도권·지방 등 인력 미스매치로 한국에 일할 사람이 사라지고 있음. 세계 최저 수준의 출산율로 2050년이면 한국 인구는 현재 5100만명에서 4700만명으로 뚝 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305100605241071253.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[매경이 전하는 세상의 지식 (매-세-지, 5월 10일) (매경프리미엄 ─ 기획연재 ─ 매경이 전하는 세상의 지식)]]></title>
-            <link>https://www.mk.co.kr/premium/life/view/2023/05/33486/</link>
-            <guid>https://www.mk.co.kr/premium/life/view/2023/05/33486/</guid>
-            <pubDate>Tue, 09 May 2023 22:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[1. 취임 1주년을 앞둔 윤석열 대통령은 9일 국무회의 자리서 “건물과 제도를 무너뜨리는 데는 시간이 걸리지 않는다. 순간이다. 그러나 무너진 것을 다시 세우는 데는 엄청난 시간과 노력이 든다”며 ..]]></content:encoded>
-            <enclosure url="https://file.mk.co.kr/mkde/N0/2023/05/202305090558101362932.jpg.thumb" length="0" type="image/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[undefined (부딩)]]></title>
-            <link>https://factcheckr.github.io/finance/all.xml</link>
-            <guid>https://factcheckr.github.io/finance/all.xml</guid>
-            <pubDate>Thu, 29 Jun 2023 04:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div style="float:left"><div data-hook="item-wrapper" class="gallery-item-wrapper visible cube-type-fill" id="item-wrapper-db0712e4-9511-4cb7-8e58-3654fea42f32" style="background-color:none;height:340.5px;width:454px;margin:-1px"><div class="gallery-item-content item-content-regular image-item gallery-item-visible gallery-item gallery-item-preloaded   " data-hook="image-item" style="width:454px;height:340.5px;margin-top:0;margin-left:0"><img alt="전세대출은 만악의 근원일까?" class="gallery-item-visible gallery-item gallery-item-preloaded" data-hook="gallery-item-image-img" data-idx="0" src="https://static.wixstatic.com/media/6cb3fa_70b441449fe246fa847633be438d7bb4~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/6cb3fa_70b441449fe246fa847633be438d7bb4~mv2.png" loading="eager" style="width:454px;height:340.5px"></div></div></div><div class="gallery-item-common-info-outer " style="height:340.5px;float:right"><div style="overflow:hidden;box-sizing:border-box;height:100%;width:486px" class="gallery-item-common-info gallery-item-right-info"><article class="RiOfiW pu51Xe TBrkhx p8Uk20 blog-post-description-font blog-text-color blog-card-background-color blog-card-border-color post-list-item blog-post-homepage-hover-container blog-post-homepage-border-color blog-post-homepage-post-container blog-post-homepage-background-color _UH27m" style="border-width:0;--wix-blog-inline-padding:36px" data-hook="post-list-item"><div style="padding-left:36px;padding-right:36px" class="iSTCpN TBrkhx p8Uk20 post-list-item-wrapper blog-post-homepage-description-font blog-post-homepage-description-color blog-post-homepage-description-fill"><div class="SbjQym YD6Z1G blog-post-metadata-font post-header blog-post-description-font blog-post-homepage-description-font Bt5sQV TjmPXo" style="font-size:12px"><div class="V_aJB6 CH7asw dXvq5u"><div class="H_gEjP"><span style="pointer-events:none"><div class="lBv2XN blog-text-color blog-link-hover-color avatar blog-post-text-color"><span class="ERF5R1 avatar-image"><wow-image class="VqZCHB lR3yj5 fluid-avatar-image" data-image-info="{&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:64,&quot;targetHeight&quot;:64,&quot;imageData&quot;:{&quot;width&quot;:64,&quot;height&quot;:64,&quot;uri&quot;:&quot;6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg&quot;,&quot;name&quot;:&quot;&quot;,&quot;displayMode&quot;:&quot;fill&quot;}}" data-bg-effect-name="" data-has-ssr-src="" style="--wix-img-max-width:max(64px, 100%)" data-src="https://static.wixstatic.com/media/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg/v1/fill/w_32,h_32,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg"><img alt="작성자 사진" style="width: 32px; height: 32px; object-fit: cover;" fetchpriority="high" src="https://static.wixstatic.com/media/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg/v1/fill/w_32,h_32,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg"></wow-image></span></div></span></div><div class="dZs5e3 htMcyB"><span style="pointer-events:none" class="taLqKM"><span title="BOODING" class="tQ0Q1A user-name mJ89ha blog-post-homepage-description-color blog-post-homepage-description-font blog-post-homepage-link-hashtag-hover-color" data-hook="user-name">BOODING</span><div aria-label="운영자" data-hook="badge" class="s3LKPq"><svg xmlns="http://www.w3.org/2000/svg" width="19" viewBox="0 0 19 19" style="fill-rule:evenodd" class="blog-post-homepage-description-fill"><path d="M15.3812,6.495914 L12.6789333,8.77258837 C12.6191333,8.84477644 12.5099333,8.85722265 12.4354,8.79997005 C12.4215333,8.79001308 12.4094,8.77756686 12.3998667,8.76429089 L9.78686667,6.14327115 C9.67766667,5.99225704 9.46186667,5.95491839 9.305,6.05863687 C9.26946667,6.08186981 9.23913333,6.11091099 9.21573333,6.14493065 L6.60013333,8.81075677 C6.5464,8.88626383 6.43893333,8.90534803 6.3592,8.85390366 C6.34446667,8.84394669 6.33146667,8.83233022 6.32106667,8.81905425 L3.61966667,6.50587098 C3.5018,6.36149485 3.28426667,6.33577266 3.13346667,6.44861837 C3.0494,6.51167921 3,6.60792997 3,6.70998895 L4,14 L15,14 L16,6.70169148 C16,6.51831719 15.8448667,6.36979232 15.6533333,6.36979232 C15.5476,6.36979232 15.4470667,6.41625821 15.3812,6.495914 Z"></path></svg></div></span><ul class="xUuoH9 blog-post-homepage-description-font blog-post-homepage-description-color MBUSKJ"><li class="UZa2Xr"><span title="13분 전" class="post-metadata__date time-ago" data-hook="time-ago">2일 전</span></li><li class="UZa2Xr"><div class="Ki_0_s rmqd9q blog-post-homepage-description-background-color"></div></li><li class="UZa2Xr"><span class="post-metadata__readTime" i18n="[object Object]" title="4분" data-hook="time-to-read">4분</span></li></ul></div></div><div class="Z0hXe1 bhsfaV"><div class="GygROR YD6Z1G blog-more-icon-fill"><div class="_EA3Ke more-button"><button type="button" class="Bvf4SR" tabindex="0" aria-pressed="false" aria-label="More actions" id="more-button-db0712e4-9511-4cb7-8e58-3654fea42f32" data-hook="more-button"><svg xmlns="http://www.w3.org/2000/svg" width="19" viewBox="0 0 19 19" role="img" class="blog-post-homepage-description-fill blog-post-homepage-link-hashtag-hover-fill"><path d="M2.44398805,5.99973295 C1.62345525,5.9690612 0.980075653,5.28418875 1.00047182,4.46312144 C1.02086799,3.64205413 1.69745853,2.98998831 2.51850166,3.0001164 C3.33954478,3.01024449 3.99985313,3.67880182 4,4.50012255 C3.98424812,5.34399206 3.28763905,6.0153508 2.44398805,5.99973295 L2.44398805,5.99973295 Z M2.44398805,10.9997329 C1.62345525,10.9690612 0.980075653,10.2841888 1.00047182,9.46312144 C1.02086799,8.64205413 1.69745853,7.98998831 2.51850166,8.0001164 C3.33954478,8.01024449 3.99985313,8.67880182 4,9.50012255 C3.98424812,10.3439921 3.28763905,11.0153508 2.44398805,10.9997329 L2.44398805,10.9997329 Z M2.44398805,15.9997329 C1.62345525,15.9690612 0.980075653,15.2841888 1.00047182,14.4631214 C1.02086799,13.6420541 1.69745853,12.9899883 2.51850166,13.0001164 C3.33954478,13.0102445 3.99985313,13.6788018 4,14.5001225 C3.98424812,15.3439921 3.28763905,16.0153508 2.44398805,15.9997329 L2.44398805,15.9997329 Z"></path></svg></button></div></div></div></div><div class="JMCi2v blog-post-homepage-link-hashtag-hover-color so9KdE TBrkhx"><a href="https://www.booding.co/post/전세대출은-만악의-근원일까" class="O16KGI pu51Xe TBrkhx mqysW5 has-custom-focus i6wKmL"><div style="font-size:28px" class="FbwBsX blog-post-title-font TBrkhx p8Uk20 mqysW5 HhgCcE" data-hook="post-list-item__title"><div class="T5UMT5 WD_8WI post-title blog-hover-container-element-color blog-post-homepage-title-color blog-post-homepage-title-font" style="font-size:28px" data-hook="post-title"><p class="bD0vt9 KNiaIk" style="-webkit-line-clamp:3;width:calc(100% - 36)">전세대출은 만악의 근원일까?</p></div></div></a><div class="CHRJex JMCi2v pu51Xe TBrkhx mqysW5"><div style="font-size:16px" class="nebVix TBrkhx p8Uk20 blog-post-description-style-font blog-post-homepage-description-style-font mABNle HhgCcE" data-hook="post-description"><div class="wR7PET"><div class="BOlnTh" style="-webkit-line-clamp:3">전세대출은 만악의 근원일까?</div></div></div></div></div></div></article></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (부딩)]]></title>
-            <link>https://factcheckr.github.io/finance/all.xml</link>
-            <guid>https://factcheckr.github.io/finance/all.xml</guid>
-            <pubDate>Thu, 29 Jun 2023 04:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div style="float:left"><div data-hook="item-wrapper" class="gallery-item-wrapper visible cube-type-fill" id="item-wrapper-cbedeb94-dd6d-4245-bb84-08331558834f" style="background-color:none;height:340.5px;width:454px;margin:-1px"><div class="gallery-item-content item-content-regular image-item gallery-item-visible gallery-item gallery-item-preloaded   " data-hook="image-item" style="width:454px;height:340.5px;margin-top:0;margin-left:0"><img alt="집값의 발목을 잡는 세 가지" class="gallery-item-visible gallery-item gallery-item-preloaded" data-hook="gallery-item-image-img" data-idx="1" src="https://static.wixstatic.com/media/6cb3fa_b889c50d1a69407faa17c3ea4b20faaf~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/6cb3fa_b889c50d1a69407faa17c3ea4b20faaf~mv2.png" loading="eager" style="width:454px;height:340.5px"></div></div></div><div class="gallery-item-common-info-outer " style="height:340.5px;float:right"><div style="overflow:hidden;box-sizing:border-box;height:100%;width:486px" class="gallery-item-common-info gallery-item-right-info"><article class="RiOfiW pu51Xe TBrkhx p8Uk20 blog-post-description-font blog-text-color blog-card-background-color blog-card-border-color post-list-item blog-post-homepage-hover-container blog-post-homepage-border-color blog-post-homepage-post-container blog-post-homepage-background-color _UH27m" style="border-width:0;--wix-blog-inline-padding:36px" data-hook="post-list-item"><div style="padding-left:36px;padding-right:36px" class="iSTCpN TBrkhx p8Uk20 post-list-item-wrapper blog-post-homepage-description-font blog-post-homepage-description-color blog-post-homepage-description-fill"><div class="SbjQym YD6Z1G blog-post-metadata-font post-header blog-post-description-font blog-post-homepage-description-font Bt5sQV TjmPXo" style="font-size:12px"><div class="V_aJB6 CH7asw dXvq5u"><div class="H_gEjP"><span style="pointer-events:none"><div class="lBv2XN blog-text-color blog-link-hover-color avatar blog-post-text-color"><span class="ERF5R1 avatar-image"><wow-image class="VqZCHB lR3yj5 fluid-avatar-image" data-image-info="{&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:64,&quot;targetHeight&quot;:64,&quot;imageData&quot;:{&quot;width&quot;:64,&quot;height&quot;:64,&quot;uri&quot;:&quot;6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg&quot;,&quot;name&quot;:&quot;&quot;,&quot;displayMode&quot;:&quot;fill&quot;}}" data-bg-effect-name="" data-has-ssr-src="" style="--wix-img-max-width:max(64px, 100%)" data-src="https://static.wixstatic.com/media/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg/v1/fill/w_32,h_32,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg"><img alt="작성자 사진" style="width: 32px; height: 32px; object-fit: cover;" fetchpriority="high" src="https://static.wixstatic.com/media/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg/v1/fill/w_32,h_32,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg"></wow-image></span></div></span></div><div class="dZs5e3 htMcyB"><span style="pointer-events:none" class="taLqKM"><span title="BOODING" class="tQ0Q1A user-name mJ89ha blog-post-homepage-description-color blog-post-homepage-description-font blog-post-homepage-link-hashtag-hover-color" data-hook="user-name">BOODING</span><div aria-label="운영자" data-hook="badge" class="s3LKPq"><svg xmlns="http://www.w3.org/2000/svg" width="19" viewBox="0 0 19 19" style="fill-rule:evenodd" class="blog-post-homepage-description-fill"><path d="M15.3812,6.495914 L12.6789333,8.77258837 C12.6191333,8.84477644 12.5099333,8.85722265 12.4354,8.79997005 C12.4215333,8.79001308 12.4094,8.77756686 12.3998667,8.76429089 L9.78686667,6.14327115 C9.67766667,5.99225704 9.46186667,5.95491839 9.305,6.05863687 C9.26946667,6.08186981 9.23913333,6.11091099 9.21573333,6.14493065 L6.60013333,8.81075677 C6.5464,8.88626383 6.43893333,8.90534803 6.3592,8.85390366 C6.34446667,8.84394669 6.33146667,8.83233022 6.32106667,8.81905425 L3.61966667,6.50587098 C3.5018,6.36149485 3.28426667,6.33577266 3.13346667,6.44861837 C3.0494,6.51167921 3,6.60792997 3,6.70998895 L4,14 L15,14 L16,6.70169148 C16,6.51831719 15.8448667,6.36979232 15.6533333,6.36979232 C15.5476,6.36979232 15.4470667,6.41625821 15.3812,6.495914 Z"></path></svg></div></span><ul class="xUuoH9 blog-post-homepage-description-font blog-post-homepage-description-color MBUSKJ"><li class="UZa2Xr"><span title="4일 전" class="post-metadata__date time-ago" data-hook="time-ago">6일 전</span></li><li class="UZa2Xr"><div class="Ki_0_s rmqd9q blog-post-homepage-description-background-color"></div></li><li class="UZa2Xr"><span class="post-metadata__readTime" i18n="[object Object]" title="5분" data-hook="time-to-read">5분</span></li></ul></div></div><div class="Z0hXe1 bhsfaV"><div class="GygROR YD6Z1G blog-more-icon-fill"><div class="_EA3Ke more-button"><button type="button" class="Bvf4SR" tabindex="0" aria-pressed="false" aria-label="More actions" id="more-button-cbedeb94-dd6d-4245-bb84-08331558834f" data-hook="more-button"><svg xmlns="http://www.w3.org/2000/svg" width="19" viewBox="0 0 19 19" role="img" class="blog-post-homepage-description-fill blog-post-homepage-link-hashtag-hover-fill"><path d="M2.44398805,5.99973295 C1.62345525,5.9690612 0.980075653,5.28418875 1.00047182,4.46312144 C1.02086799,3.64205413 1.69745853,2.98998831 2.51850166,3.0001164 C3.33954478,3.01024449 3.99985313,3.67880182 4,4.50012255 C3.98424812,5.34399206 3.28763905,6.0153508 2.44398805,5.99973295 L2.44398805,5.99973295 Z M2.44398805,10.9997329 C1.62345525,10.9690612 0.980075653,10.2841888 1.00047182,9.46312144 C1.02086799,8.64205413 1.69745853,7.98998831 2.51850166,8.0001164 C3.33954478,8.01024449 3.99985313,8.67880182 4,9.50012255 C3.98424812,10.3439921 3.28763905,11.0153508 2.44398805,10.9997329 L2.44398805,10.9997329 Z M2.44398805,15.9997329 C1.62345525,15.9690612 0.980075653,15.2841888 1.00047182,14.4631214 C1.02086799,13.6420541 1.69745853,12.9899883 2.51850166,13.0001164 C3.33954478,13.0102445 3.99985313,13.6788018 4,14.5001225 C3.98424812,15.3439921 3.28763905,16.0153508 2.44398805,15.9997329 L2.44398805,15.9997329 Z"></path></svg></button></div></div></div></div><div class="JMCi2v blog-post-homepage-link-hashtag-hover-color so9KdE TBrkhx"><a href="https://www.booding.co/post/집값의-발목을-잡는-세-가지" class="O16KGI pu51Xe TBrkhx mqysW5 has-custom-focus i6wKmL"><div style="font-size:28px" class="FbwBsX blog-post-title-font TBrkhx p8Uk20 mqysW5 HhgCcE" data-hook="post-list-item__title"><div class="T5UMT5 WD_8WI post-title blog-hover-container-element-color blog-post-homepage-title-color blog-post-homepage-title-font" style="font-size:28px" data-hook="post-title"><p class="bD0vt9 KNiaIk" style="-webkit-line-clamp:3;width:calc(100% - 36)">집값의 발목을 잡는 세 가지</p></div></div></a><div class="CHRJex JMCi2v pu51Xe TBrkhx mqysW5"><div style="font-size:16px" class="nebVix TBrkhx p8Uk20 blog-post-description-style-font blog-post-homepage-description-style-font mABNle HhgCcE" data-hook="post-description"><div class="wR7PET"><div class="BOlnTh" style="-webkit-line-clamp:3">집값의 발목을 잡는 세 가지</div></div></div></div></div></div></article></div></div>]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+						<!--						-->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (부딩)]]></title>
+        <id>https://factcheckr.github.io/finance/all.xml</id>
+        <link href="https://factcheckr.github.io/finance/all.xml"/>
+        <updated>2023-06-29T09:09:55.525Z</updated>
+        <content type="html"><![CDATA[<div style="float:left"><div data-hook="item-wrapper" class="gallery-item-wrapper visible cube-type-fill" id="item-wrapper-db0712e4-9511-4cb7-8e58-3654fea42f32" style="background-color:none;height:340.5px;width:454px;margin:-1px"><div class="gallery-item-content item-content-regular image-item gallery-item-visible gallery-item gallery-item-preloaded   " data-hook="image-item" style="width:454px;height:340.5px;margin-top:0;margin-left:0"><img alt="전세대출은 만악의 근원일까?" class="gallery-item-visible gallery-item gallery-item-preloaded" data-hook="gallery-item-image-img" data-idx="0" src="https://static.wixstatic.com/media/6cb3fa_70b441449fe246fa847633be438d7bb4~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/6cb3fa_70b441449fe246fa847633be438d7bb4~mv2.png" loading="eager" style="width:454px;height:340.5px"></div></div></div><div class="gallery-item-common-info-outer " style="height:340.5px;float:right"><div style="overflow:hidden;box-sizing:border-box;height:100%;width:486px" class="gallery-item-common-info gallery-item-right-info"><article class="RiOfiW pu51Xe TBrkhx p8Uk20 blog-post-description-font blog-text-color blog-card-background-color blog-card-border-color post-list-item blog-post-homepage-hover-container blog-post-homepage-border-color blog-post-homepage-post-container blog-post-homepage-background-color _UH27m" style="border-width:0;--wix-blog-inline-padding:36px" data-hook="post-list-item"><div style="padding-left:36px;padding-right:36px" class="iSTCpN TBrkhx p8Uk20 post-list-item-wrapper blog-post-homepage-description-font blog-post-homepage-description-color blog-post-homepage-description-fill"><div class="SbjQym YD6Z1G blog-post-metadata-font post-header blog-post-description-font blog-post-homepage-description-font Bt5sQV TjmPXo" style="font-size:12px"><div class="V_aJB6 CH7asw dXvq5u"><div class="H_gEjP"><span style="pointer-events:none"><div class="lBv2XN blog-text-color blog-link-hover-color avatar blog-post-text-color"><span class="ERF5R1 avatar-image"><wow-image class="VqZCHB lR3yj5 fluid-avatar-image" data-image-info="{&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:64,&quot;targetHeight&quot;:64,&quot;imageData&quot;:{&quot;width&quot;:64,&quot;height&quot;:64,&quot;uri&quot;:&quot;6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg&quot;,&quot;name&quot;:&quot;&quot;,&quot;displayMode&quot;:&quot;fill&quot;}}" data-bg-effect-name="" data-has-ssr-src="" style="--wix-img-max-width:max(64px, 100%)" data-src="https://static.wixstatic.com/media/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg/v1/fill/w_32,h_32,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg"><img alt="작성자 사진" style="width: 32px; height: 32px; object-fit: cover;" fetchpriority="high" src="https://static.wixstatic.com/media/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg/v1/fill/w_32,h_32,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg"></wow-image></span></div></span></div><div class="dZs5e3 htMcyB"><span style="pointer-events:none" class="taLqKM"><span title="BOODING" class="tQ0Q1A user-name mJ89ha blog-post-homepage-description-color blog-post-homepage-description-font blog-post-homepage-link-hashtag-hover-color" data-hook="user-name">BOODING</span><div aria-label="운영자" data-hook="badge" class="s3LKPq"><svg xmlns="http://www.w3.org/2000/svg" width="19" viewBox="0 0 19 19" style="fill-rule:evenodd" class="blog-post-homepage-description-fill"><path d="M15.3812,6.495914 L12.6789333,8.77258837 C12.6191333,8.84477644 12.5099333,8.85722265 12.4354,8.79997005 C12.4215333,8.79001308 12.4094,8.77756686 12.3998667,8.76429089 L9.78686667,6.14327115 C9.67766667,5.99225704 9.46186667,5.95491839 9.305,6.05863687 C9.26946667,6.08186981 9.23913333,6.11091099 9.21573333,6.14493065 L6.60013333,8.81075677 C6.5464,8.88626383 6.43893333,8.90534803 6.3592,8.85390366 C6.34446667,8.84394669 6.33146667,8.83233022 6.32106667,8.81905425 L3.61966667,6.50587098 C3.5018,6.36149485 3.28426667,6.33577266 3.13346667,6.44861837 C3.0494,6.51167921 3,6.60792997 3,6.70998895 L4,14 L15,14 L16,6.70169148 C16,6.51831719 15.8448667,6.36979232 15.6533333,6.36979232 C15.5476,6.36979232 15.4470667,6.41625821 15.3812,6.495914 Z"></path></svg></div></span><ul class="xUuoH9 blog-post-homepage-description-font blog-post-homepage-description-color MBUSKJ"><li class="UZa2Xr"><span title="2시간 전" class="post-metadata__date time-ago" data-hook="time-ago">2일 전</span></li><li class="UZa2Xr"><div class="Ki_0_s rmqd9q blog-post-homepage-description-background-color"></div></li><li class="UZa2Xr"><span class="post-metadata__readTime" i18n="[object Object]" title="4분" data-hook="time-to-read">4분</span></li></ul></div></div><div class="Z0hXe1 bhsfaV"><div class="GygROR YD6Z1G blog-more-icon-fill"><div class="_EA3Ke more-button"><button type="button" class="Bvf4SR" tabindex="0" aria-pressed="false" aria-label="More actions" id="more-button-db0712e4-9511-4cb7-8e58-3654fea42f32" data-hook="more-button"><svg xmlns="http://www.w3.org/2000/svg" width="19" viewBox="0 0 19 19" role="img" class="blog-post-homepage-description-fill blog-post-homepage-link-hashtag-hover-fill"><path d="M2.44398805,5.99973295 C1.62345525,5.9690612 0.980075653,5.28418875 1.00047182,4.46312144 C1.02086799,3.64205413 1.69745853,2.98998831 2.51850166,3.0001164 C3.33954478,3.01024449 3.99985313,3.67880182 4,4.50012255 C3.98424812,5.34399206 3.28763905,6.0153508 2.44398805,5.99973295 L2.44398805,5.99973295 Z M2.44398805,10.9997329 C1.62345525,10.9690612 0.980075653,10.2841888 1.00047182,9.46312144 C1.02086799,8.64205413 1.69745853,7.98998831 2.51850166,8.0001164 C3.33954478,8.01024449 3.99985313,8.67880182 4,9.50012255 C3.98424812,10.3439921 3.28763905,11.0153508 2.44398805,10.9997329 L2.44398805,10.9997329 Z M2.44398805,15.9997329 C1.62345525,15.9690612 0.980075653,15.2841888 1.00047182,14.4631214 C1.02086799,13.6420541 1.69745853,12.9899883 2.51850166,13.0001164 C3.33954478,13.0102445 3.99985313,13.6788018 4,14.5001225 C3.98424812,15.3439921 3.28763905,16.0153508 2.44398805,15.9997329 L2.44398805,15.9997329 Z"></path></svg></button></div></div></div></div><div class="JMCi2v blog-post-homepage-link-hashtag-hover-color so9KdE TBrkhx"><a href="https://www.booding.co/post/전세대출은-만악의-근원일까" class="O16KGI pu51Xe TBrkhx mqysW5 has-custom-focus i6wKmL"><div style="font-size:28px" class="FbwBsX blog-post-title-font TBrkhx p8Uk20 mqysW5 HhgCcE" data-hook="post-list-item__title"><div class="T5UMT5 WD_8WI post-title blog-hover-container-element-color blog-post-homepage-title-color blog-post-homepage-title-font" style="font-size:28px" data-hook="post-title"><p class="bD0vt9 KNiaIk" style="-webkit-line-clamp:3;width:calc(100% - 36)">전세대출은 만악의 근원일까?</p></div></div></a><div class="CHRJex JMCi2v pu51Xe TBrkhx mqysW5"><div style="font-size:16px" class="nebVix TBrkhx p8Uk20 blog-post-description-style-font blog-post-homepage-description-style-font mABNle HhgCcE" data-hook="post-description"><div class="wR7PET"><div class="BOlnTh" style="-webkit-line-clamp:3">전세대출은 만악의 근원일까?</div></div></div></div></div></div></article></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (부딩)]]></title>
+        <id>https://factcheckr.github.io/finance/all.xml</id>
+        <link href="https://factcheckr.github.io/finance/all.xml"/>
+        <updated>2023-06-29T09:09:55.531Z</updated>
+        <content type="html"><![CDATA[<div style="float:left"><div data-hook="item-wrapper" class="gallery-item-wrapper visible cube-type-fill" id="item-wrapper-cbedeb94-dd6d-4245-bb84-08331558834f" style="background-color:none;height:340.5px;width:454px;margin:-1px"><div class="gallery-item-content item-content-regular image-item gallery-item-visible gallery-item gallery-item-preloaded   " data-hook="image-item" style="width:454px;height:340.5px;margin-top:0;margin-left:0"><img alt="집값의 발목을 잡는 세 가지" class="gallery-item-visible gallery-item gallery-item-preloaded" data-hook="gallery-item-image-img" data-idx="1" src="https://static.wixstatic.com/media/6cb3fa_b889c50d1a69407faa17c3ea4b20faaf~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/6cb3fa_b889c50d1a69407faa17c3ea4b20faaf~mv2.png" loading="eager" style="width:454px;height:340.5px"></div></div></div><div class="gallery-item-common-info-outer " style="height:340.5px;float:right"><div style="overflow:hidden;box-sizing:border-box;height:100%;width:486px" class="gallery-item-common-info gallery-item-right-info"><article class="RiOfiW pu51Xe TBrkhx p8Uk20 blog-post-description-font blog-text-color blog-card-background-color blog-card-border-color post-list-item blog-post-homepage-hover-container blog-post-homepage-border-color blog-post-homepage-post-container blog-post-homepage-background-color _UH27m" style="border-width:0;--wix-blog-inline-padding:36px" data-hook="post-list-item"><div style="padding-left:36px;padding-right:36px" class="iSTCpN TBrkhx p8Uk20 post-list-item-wrapper blog-post-homepage-description-font blog-post-homepage-description-color blog-post-homepage-description-fill"><div class="SbjQym YD6Z1G blog-post-metadata-font post-header blog-post-description-font blog-post-homepage-description-font Bt5sQV TjmPXo" style="font-size:12px"><div class="V_aJB6 CH7asw dXvq5u"><div class="H_gEjP"><span style="pointer-events:none"><div class="lBv2XN blog-text-color blog-link-hover-color avatar blog-post-text-color"><span class="ERF5R1 avatar-image"><wow-image class="VqZCHB lR3yj5 fluid-avatar-image" data-image-info="{&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:64,&quot;targetHeight&quot;:64,&quot;imageData&quot;:{&quot;width&quot;:64,&quot;height&quot;:64,&quot;uri&quot;:&quot;6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg&quot;,&quot;name&quot;:&quot;&quot;,&quot;displayMode&quot;:&quot;fill&quot;}}" data-bg-effect-name="" data-has-ssr-src="" style="--wix-img-max-width:max(64px, 100%)" data-src="https://static.wixstatic.com/media/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg/v1/fill/w_32,h_32,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg"><img alt="작성자 사진" style="width: 32px; height: 32px; object-fit: cover;" fetchpriority="high" src="https://static.wixstatic.com/media/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg/v1/fill/w_32,h_32,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6cb3fa_5492bc593b7940f592cd889837beab5e%7Emv2.jpg"></wow-image></span></div></span></div><div class="dZs5e3 htMcyB"><span style="pointer-events:none" class="taLqKM"><span title="BOODING" class="tQ0Q1A user-name mJ89ha blog-post-homepage-description-color blog-post-homepage-description-font blog-post-homepage-link-hashtag-hover-color" data-hook="user-name">BOODING</span><div aria-label="운영자" data-hook="badge" class="s3LKPq"><svg xmlns="http://www.w3.org/2000/svg" width="19" viewBox="0 0 19 19" style="fill-rule:evenodd" class="blog-post-homepage-description-fill"><path d="M15.3812,6.495914 L12.6789333,8.77258837 C12.6191333,8.84477644 12.5099333,8.85722265 12.4354,8.79997005 C12.4215333,8.79001308 12.4094,8.77756686 12.3998667,8.76429089 L9.78686667,6.14327115 C9.67766667,5.99225704 9.46186667,5.95491839 9.305,6.05863687 C9.26946667,6.08186981 9.23913333,6.11091099 9.21573333,6.14493065 L6.60013333,8.81075677 C6.5464,8.88626383 6.43893333,8.90534803 6.3592,8.85390366 C6.34446667,8.84394669 6.33146667,8.83233022 6.32106667,8.81905425 L3.61966667,6.50587098 C3.5018,6.36149485 3.28426667,6.33577266 3.13346667,6.44861837 C3.0494,6.51167921 3,6.60792997 3,6.70998895 L4,14 L15,14 L16,6.70169148 C16,6.51831719 15.8448667,6.36979232 15.6533333,6.36979232 C15.5476,6.36979232 15.4470667,6.41625821 15.3812,6.495914 Z"></path></svg></div></span><ul class="xUuoH9 blog-post-homepage-description-font blog-post-homepage-description-color MBUSKJ"><li class="UZa2Xr"><span title="4일 전" class="post-metadata__date time-ago" data-hook="time-ago">6일 전</span></li><li class="UZa2Xr"><div class="Ki_0_s rmqd9q blog-post-homepage-description-background-color"></div></li><li class="UZa2Xr"><span class="post-metadata__readTime" i18n="[object Object]" title="5분" data-hook="time-to-read">5분</span></li></ul></div></div><div class="Z0hXe1 bhsfaV"><div class="GygROR YD6Z1G blog-more-icon-fill"><div class="_EA3Ke more-button"><button type="button" class="Bvf4SR" tabindex="0" aria-pressed="false" aria-label="More actions" id="more-button-cbedeb94-dd6d-4245-bb84-08331558834f" data-hook="more-button"><svg xmlns="http://www.w3.org/2000/svg" width="19" viewBox="0 0 19 19" role="img" class="blog-post-homepage-description-fill blog-post-homepage-link-hashtag-hover-fill"><path d="M2.44398805,5.99973295 C1.62345525,5.9690612 0.980075653,5.28418875 1.00047182,4.46312144 C1.02086799,3.64205413 1.69745853,2.98998831 2.51850166,3.0001164 C3.33954478,3.01024449 3.99985313,3.67880182 4,4.50012255 C3.98424812,5.34399206 3.28763905,6.0153508 2.44398805,5.99973295 L2.44398805,5.99973295 Z M2.44398805,10.9997329 C1.62345525,10.9690612 0.980075653,10.2841888 1.00047182,9.46312144 C1.02086799,8.64205413 1.69745853,7.98998831 2.51850166,8.0001164 C3.33954478,8.01024449 3.99985313,8.67880182 4,9.50012255 C3.98424812,10.3439921 3.28763905,11.0153508 2.44398805,10.9997329 L2.44398805,10.9997329 Z M2.44398805,15.9997329 C1.62345525,15.9690612 0.980075653,15.2841888 1.00047182,14.4631214 C1.02086799,13.6420541 1.69745853,12.9899883 2.51850166,13.0001164 C3.33954478,13.0102445 3.99985313,13.6788018 4,14.5001225 C3.98424812,15.3439921 3.28763905,16.0153508 2.44398805,15.9997329 L2.44398805,15.9997329 Z"></path></svg></button></div></div></div></div><div class="JMCi2v blog-post-homepage-link-hashtag-hover-color so9KdE TBrkhx"><a href="https://www.booding.co/post/집값의-발목을-잡는-세-가지" class="O16KGI pu51Xe TBrkhx mqysW5 has-custom-focus i6wKmL"><div style="font-size:28px" class="FbwBsX blog-post-title-font TBrkhx p8Uk20 mqysW5 HhgCcE" data-hook="post-list-item__title"><div class="T5UMT5 WD_8WI post-title blog-hover-container-element-color blog-post-homepage-title-color blog-post-homepage-title-font" style="font-size:28px" data-hook="post-title"><p class="bD0vt9 KNiaIk" style="-webkit-line-clamp:3;width:calc(100% - 36)">집값의 발목을 잡는 세 가지</p></div></div></a><div class="CHRJex JMCi2v pu51Xe TBrkhx mqysW5"><div style="font-size:16px" class="nebVix TBrkhx p8Uk20 blog-post-description-style-font blog-post-homepage-description-style-font mABNle HhgCcE" data-hook="post-description"><div class="wR7PET"><div class="BOlnTh" style="-webkit-line-clamp:3">집값의 발목을 잡는 세 가지</div></div></div></div></div></div></article></div></div>]]></content>
+    </entry>
+</feed>
